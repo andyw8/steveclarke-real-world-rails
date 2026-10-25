@@ -6,7 +6,8 @@
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 3.2",
-      "rails_version": null
+      "rails_version": null,
+      "gemfile_lock": false
     }
   ]
 }

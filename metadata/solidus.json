@@ -6,49 +6,57 @@
       "type": "engine",
       "path": "admin",
       "ruby_version": ">= 3.2.0",
-      "rails_version": "> 7.2, < 8.2"
+      "rails_version": "> 7.2, < 8.2",
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "api",
       "ruby_version": ">= 3.2.0",
-      "rails_version": "> 7.2, < 8.2"
+      "rails_version": "> 7.2, < 8.2",
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "backend",
       "ruby_version": ">= 3.2.0",
-      "rails_version": "> 7.2, < 8.2"
+      "rails_version": "> 7.2, < 8.2",
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "core",
       "ruby_version": ">= 3.2.0",
-      "rails_version": "> 7.2, < 8.2"
+      "rails_version": "> 7.2, < 8.2",
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "i18n",
       "ruby_version": ">= 3.2.0",
-      "rails_version": "> 7.2, < 8.2"
+      "rails_version": "> 7.2, < 8.2",
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "legacy_promotions",
       "ruby_version": ">= 3.2.0",
-      "rails_version": "> 7.2, < 8.2"
+      "rails_version": "> 7.2, < 8.2",
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "promotions",
       "ruby_version": ">= 3.2.0",
-      "rails_version": "> 7.2, < 8.2"
+      "rails_version": "> 7.2, < 8.2",
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "sample",
       "ruby_version": ">= 3.2.0",
-      "rails_version": "> 7.2, < 8.2"
+      "rails_version": "> 7.2, < 8.2",
+      "gemfile_lock": false
     }
   ]
 }

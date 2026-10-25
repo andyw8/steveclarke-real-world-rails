@@ -6,31 +6,36 @@
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.8",
-      "rails_version": "7.2.3.2"
+      "rails_version": "7.2.3.2",
+      "gemfile_lock": true
     },
     {
       "type": "engine",
       "path": "engines/catalog",
       "ruby_version": ">= 1.0.0",
-      "rails_version": "7.2.3.2"
+      "rails_version": "7.2.3.2",
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "engines/dfc_provider",
       "ruby_version": ">= 1.0.0",
-      "rails_version": "7.2.3.2"
+      "rails_version": "7.2.3.2",
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "engines/order_management",
       "ruby_version": ">= 1.0.0",
-      "rails_version": "7.2.3.2"
+      "rails_version": "7.2.3.2",
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "engines/web",
       "ruby_version": ">= 1.0.0",
-      "rails_version": "7.2.3.2"
+      "rails_version": "7.2.3.2",
+      "gemfile_lock": false
     }
   ]
 }

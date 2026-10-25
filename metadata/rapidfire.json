@@ -6,7 +6,8 @@
       "type": "engine",
       "path": "/",
       "ruby_version": null,
-      "rails_version": "~> #{ENV["
+      "rails_version": "~> #{ENV[",
+      "gemfile_lock": false
     }
   ]
 }

@@ -6,7 +6,8 @@
       "type": "app",
       "path": "FeedBunch-app",
       "ruby_version": "2.7.2",
-      "rails_version": "6.1.4.1"
+      "rails_version": "6.1.4.1",
+      "gemfile_lock": true
     }
   ]
 }

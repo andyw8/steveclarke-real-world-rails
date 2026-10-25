@@ -6,7 +6,8 @@
       "type": "app",
       "path": "rails",
       "ruby_version": "3.4.9",
-      "rails_version": "7.1.2"
+      "rails_version": "7.1.2",
+      "gemfile_lock": true
     }
   ]
 }

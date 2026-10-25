@@ -6,31 +6,36 @@
       "type": "engine",
       "path": "core",
       "ruby_version": null,
-      "rails_version": null
+      "rails_version": null,
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "dragonfly",
       "ruby_version": null,
-      "rails_version": null
+      "rails_version": null,
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "images",
       "ruby_version": null,
-      "rails_version": null
+      "rails_version": null,
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "pages",
       "ruby_version": null,
-      "rails_version": null
+      "rails_version": null,
+      "gemfile_lock": false
     },
     {
       "type": "engine",
       "path": "resources",
       "ruby_version": null,
-      "rails_version": null
+      "rails_version": null,
+      "gemfile_lock": false
     }
   ]
 }

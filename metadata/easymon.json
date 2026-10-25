@@ -6,7 +6,8 @@
       "type": "engine",
       "path": "/",
       "ruby_version": "3.4.6",
-      "rails_version": "8.0.3"
+      "rails_version": "8.0.3",
+      "gemfile_lock": true
     }
   ]
 }

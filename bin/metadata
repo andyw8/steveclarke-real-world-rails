@@ -160,7 +160,8 @@ def content_metadata(repository, content)
     "type" => content[:type],
     "path" => content_path(repository, directory),
     "ruby_version" => ruby_version(directory, fallback),
-    "rails_version" => rails_version(directory, fallback)
+    "rails_version" => rails_version(directory, fallback),
+    "gemfile_lock" => gemfile_lock?(directory)
   }
 end
 
@@ -168,6 +169,10 @@ def content_path(repository, directory)
   return "/" if directory == repository
 
   directory.delete_prefix("#{repository}/")
+end
+
+def gemfile_lock?(directory)
+  File.file?(File.join(directory, "Gemfile.lock"))
 end
 
 def remove_stale_metadata(output_directory, name)

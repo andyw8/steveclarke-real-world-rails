@@ -1,0 +1,12 @@
+{
+  "name": "kitsu-server",
+  "path": "apps/kitsu-server",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.2.5",
+      "rails_version": "6.1.7.6"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "canvas-lms",
+  "path": "apps/canvas-lms",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "8.0.5"
+    },
+    {
+      "type": "engine",
+      "path": "gems/plugins/academic_benchmark",
+      "ruby_version": null,
+      "rails_version": ">= 3.2"
+    },
+    {
+      "type": "engine",
+      "path": "gems/plugins/account_reports",
+      "ruby_version": null,
+      "rails_version": ">= 3.2"
+    },
+    {
+      "type": "engine",
+      "path": "gems/plugins/moodle_importer",
+      "ruby_version": null,
+      "rails_version": ">= 3.2"
+    },
+    {
+      "type": "engine",
+      "path": "gems/plugins/qti_exporter",
+      "ruby_version": null,
+      "rails_version": ">= 3.2"
+    },
+    {
+      "type": "engine",
+      "path": "gems/plugins/respondus_soap_endpoint",
+      "ruby_version": null,
+      "rails_version": ">= 3.2"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "thredded",
+  "path": "engines/thredded",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.1",
+      "rails_version": ">= 7.0"
+    }
+  ]
+}

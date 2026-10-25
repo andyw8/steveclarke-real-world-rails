@@ -1,0 +1,54 @@
+{
+  "name": "spree",
+  "path": "apps/spree",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "spree/api",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    },
+    {
+      "type": "engine",
+      "path": "spree/core",
+      "ruby_version": ">= 3.2",
+      "rails_version": ">= 8.1"
+    },
+    {
+      "type": "engine",
+      "path": "spree/dashboard",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    },
+    {
+      "type": "engine",
+      "path": "spree/emails",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    },
+    {
+      "type": "engine",
+      "path": "spree/opentelemetry",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    },
+    {
+      "type": "engine",
+      "path": "spree/providers/easypost",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    },
+    {
+      "type": "engine",
+      "path": "spree/providers/meilisearch",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    },
+    {
+      "type": "engine",
+      "path": "spree/providers/stripe",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    }
+  ]
+}

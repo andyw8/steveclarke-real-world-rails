@@ -1,0 +1,12 @@
+{
+  "name": "french_toast",
+  "path": "engines/french_toast",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "~> 5.0"
+    }
+  ]
+}

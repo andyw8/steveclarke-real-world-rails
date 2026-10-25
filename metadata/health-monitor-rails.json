@@ -1,0 +1,12 @@
+{
+  "name": "health-monitor-rails",
+  "path": "engines/health-monitor-rails",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 2.5",
+      "rails_version": ">= 6.1"
+    }
+  ]
+}

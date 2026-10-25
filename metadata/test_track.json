@@ -1,0 +1,12 @@
+{
+  "name": "test_track",
+  "path": "apps/test_track",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.4.10",
+      "rails_version": "7.2.3.1"
+    }
+  ]
+}

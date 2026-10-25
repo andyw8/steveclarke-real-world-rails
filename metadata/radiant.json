@@ -1,0 +1,12 @@
+{
+  "name": "radiant",
+  "path": "apps/radiant",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "2.3.18"
+    }
+  ]
+}

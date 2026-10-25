@@ -1,0 +1,12 @@
+{
+  "name": "remit",
+  "path": "apps/remit",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "4.2.7.1"
+    }
+  ]
+}

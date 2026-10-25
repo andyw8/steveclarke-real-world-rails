@@ -1,0 +1,12 @@
+{
+  "name": "kevlar",
+  "path": "apps/kevlar",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.1.4",
+      "rails_version": "4.1.5"
+    }
+  ]
+}

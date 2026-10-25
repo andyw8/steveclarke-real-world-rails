@@ -1,0 +1,24 @@
+{
+  "name": "katello",
+  "path": "apps/katello",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.0",
+      "rails_version": null
+    },
+    {
+      "type": "engine",
+      "path": "engines/bastion",
+      "ruby_version": ">= 3.0",
+      "rails_version": null
+    },
+    {
+      "type": "engine",
+      "path": "engines/bastion_katello",
+      "ruby_version": ">= 3.0",
+      "rails_version": null
+    }
+  ]
+}

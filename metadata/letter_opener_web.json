@@ -1,0 +1,12 @@
+{
+  "name": "letter_opener_web",
+  "path": "engines/letter_opener_web",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.1",
+      "rails_version": "~> 6.1"
+    }
+  ]
+}

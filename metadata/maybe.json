@@ -1,0 +1,12 @@
+{
+  "name": "maybe",
+  "path": "apps/maybe",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.4.4",
+      "rails_version": "7.2.2.1"
+    }
+  ]
+}

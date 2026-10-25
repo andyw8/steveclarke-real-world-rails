@@ -1,0 +1,12 @@
+{
+  "name": "bike_index",
+  "path": "apps/bike_index",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "4.0.7",
+      "rails_version": "8.1.3.1"
+    }
+  ]
+}

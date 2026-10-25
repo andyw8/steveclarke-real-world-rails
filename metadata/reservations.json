@@ -1,0 +1,12 @@
+{
+  "name": "reservations",
+  "path": "apps/reservations",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.6.5",
+      "rails_version": "6.0.3.2"
+    }
+  ]
+}

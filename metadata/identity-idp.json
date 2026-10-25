@@ -1,0 +1,12 @@
+{
+  "name": "identity-idp",
+  "path": "apps/identity-idp",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.4.10",
+      "rails_version": "8.1.3.1"
+    }
+  ]
+}

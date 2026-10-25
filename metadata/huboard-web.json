@@ -1,0 +1,12 @@
+{
+  "name": "huboard-web",
+  "path": "apps/huboard-web",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.2.1",
+      "rails_version": "4.2.6"
+    }
+  ]
+}

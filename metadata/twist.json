@@ -1,0 +1,12 @@
+{
+  "name": "twist",
+  "path": "apps/twist",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.3.3",
+      "rails_version": "5.0.2"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "code_fund_ads",
+  "path": "apps/code_fund_ads",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.6.6",
+      "rails_version": "6.0.3.1"
+    }
+  ]
+}

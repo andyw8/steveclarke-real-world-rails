@@ -1,0 +1,12 @@
+{
+  "name": "obtvse2",
+  "path": "apps/obtvse2",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2",
+      "rails_version": "4.0.0"
+    }
+  ]
+}

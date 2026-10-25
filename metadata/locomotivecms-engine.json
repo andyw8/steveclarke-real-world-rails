@@ -1,0 +1,12 @@
+{
+  "name": "locomotivecms-engine",
+  "path": "apps/locomotivecms-engine",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "7.1.5.1"
+    }
+  ]
+}

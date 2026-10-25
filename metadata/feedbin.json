@@ -1,0 +1,12 @@
+{
+  "name": "feedbin",
+  "path": "apps/feedbin",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "4.0.7",
+      "rails_version": "8.1.4"
+    }
+  ]
+}

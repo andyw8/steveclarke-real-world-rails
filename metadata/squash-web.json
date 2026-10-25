@@ -1,0 +1,12 @@
+{
+  "name": "squash-web",
+  "path": "apps/squash-web",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.3.0",
+      "rails_version": "4.2.5.2"
+    }
+  ]
+}

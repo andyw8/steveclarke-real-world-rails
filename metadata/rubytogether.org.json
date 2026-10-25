@@ -1,0 +1,12 @@
+{
+  "name": "rubytogether.org",
+  "path": "apps/rubytogether.org",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.0.2",
+      "rails_version": "6.1.6"
+    }
+  ]
+}

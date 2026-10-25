@@ -1,0 +1,12 @@
+{
+  "name": "thingybase",
+  "path": "apps/thingybase",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "4.0.5",
+      "rails_version": "8.1.3"
+    }
+  ]
+}

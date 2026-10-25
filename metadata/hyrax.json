@@ -1,0 +1,12 @@
+{
+  "name": "hyrax",
+  "path": "engines/hyrax",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.2",
+      "rails_version": "> 6.1"
+    }
+  ]
+}

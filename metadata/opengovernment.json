@@ -1,0 +1,12 @@
+{
+  "name": "opengovernment",
+  "path": "apps/opengovernment",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "3.0.19"
+    }
+  ]
+}

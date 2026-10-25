@@ -1,0 +1,12 @@
+{
+  "name": "open-source-billing",
+  "path": "apps/open-source-billing",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.7.1",
+      "rails_version": "6.0.2.2"
+    }
+  ]
+}

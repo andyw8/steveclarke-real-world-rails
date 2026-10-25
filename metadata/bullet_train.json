@@ -1,0 +1,12 @@
+{
+  "name": "bullet_train",
+  "path": "apps/bullet_train",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "4.0.3",
+      "rails_version": "8.1.3.1"
+    }
+  ]
+}

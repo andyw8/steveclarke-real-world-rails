@@ -1,0 +1,12 @@
+{
+  "name": "defence-request-service-rota",
+  "path": "apps/defence-request-service-rota",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.2.2",
+      "rails_version": "4.2.2"
+    }
+  ]
+}

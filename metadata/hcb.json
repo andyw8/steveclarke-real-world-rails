@@ -1,0 +1,12 @@
+{
+  "name": "hcb",
+  "path": "apps/hcb",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.4.9",
+      "rails_version": "8.1.3.1"
+    }
+  ]
+}

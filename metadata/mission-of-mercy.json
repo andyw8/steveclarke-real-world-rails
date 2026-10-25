@@ -1,0 +1,12 @@
+{
+  "name": "mission-of-mercy",
+  "path": "apps/mission-of-mercy",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "4.1.9"
+    }
+  ]
+}

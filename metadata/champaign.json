@@ -1,0 +1,12 @@
+{
+  "name": "champaign",
+  "path": "apps/champaign",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.6.2",
+      "rails_version": "5.2.3"
+    }
+  ]
+}

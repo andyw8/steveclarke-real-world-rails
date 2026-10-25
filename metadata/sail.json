@@ -1,0 +1,12 @@
+{
+  "name": "sail",
+  "path": "engines/sail",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 2.5.0",
+      "rails_version": "6.1.5"
+    }
+  ]
+}

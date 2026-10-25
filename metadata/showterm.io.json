@@ -1,0 +1,12 @@
+{
+  "name": "showterm.io",
+  "path": "apps/showterm.io",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.2.2",
+      "rails_version": "4.1.1"
+    }
+  ]
+}

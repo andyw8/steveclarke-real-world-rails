@@ -1,0 +1,12 @@
+{
+  "name": "communityengine",
+  "path": "engines/communityengine",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "~> 4.1.0"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "dbhero",
+  "path": "engines/dbhero",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "4.2.10"
+    }
+  ]
+}

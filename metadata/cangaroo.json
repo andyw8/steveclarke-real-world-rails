@@ -1,0 +1,12 @@
+{
+  "name": "cangaroo",
+  "path": "engines/cangaroo",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 2.2.0",
+      "rails_version": ">= 4.2.4"
+    }
+  ]
+}

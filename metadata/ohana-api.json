@@ -1,0 +1,12 @@
+{
+  "name": "ohana-api",
+  "path": "apps/ohana-api",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.7.5",
+      "rails_version": "5.2.8"
+    }
+  ]
+}

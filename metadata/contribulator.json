@@ -1,0 +1,12 @@
+{
+  "name": "contribulator",
+  "path": "apps/contribulator",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.7.1",
+      "rails_version": "6.1.4.1"
+    }
+  ]
+}

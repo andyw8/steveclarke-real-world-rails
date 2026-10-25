@@ -1,0 +1,12 @@
+{
+  "name": "cuttlefish",
+  "path": "apps/cuttlefish",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.0.6",
+      "rails_version": "6.1.7.4"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "high_voltage",
+  "path": "engines/high_voltage",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.1",
+      "rails_version": "7.1.4"
+    }
+  ]
+}

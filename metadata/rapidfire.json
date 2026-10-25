@@ -1,0 +1,12 @@
+{
+  "name": "rapidfire",
+  "path": "engines/rapidfire",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "~> #{ENV["
+    }
+  ]
+}

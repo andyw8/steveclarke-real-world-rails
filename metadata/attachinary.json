@@ -1,0 +1,12 @@
+{
+  "name": "attachinary",
+  "path": "engines/attachinary",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "4.2.3"
+    }
+  ]
+}

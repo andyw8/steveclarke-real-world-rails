@@ -1,0 +1,12 @@
+{
+  "name": "ahoy_email",
+  "path": "engines/ahoy_email",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.3",
+      "rails_version": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "e-petitions",
+  "path": "apps/e-petitions",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.2.11",
+      "rails_version": "8.0.5.1"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "rucaptcha",
+  "path": "engines/rucaptcha",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.1.0",
+      "rails_version": "~> 6.0.0"
+    }
+  ]
+}

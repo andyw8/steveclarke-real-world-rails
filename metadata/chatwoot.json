@@ -1,0 +1,12 @@
+{
+  "name": "chatwoot",
+  "path": "apps/chatwoot",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.4.4",
+      "rails_version": "7.2.3.1"
+    }
+  ]
+}

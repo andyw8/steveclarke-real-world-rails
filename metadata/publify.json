@@ -1,0 +1,12 @@
+{
+  "name": "publify",
+  "path": "apps/publify",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "~> 7.2.4"
+    }
+  ]
+}

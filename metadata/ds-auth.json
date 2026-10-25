@@ -1,0 +1,12 @@
+{
+  "name": "ds-auth",
+  "path": "apps/ds-auth",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.2.3",
+      "rails_version": "4.2.2"
+    }
+  ]
+}

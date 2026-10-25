@@ -1,0 +1,12 @@
+{
+  "name": "codemontage",
+  "path": "apps/codemontage",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.1.5",
+      "rails_version": "3.2.19"
+    }
+  ]
+}

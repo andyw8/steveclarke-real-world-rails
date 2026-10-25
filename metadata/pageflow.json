@@ -1,0 +1,24 @@
+{
+  "name": "pageflow",
+  "path": "engines/pageflow",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    },
+    {
+      "type": "engine",
+      "path": "entry_types/paged",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    },
+    {
+      "type": "engine",
+      "path": "entry_types/scrolled",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    }
+  ]
+}

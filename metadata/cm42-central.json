@@ -1,0 +1,12 @@
+{
+  "name": "cm42-central",
+  "path": "apps/cm42-central",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.0.7",
+      "rails_version": "6.1.7.2"
+    }
+  ]
+}

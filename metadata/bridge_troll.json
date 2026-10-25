@@ -1,0 +1,12 @@
+{
+  "name": "bridge_troll",
+  "path": "apps/bridge_troll",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.4.4",
+      "rails_version": "8.0.3"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "talking_stick",
+  "path": "engines/talking_stick",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": ">= 4.2"
+    }
+  ]
+}

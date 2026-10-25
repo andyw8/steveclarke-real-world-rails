@@ -1,0 +1,18 @@
+{
+  "name": "fizzy",
+  "path": "apps/fizzy",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.4.8",
+      "rails_version": "8.2.0.alpha"
+    },
+    {
+      "type": "engine",
+      "path": "saas",
+      "ruby_version": "3.4.8",
+      "rails_version": ">= 8.1.0.beta1"
+    }
+  ]
+}

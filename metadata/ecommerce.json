@@ -1,0 +1,42 @@
+{
+  "name": "ecommerce",
+  "path": "apps/ecommerce",
+  "contents": [
+    {
+      "type": "app",
+      "path": "apps/crm",
+      "ruby_version": null,
+      "rails_version": "8.0.5"
+    },
+    {
+      "type": "app",
+      "path": "apps/insurance",
+      "ruby_version": null,
+      "rails_version": "8.1.3.1"
+    },
+    {
+      "type": "app",
+      "path": "apps/pricing_catalog_rails_app",
+      "ruby_version": "4.0.7",
+      "rails_version": "8.1.3.1"
+    },
+    {
+      "type": "app",
+      "path": "apps/rails_application",
+      "ruby_version": "~> 4.0.7",
+      "rails_version": "8.1.3"
+    },
+    {
+      "type": "app",
+      "path": "apps/todo_mvc",
+      "ruby_version": null,
+      "rails_version": "8.0.5"
+    },
+    {
+      "type": "app",
+      "path": "apps/twitter",
+      "ruby_version": null,
+      "rails_version": "8.1.3"
+    }
+  ]
+}

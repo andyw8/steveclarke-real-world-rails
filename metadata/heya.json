@@ -1,0 +1,12 @@
+{
+  "name": "heya",
+  "path": "engines/heya",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "8.1.4"
+    }
+  ]
+}

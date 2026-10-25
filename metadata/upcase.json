@@ -1,0 +1,12 @@
+{
+  "name": "upcase",
+  "path": "apps/upcase",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.3.6",
+      "rails_version": "7.0.8.7"
+    }
+  ]
+}

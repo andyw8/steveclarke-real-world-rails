@@ -1,0 +1,12 @@
+{
+  "name": "shopify_app",
+  "path": "engines/shopify_app",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": "3.2.2",
+      "rails_version": "7.1.6"
+    }
+  ]
+}

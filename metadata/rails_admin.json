@@ -1,0 +1,12 @@
+{
+  "name": "rails_admin",
+  "path": "engines/rails_admin",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 2.7.0",
+      "rails_version": null
+    }
+  ]
+}

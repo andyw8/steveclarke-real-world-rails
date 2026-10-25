@@ -1,0 +1,12 @@
+{
+  "name": "postgresql_lo_streamer",
+  "path": "engines/postgresql_lo_streamer",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "5.0.0.1"
+    }
+  ]
+}

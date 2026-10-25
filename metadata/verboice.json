@@ -1,0 +1,12 @@
+{
+  "name": "verboice",
+  "path": "apps/verboice",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.3.4",
+      "rails_version": "3.2.22.5"
+    }
+  ]
+}

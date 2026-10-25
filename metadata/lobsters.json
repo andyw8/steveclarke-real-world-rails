@@ -1,0 +1,12 @@
+{
+  "name": "lobsters",
+  "path": "apps/lobsters",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "4.0.0",
+      "rails_version": "8.0.5"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "daily-log",
+  "path": "apps/daily-log",
+  "contents": [
+    {
+      "type": "app",
+      "path": "rails",
+      "ruby_version": "3.4.9",
+      "rails_version": "7.1.2"
+    }
+  ]
+}

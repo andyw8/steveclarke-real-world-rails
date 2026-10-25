@@ -1,0 +1,12 @@
+{
+  "name": "spectre",
+  "path": "apps/spectre",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.7.1",
+      "rails_version": "5.0.7.2"
+    }
+  ]
+}

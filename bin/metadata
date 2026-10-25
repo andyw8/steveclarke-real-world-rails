@@ -1,0 +1,295 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+################################################################################
+# Real World Rails Metadata
+################################################################################
+#
+# OVERVIEW
+# --------
+# Collect Ruby and Rails version metadata for each app/engine and write it to
+# a JSON file in metadata/, named after the repository.
+#
+# A repository can contain multiple apps/engines. Each one is listed in the
+# "contents" array with its type, path, and versions. A content at the root of
+# the repository has a path of "/".
+#
+# USAGE
+# -----
+#   bin/metadata [root]
+#
+################################################################################
+
+require "fileutils"
+require "json"
+
+REPO_DIRECTORIES = %w[apps engines].freeze
+
+# Directories that cannot contain a repository's own apps/engines. In
+# particular, don't descend into lib/app/config so vendored gems and generated
+# engines inside an app are not treated as separate contents.
+EXCLUDED_DIRECTORIES = %w[
+  .git .bundle .yarn .pnpm-store
+  node_modules vendor tmp log coverage public storage dist build
+  spec test tests features fixtures
+  generators templates dummy sandbox
+  lib app config db docs doc examples example
+].freeze
+
+MAX_DEPTH = 5
+
+def main
+  root = File.expand_path(ARGV[0] || File.expand_path("..", __dir__))
+  output_directory = File.join(root, "metadata")
+  FileUtils.mkdir_p(output_directory)
+
+  written = 0
+  skipped = []
+
+  repositories(root).each do |repository|
+    contents = find_contents(repository)
+
+    if contents.empty?
+      remove_stale_metadata(output_directory, File.basename(repository))
+      skipped << [repository, skip_reason(repository)]
+      next
+    end
+
+    write_metadata(output_directory, repository, contents)
+    written += 1
+  end
+
+  report(written, skipped, output_directory)
+end
+
+def repositories(root)
+  REPO_DIRECTORIES.flat_map do |directory|
+    path = File.join(root, directory)
+
+    next [] unless Dir.exist?(path)
+
+    Dir.children(path)
+       .reject { |name| name.start_with?(".") }
+       .sort
+       .map { |name| File.join(path, name) }
+       .select { |repository| Dir.exist?(repository) }
+  end
+end
+
+def find_contents(repository)
+  contents = []
+  walk(repository, repository, 0, contents)
+  contents
+end
+
+def walk(repository, directory, depth, contents)
+  type = detect_type(directory)
+  contents << { type: type, directory: directory } if type
+
+  return if depth >= MAX_DEPTH
+
+  Dir.children(directory).sort.each do |entry|
+    next if entry.start_with?(".")
+    next if EXCLUDED_DIRECTORIES.include?(entry)
+
+    path = File.join(directory, entry)
+    next unless Dir.exist?(path)
+
+    walk(repository, path, depth + 1, contents)
+  end
+end
+
+def detect_type(directory)
+  application_file = File.join(directory, "config", "application.rb")
+  if File.file?(application_file) && File.read(application_file).match?(/Rails::Application/)
+    return "app"
+  end
+
+  "engine" unless engine_files(directory).empty?
+end
+
+def engine_files(directory)
+  lib = File.join(directory, "lib")
+  return [] unless Dir.exist?(lib)
+
+  standard = Dir.glob(File.join(lib, "**", "engine.rb")).select do |file|
+    parts = file.delete_prefix("#{lib}/").split(File::SEPARATOR)
+    next false if parts.any? { |part| %w[generators templates tasks].include?(part) }
+    next false if parts.include?("lib")
+
+    File.read(file).match?(/Rails::Engine/)
+  end
+
+  alternate = (
+    Dir.glob(File.join(lib, "*.rb")) +
+    Dir.glob(File.join(lib, "*", "rails.rb"))
+  ).select do |file|
+    File.read(file).match?(/^\s*class\s+\S+\s*<\s*(?:::)?Rails::Engine/)
+  end
+
+  (standard + alternate).uniq
+end
+
+def skip_reason(repository)
+  return "not initialized (empty directory)" if Dir.empty?(repository)
+  return "not initialized or not checked out" unless checked_out?(repository)
+
+  "no Rails app or engine found"
+end
+
+def checked_out?(repository)
+  Dir.children(repository).any? { |entry| entry != ".git" }
+end
+
+def write_metadata(output_directory, repository, contents)
+  name = File.basename(repository)
+  metadata = {
+    "name" => name,
+    "path" => File.join(File.basename(File.dirname(repository)), name),
+    "contents" => contents.map { |content| content_metadata(repository, content) }
+  }
+  path = File.join(output_directory, "#{name}.json")
+  File.write(path, "#{JSON.pretty_generate(metadata)}\n")
+end
+
+def content_metadata(repository, content)
+  directory = content[:directory]
+  fallback = directory == repository ? nil : repository
+
+  {
+    "type" => content[:type],
+    "path" => content_path(repository, directory),
+    "ruby_version" => ruby_version(directory, fallback),
+    "rails_version" => rails_version(directory, fallback)
+  }
+end
+
+def content_path(repository, directory)
+  return "/" if directory == repository
+
+  directory.delete_prefix("#{repository}/")
+end
+
+def remove_stale_metadata(output_directory, name)
+  path = File.join(output_directory, "#{name}.json")
+  File.delete(path) if File.file?(path)
+end
+
+def ruby_version(directory, fallback_directory = nil)
+  version = ruby_version_file(directory) ||
+    tool_versions(directory) ||
+    gemfile_ruby(directory) ||
+    gemspec_ruby(directory)
+
+  return version if version
+  return if fallback_directory.nil?
+
+  ruby_version(fallback_directory)
+end
+
+def ruby_version_file(directory)
+  path = File.join(directory, ".ruby-version")
+  return unless File.file?(path)
+
+  clean_ruby_version(File.read(path).lines.first)
+end
+
+def tool_versions(directory)
+  path = File.join(directory, ".tool-versions")
+  return unless File.file?(path)
+
+  match = File.read(path).match(/^ruby\s+(\S+)/)
+  match&.[](1)
+end
+
+def gemfile_ruby(directory)
+  path = File.join(directory, "Gemfile")
+  return unless File.file?(path)
+
+  match = File.read(path).match(/^\s*ruby\s*\(?\s*(?:file:\s*)?["']([^"']+)["']/)
+  return unless match
+
+  version = match[1]
+  if version.start_with?(".", "/")
+    referenced_file = File.expand_path(version, directory)
+    return clean_ruby_version(File.read(referenced_file).lines.first) if File.file?(referenced_file)
+  end
+
+  clean_ruby_version(version)
+end
+
+def clean_ruby_version(value)
+  value = value.to_s.strip
+  return if value.empty?
+
+  value.delete_prefix("ruby-").split("@").first
+end
+
+def gemspec_ruby(directory)
+  each_gemspec(directory, /required_ruby_version\s*=\s*["']([^"']+)["']/)
+end
+
+def rails_version(directory, fallback_directory = nil)
+  version = gemfile_lock_rails(directory) ||
+    gemfile_rails(directory) ||
+    gemspec_rails(directory)
+
+  return version if version
+  return if fallback_directory.nil?
+
+  rails_version(fallback_directory)
+end
+
+def gemfile_lock_rails(directory)
+  path = File.join(directory, "Gemfile.lock")
+  return unless File.file?(path)
+
+  versions = File.read(path).scan(/^    (rails|railties) \(([^)]+)\)/)
+  versions.find { |gem, _| gem == "rails" }&.last ||
+    versions.find { |gem, _| gem == "railties" }&.last
+end
+
+def gemfile_rails(directory)
+  path = File.join(directory, "Gemfile")
+  return unless File.file?(path)
+
+  File.read(path).each_line do |line|
+    next unless line.match?(/^\s*gem\s*\(?\s*["'](?:rails|railties)["']/)
+
+    constraints = line.scan(/["']([^"']+)["']/).flatten.drop(1).select do |value|
+      value.match?(/\A(?:\d|[~><=])/)
+    end
+    return constraints.join(", ") unless constraints.empty?
+  end
+
+  nil
+end
+
+def gemspec_rails(directory)
+  each_gemspec(
+    directory,
+    /add_(?:runtime_)?dependency\s*\(?\s*["'](?:rails|railties|activerecord|activesupport|actionpack)["']\s*,\s*["']([^"']+)["']/
+  )
+end
+
+def each_gemspec(directory, pattern)
+  Dir.glob(File.join(directory, "*.gemspec")).sort.each do |path|
+    match = File.read(path).match(pattern)
+    return match[1] if match
+  end
+
+  nil
+end
+
+def report(written, skipped, output_directory)
+  puts "Wrote #{written} metadata file#{'s' unless written == 1} to #{output_directory}"
+
+  return if skipped.empty?
+
+  puts "Skipped #{skipped.size} repositor#{skipped.size == 1 ? 'y' : 'ies'}:"
+  skipped.each do |repository, reason|
+    puts "  - #{File.basename(repository)}: #{reason}"
+  end
+end
+
+main

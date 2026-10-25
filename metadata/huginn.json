@@ -1,0 +1,12 @@
+{
+  "name": "huginn",
+  "path": "apps/huginn",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": ">=3.4.0",
+      "rails_version": "8.1.4"
+    }
+  ]
+}

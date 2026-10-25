@@ -1,0 +1,12 @@
+{
+  "name": "dashing-rails",
+  "path": "apps/dashing-rails",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": ">= 4.0"
+    }
+  ]
+}

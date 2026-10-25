@@ -1,0 +1,12 @@
+{
+  "name": "browse-everything",
+  "path": "engines/browse-everything",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": "3.1.6",
+      "rails_version": ">= 4.2"
+    }
+  ]
+}

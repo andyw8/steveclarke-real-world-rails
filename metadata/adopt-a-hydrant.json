@@ -1,0 +1,12 @@
+{
+  "name": "adopt-a-hydrant",
+  "path": "apps/adopt-a-hydrant",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.3.1",
+      "rails_version": "4.2.7.1"
+    }
+  ]
+}

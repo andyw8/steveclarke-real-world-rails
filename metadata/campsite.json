@@ -1,0 +1,12 @@
+{
+  "name": "campsite",
+  "path": "apps/campsite",
+  "contents": [
+    {
+      "type": "app",
+      "path": "api",
+      "ruby_version": "3.3.4",
+      "rails_version": "7.2.0"
+    }
+  ]
+}

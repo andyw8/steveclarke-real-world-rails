@@ -1,0 +1,12 @@
+{
+  "name": "rescue-rails",
+  "path": "apps/rescue-rails",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.3.12",
+      "rails_version": "7.2.3.2"
+    }
+  ]
+}

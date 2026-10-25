@@ -1,0 +1,12 @@
+{
+  "name": "once-campfire",
+  "path": "apps/once-campfire",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "4.0.7",
+      "rails_version": "8.2.0.alpha"
+    }
+  ]
+}

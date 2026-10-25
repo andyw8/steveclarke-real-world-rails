@@ -1,0 +1,12 @@
+{
+  "name": "chartkick",
+  "path": "engines/chartkick",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.2",
+      "rails_version": null
+    }
+  ]
+}

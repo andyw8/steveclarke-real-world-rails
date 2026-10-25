@@ -1,0 +1,12 @@
+{
+  "name": "e-manifest",
+  "path": "apps/e-manifest",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.2.3",
+      "rails_version": "4.2.5.1"
+    }
+  ]
+}

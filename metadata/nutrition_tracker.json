@@ -1,0 +1,12 @@
+{
+  "name": "nutrition_tracker",
+  "path": "apps/nutrition_tracker",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.4.2",
+      "rails_version": "8.0.2"
+    }
+  ]
+}

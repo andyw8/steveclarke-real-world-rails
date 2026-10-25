@@ -1,0 +1,12 @@
+{
+  "name": "eff-action-center-platform",
+  "path": "apps/eff-action-center-platform",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.3.5",
+      "rails_version": "7.0.8.7"
+    }
+  ]
+}

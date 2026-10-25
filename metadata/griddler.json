@@ -1,0 +1,12 @@
+{
+  "name": "griddler",
+  "path": "engines/griddler",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": "2.3.3",
+      "rails_version": "~> 4.0.0"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "rave-server",
+  "path": "apps/rave-server",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.1.5",
+      "rails_version": "4.1.8"
+    }
+  ]
+}

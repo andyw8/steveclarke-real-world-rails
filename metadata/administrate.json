@@ -1,0 +1,12 @@
+{
+  "name": "administrate",
+  "path": "engines/administrate",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": "4.0.0",
+      "rails_version": "8.1.3"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "stripe_event",
+  "path": "engines/stripe_event",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": ">= 3.1"
+    }
+  ]
+}

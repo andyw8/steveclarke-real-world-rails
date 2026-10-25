@@ -1,0 +1,12 @@
+{
+  "name": "spina",
+  "path": "apps/spina",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": "2.6.1",
+      "rails_version": "5.2.3"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bender",
+  "path": "apps/bender",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.3.1",
+      "rails_version": "7.1.3.4"
+    }
+  ]
+}

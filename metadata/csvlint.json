@@ -1,0 +1,12 @@
+{
+  "name": "csvlint",
+  "path": "apps/csvlint",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.6.9",
+      "rails_version": "4.2.11.3"
+    }
+  ]
+}

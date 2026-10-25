@@ -1,0 +1,12 @@
+{
+  "name": "ifme",
+  "path": "apps/ifme",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.3.0",
+      "rails_version": "7.0.8.7"
+    }
+  ]
+}

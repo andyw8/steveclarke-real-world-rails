@@ -1,0 +1,12 @@
+{
+  "name": "alaveteli",
+  "path": "apps/alaveteli",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "8.0.5.1"
+    }
+  ]
+}

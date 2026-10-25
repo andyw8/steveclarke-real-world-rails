@@ -1,0 +1,12 @@
+{
+  "name": "shipit-engine",
+  "path": "engines/shipit-engine",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": "3.4.9",
+      "rails_version": "8.1.2"
+    }
+  ]
+}

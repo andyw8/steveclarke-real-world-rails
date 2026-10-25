@@ -1,0 +1,12 @@
+{
+  "name": "openstreetmap-website",
+  "path": "apps/openstreetmap-website",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": null,
+      "rails_version": "8.1.4"
+    }
+  ]
+}

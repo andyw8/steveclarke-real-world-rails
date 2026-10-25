@@ -1,0 +1,12 @@
+{
+  "name": "klaxon",
+  "path": "apps/klaxon",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.4.8",
+      "rails_version": "8.1.4"
+    }
+  ]
+}

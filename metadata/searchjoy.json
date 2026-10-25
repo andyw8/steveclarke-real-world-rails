@@ -1,0 +1,12 @@
+{
+  "name": "searchjoy",
+  "path": "engines/searchjoy",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.3",
+      "rails_version": ">= 7.2"
+    }
+  ]
+}

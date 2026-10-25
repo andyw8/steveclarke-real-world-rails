@@ -1,0 +1,12 @@
+{
+  "name": "whitehall",
+  "path": "apps/whitehall",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "3.3.6",
+      "rails_version": "8.1.4"
+    }
+  ]
+}

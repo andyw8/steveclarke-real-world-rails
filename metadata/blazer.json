@@ -1,0 +1,12 @@
+{
+  "name": "blazer",
+  "path": "engines/blazer",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": ">= 3.3",
+      "rails_version": "~> 8.1.0"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "local_time",
+  "path": "engines/local_time",
+  "contents": [
+    {
+      "type": "engine",
+      "path": "/",
+      "ruby_version": "2.7.8",
+      "rails_version": "7.1.5.1"
+    }
+  ]
+}

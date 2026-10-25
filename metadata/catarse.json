@@ -1,0 +1,12 @@
+{
+  "name": "catarse",
+  "path": "apps/catarse",
+  "contents": [
+    {
+      "type": "app",
+      "path": "/",
+      "ruby_version": "2.7.1",
+      "rails_version": "4.2.11"
+    }
+  ]
+}

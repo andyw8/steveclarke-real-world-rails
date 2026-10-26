@@ -1,13 +1,16 @@
 {
   "name": "politwoops",
   "path": "apps/politwoops",
+  "url": "https://github.com/propublica/politwoops_sunlight",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.2.3",
       "rails_version": "4.2.7",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2017-11-03"
     }
   ]
 }

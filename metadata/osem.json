@@ -1,13 +1,16 @@
 {
   "name": "osem",
   "path": "apps/osem",
+  "url": "https://github.com/openSUSE/osem",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.10",
       "rails_version": "7.2.3",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-08-20"
     }
   ]
 }

@@ -1,13 +1,16 @@
 {
   "name": "alchemy_cms",
   "path": "apps/alchemy_cms",
+  "url": "https://github.com/AlchemyCMS/alchemy_cms",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": "4.0",
       "rails_version": "~> #{rails_version}.0",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-08"
     }
   ]
 }

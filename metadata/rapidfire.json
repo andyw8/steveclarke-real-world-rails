@@ -1,13 +1,16 @@
 {
   "name": "rapidfire",
   "path": "engines/rapidfire",
+  "url": "https://github.com/codemancers/rapidfire",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": "~> #{ENV[",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2024-12-22"
     }
   ]
 }

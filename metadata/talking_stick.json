@@ -1,13 +1,16 @@
 {
   "name": "talking_stick",
   "path": "engines/talking_stick",
+  "url": "https://github.com/mojolingo/talking_stick",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": ">= 4.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2017-11-09"
     }
   ]
 }

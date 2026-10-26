@@ -1,27 +1,34 @@
 {
   "name": "pageflow",
   "path": "engines/pageflow",
+  "url": "https://github.com/codevise/pageflow",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 3.2",
       "rails_version": null,
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-08"
     },
     {
       "type": "engine",
       "path": "entry_types/paged",
       "ruby_version": ">= 3.2",
       "rails_version": null,
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-08"
     },
     {
       "type": "engine",
       "path": "entry_types/scrolled",
       "ruby_version": ">= 3.2",
       "rails_version": null,
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-08"
     }
   ]
 }

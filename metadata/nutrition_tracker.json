@@ -1,13 +1,16 @@
 {
   "name": "nutrition_tracker",
   "path": "apps/nutrition_tracker",
+  "url": "https://github.com/varun2407/nutrition_tracker",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.2",
       "rails_version": "8.0.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2025-06-12"
     }
   ]
 }

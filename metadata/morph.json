@@ -1,13 +1,16 @@
 {
   "name": "morph",
   "path": "apps/morph",
+  "url": "https://github.com/openaustralia/morph",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.0.7",
       "rails_version": "6.1.7.10",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-09-17"
     }
   ]
 }

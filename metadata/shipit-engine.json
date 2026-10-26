@@ -1,13 +1,16 @@
 {
   "name": "shipit-engine",
   "path": "engines/shipit-engine",
+  "url": "https://github.com/Shopify/shipit-engine",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": "3.4.9",
       "rails_version": "8.1.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     }
   ]
 }

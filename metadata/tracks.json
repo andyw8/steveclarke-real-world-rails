@@ -1,13 +1,16 @@
 {
   "name": "tracks",
   "path": "apps/tracks",
+  "url": "https://github.com/TracksApp/tracks",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.3",
       "rails_version": "7.2.3.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-08-03"
     }
   ]
 }

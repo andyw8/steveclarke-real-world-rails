@@ -1,13 +1,16 @@
 {
   "name": "devise_authentication_api",
   "path": "apps/devise_authentication_api",
+  "url": "https://github.com/ministryofjustice/devise_authentication_api",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": null,
       "rails_version": "4.0.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2014-10-22"
     }
   ]
 }

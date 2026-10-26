@@ -1,13 +1,16 @@
 {
   "name": "contribulator",
   "path": "apps/contribulator",
+  "url": "https://github.com/24pullrequests/contribulator",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.7.1",
       "rails_version": "6.1.4.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2021-12-11"
     }
   ]
 }

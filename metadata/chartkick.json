@@ -1,13 +1,16 @@
 {
   "name": "chartkick",
   "path": "engines/chartkick",
+  "url": "https://github.com/ankane/chartkick",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 3.2",
       "rails_version": null,
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-08-15"
     }
   ]
 }

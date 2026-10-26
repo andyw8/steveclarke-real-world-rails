@@ -1,13 +1,16 @@
 {
   "name": "alaveteli",
   "path": "apps/alaveteli",
+  "url": "https://github.com/mysociety/alaveteli",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": null,
       "rails_version": "8.0.5.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2026-10-08"
     }
   ]
 }

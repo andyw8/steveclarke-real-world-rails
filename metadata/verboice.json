@@ -1,13 +1,16 @@
 {
   "name": "verboice",
   "path": "apps/verboice",
+  "url": "https://github.com/instedd/verboice",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.3.4",
       "rails_version": "3.2.22.5",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2025-02-21"
     }
   ]
 }

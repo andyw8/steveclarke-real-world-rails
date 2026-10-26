@@ -1,13 +1,16 @@
 {
   "name": "rucaptcha",
   "path": "engines/rucaptcha",
+  "url": "https://github.com/huacnlee/rucaptcha",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 3.1.0",
       "rails_version": "~> 6.0.0",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-02-05"
     }
   ]
 }

@@ -1,13 +1,16 @@
 {
   "name": "plutus",
   "path": "engines/plutus",
+  "url": "https://github.com/mbulat/plutus",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": "3.3.2",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2025-03-24"
     }
   ]
 }

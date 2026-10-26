@@ -1,20 +1,25 @@
 {
   "name": "fizzy",
   "path": "apps/fizzy",
+  "url": "https://github.com/basecamp/fizzy",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.8",
       "rails_version": "8.2.0.alpha",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "saas",
       "ruby_version": "3.4.8",
       "rails_version": ">= 8.1.0.beta1",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     }
   ]
 }

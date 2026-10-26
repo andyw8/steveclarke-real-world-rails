@@ -1,13 +1,16 @@
 {
   "name": "classroom",
   "path": "apps/classroom",
+  "url": "https://github.com/github-education-resources/classroom",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.6.4",
       "rails_version": "5.2.3",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2020-03-12"
     }
   ]
 }

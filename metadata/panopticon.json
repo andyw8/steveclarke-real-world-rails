@@ -1,13 +1,16 @@
 {
   "name": "panopticon",
   "path": "apps/panopticon",
+  "url": "https://github.com/alphagov/panopticon",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.2.3",
       "rails_version": "4.2.7.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2017-02-16"
     }
   ]
 }

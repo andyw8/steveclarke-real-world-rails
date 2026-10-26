@@ -1,13 +1,16 @@
 {
   "name": "rubyland",
   "path": "apps/rubyland",
+  "url": "https://github.com/jrochkind/rubyland",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.3.4",
       "rails_version": "7.2.2.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2024-12-10"
     }
   ]
 }

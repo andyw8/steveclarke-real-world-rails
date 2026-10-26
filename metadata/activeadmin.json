@@ -1,13 +1,16 @@
 {
   "name": "activeadmin",
   "path": "engines/activeadmin",
+  "url": "https://github.com/activeadmin/activeadmin",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 3.3",
       "rails_version": "8.1.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     }
   ]
 }

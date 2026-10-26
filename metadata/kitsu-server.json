@@ -1,13 +1,16 @@
 {
   "name": "kitsu-server",
   "path": "apps/kitsu-server",
+  "url": "https://github.com/hummingbird-me/kitsu-server",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.2.5",
       "rails_version": "6.1.7.6",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-06-20"
     }
   ]
 }

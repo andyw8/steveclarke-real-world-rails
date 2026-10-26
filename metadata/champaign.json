@@ -1,13 +1,16 @@
 {
   "name": "champaign",
   "path": "apps/champaign",
+  "url": "https://github.com/SumOfUs/Champaign",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.6.2",
       "rails_version": "5.2.3",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2023-03-27"
     }
   ]
 }

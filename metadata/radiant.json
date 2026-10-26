@@ -1,13 +1,16 @@
 {
   "name": "radiant",
   "path": "apps/radiant",
+  "url": "https://github.com/radiant/radiant",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": "2.3.18",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2021-04-05"
     }
   ]
 }

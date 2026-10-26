@@ -1,13 +1,16 @@
 {
   "name": "cuttlefish",
   "path": "apps/cuttlefish",
+  "url": "https://github.com/mlandauer/cuttlefish",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.0.6",
       "rails_version": "6.1.7.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2024-06-27"
     }
   ]
 }

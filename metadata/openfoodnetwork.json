@@ -1,41 +1,52 @@
 {
   "name": "openfoodnetwork",
   "path": "apps/openfoodnetwork",
+  "url": "https://github.com/openfoodfoundation/openfoodnetwork",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.8",
       "rails_version": "7.2.3.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "engines/catalog",
       "ruby_version": ">= 1.0.0",
       "rails_version": "7.2.3.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "engines/dfc_provider",
       "ruby_version": ">= 1.0.0",
       "rails_version": "7.2.3.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "engines/order_management",
       "ruby_version": ">= 1.0.0",
       "rails_version": "7.2.3.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "engines/web",
       "ruby_version": ">= 1.0.0",
       "rails_version": "7.2.3.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     }
   ]
 }

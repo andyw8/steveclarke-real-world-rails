@@ -1,13 +1,16 @@
 {
   "name": "hourglass",
   "path": "apps/hourglass",
+  "url": "https://github.com/collectiveidea/hourglass",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.4.5",
       "rails_version": "4.2.8",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2018-11-12"
     }
   ]
 }

@@ -1,13 +1,16 @@
 {
   "name": "dbhero",
   "path": "engines/dbhero",
+  "url": "https://github.com/catarse/dbhero",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": "4.2.10",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2019-12-08"
     }
   ]
 }

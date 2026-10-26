@@ -1,13 +1,16 @@
 {
   "name": "heya",
   "path": "engines/heya",
+  "url": "https://github.com/honeybadger-io/heya",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": "8.1.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     }
   ]
 }

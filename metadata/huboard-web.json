@@ -1,13 +1,16 @@
 {
   "name": "huboard-web",
   "path": "apps/huboard-web",
+  "url": "https://github.com/huboard/huboard-web",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.2.1",
       "rails_version": "4.2.6",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2022-08-30"
     }
   ]
 }

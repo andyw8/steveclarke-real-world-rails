@@ -1,13 +1,16 @@
 {
   "name": "stocks-in-the-future",
   "path": "apps/stocks-in-the-future",
+  "url": "https://github.com/rubyforgood/stocks-in-the-future",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2026-10-12"
     }
   ]
 }

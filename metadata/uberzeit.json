@@ -1,13 +1,16 @@
 {
   "name": "uberzeit",
   "path": "apps/uberzeit",
+  "url": "https://github.com/ninech/uberzeit",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "1.9.3-p547",
       "rails_version": "3.2.22",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2016-06-10"
     }
   ]
 }

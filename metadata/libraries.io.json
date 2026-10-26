@@ -1,13 +1,16 @@
 {
   "name": "libraries.io",
   "path": "apps/libraries.io",
+  "url": "https://github.com/librariesio/libraries.io",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.2.6",
       "rails_version": "7.2.3.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-02"
     }
   ]
 }

@@ -1,13 +1,16 @@
 {
   "name": "e-petitions",
   "path": "apps/e-petitions",
+  "url": "https://github.com/alphagov/e-petitions",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.2.11",
       "rails_version": "8.0.5.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-10"
     }
   ]
 }

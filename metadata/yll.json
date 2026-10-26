@@ -1,13 +1,16 @@
 {
   "name": "yll",
   "path": "apps/yll",
+  "url": "https://github.com/davidesantangelo/yll",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.2",
       "rails_version": "8.0.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2025-02-25"
     }
   ]
 }

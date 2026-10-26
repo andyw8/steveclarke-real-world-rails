@@ -1,13 +1,16 @@
 {
   "name": "locomotivecms-engine",
   "path": "apps/locomotivecms-engine",
+  "url": "https://github.com/locomotivecms/engine",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": "7.1.5.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2025-08-07"
     }
   ]
 }

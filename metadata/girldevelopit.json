@@ -1,13 +1,16 @@
 {
   "name": "girldevelopit",
   "path": "apps/girldevelopit",
+  "url": "https://github.com/girldevelopit/gdi-website",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.4.1",
       "rails_version": "4.2.9",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2020-04-16"
     }
   ]
 }

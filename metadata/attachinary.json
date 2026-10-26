@@ -1,13 +1,16 @@
 {
   "name": "attachinary",
   "path": "engines/attachinary",
+  "url": "https://github.com/assembler/attachinary",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": "4.2.3",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2016-11-21"
     }
   ]
 }

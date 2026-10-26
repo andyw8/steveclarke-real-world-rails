@@ -1,13 +1,16 @@
 {
   "name": "spectre",
   "path": "apps/spectre",
+  "url": "https://github.com/wearefriday/spectre",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.7.1",
       "rails_version": "5.0.7.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2022-05-29"
     }
   ]
 }

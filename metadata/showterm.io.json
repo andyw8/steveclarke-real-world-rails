@@ -1,13 +1,16 @@
 {
   "name": "showterm.io",
   "path": "apps/showterm.io",
+  "url": "https://github.com/ConradIrwin/showterm.io",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.2.2",
       "rails_version": "4.1.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2021-03-22"
     }
   ]
 }

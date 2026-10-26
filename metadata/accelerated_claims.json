@@ -1,13 +1,16 @@
 {
   "name": "accelerated_claims",
   "path": "apps/accelerated_claims",
+  "url": "https://github.com/ministryofjustice/accelerated_claims",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.3.3",
       "rails_version": "4.2.10",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2018-05-03"
     }
   ]
 }

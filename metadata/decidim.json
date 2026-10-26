@@ -1,181 +1,232 @@
 {
   "name": "decidim",
   "path": "apps/decidim",
+  "url": "https://github.com/decidim/decidim",
   "contents": [
     {
       "type": "engine",
       "path": "decidim-accountability",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-admin",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-ai",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-api",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-assemblies",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-blogs",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-budgets",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-collaborative_texts",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-comments",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-conferences",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-core",
       "ruby_version": "~> 3.4.0",
       "rails_version": "~> 8.1.0",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-debates",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-demographics",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-design",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-dev",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-elections",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-forms",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-initiatives",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-meetings",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-pages",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-participatory_processes",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-proposals",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-surveys",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-system",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "decidim-verifications",
       "ruby_version": "~> 3.4.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     }
   ]
 }

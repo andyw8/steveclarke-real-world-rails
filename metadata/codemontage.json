@@ -1,13 +1,16 @@
 {
   "name": "codemontage",
   "path": "apps/codemontage",
+  "url": "https://github.com/CodeMontageHQ/codemontage",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.1.5",
       "rails_version": "3.2.19",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2015-10-07"
     }
   ]
 }

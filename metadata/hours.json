@@ -1,13 +1,16 @@
 {
   "name": "hours",
   "path": "apps/hours",
+  "url": "https://github.com/DefactoSoftware/Hours",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.4.2",
       "rails_version": "5.0.7.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2020-06-06"
     }
   ]
 }

@@ -1,13 +1,16 @@
 {
   "name": "speakerline",
   "path": "apps/speakerline",
+  "url": "https://github.com/nodunayo/speakerline",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.3.5",
       "rails_version": "8.0.5.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-08-03"
     }
   ]
 }

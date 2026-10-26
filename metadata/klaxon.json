@@ -1,13 +1,16 @@
 {
   "name": "klaxon",
   "path": "apps/klaxon",
+  "url": "https://github.com/themarshallproject/klaxon",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.8",
       "rails_version": "8.1.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-07"
     }
   ]
 }

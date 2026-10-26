@@ -1,13 +1,16 @@
 {
   "name": "prague-server",
   "path": "apps/prague-server",
+  "url": "https://github.com/controlshift/prague-server",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.4.2",
       "rails_version": "5.1.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2018-05-01"
     }
   ]
 }

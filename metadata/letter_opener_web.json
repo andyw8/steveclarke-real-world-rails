@@ -1,13 +1,16 @@
 {
   "name": "letter_opener_web",
   "path": "engines/letter_opener_web",
+  "url": "https://github.com/fgrehm/letter_opener_web",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 3.1",
       "rails_version": "~> 6.1",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-04-08"
     }
   ]
 }

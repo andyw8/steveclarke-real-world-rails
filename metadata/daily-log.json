@@ -1,13 +1,16 @@
 {
   "name": "daily-log",
   "path": "apps/daily-log",
+  "url": "https://github.com/joemasilotti/daily-log",
   "contents": [
     {
       "type": "app",
       "path": "rails",
       "ruby_version": "3.4.9",
       "rails_version": "7.1.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2026-09-06"
     }
   ]
 }

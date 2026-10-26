@@ -1,13 +1,16 @@
 {
   "name": "postgresql_lo_streamer",
   "path": "engines/postgresql_lo_streamer",
+  "url": "https://github.com/diogob/postgresql_lo_streamer",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": "5.0.0.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2017-09-24"
     }
   ]
 }

@@ -1,13 +1,16 @@
 {
   "name": "hyrax",
   "path": "engines/hyrax",
+  "url": "https://github.com/samvera/hyrax",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 3.2",
       "rails_version": "> 6.1",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-08"
     }
   ]
 }

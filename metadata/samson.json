@@ -1,13 +1,16 @@
 {
   "name": "samson",
   "path": "apps/samson",
+  "url": "https://github.com/zendesk/samson",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.3.8",
       "rails_version": "7.0.8.7",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-01-30"
     }
   ]
 }

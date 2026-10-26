@@ -1,13 +1,16 @@
 {
   "name": "panamax-ui",
   "path": "apps/panamax-ui",
+  "url": "https://github.com/CenturyLinkLabs/panamax-ui",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.1.2",
       "rails_version": "4.1.7",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2020-01-03"
     }
   ]
 }

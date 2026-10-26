@@ -1,13 +1,16 @@
 {
   "name": "sharetribe",
   "path": "apps/sharetribe",
+  "url": "https://github.com/sharetribe/sharetribe",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.8",
       "rails_version": "8.1.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-05-11"
     }
   ]
 }

@@ -1,104 +1,133 @@
 {
   "name": "shinycms-ruby",
   "path": "apps/shinycms-ruby",
+  "url": "https://github.com/denny/ShinyCMS-ruby",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.11",
       "rails_version": "8.1.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyAccess",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyBlog",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyCMS",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyForms",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyInserts",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyLists",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyNews",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyNewsletters",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyPages",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyProfiles",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinySEO",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinySearch",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     },
     {
       "type": "engine",
       "path": "plugins/ShinyShop",
       "ruby_version": ">= 3.4",
       "rails_version": ">= 8.0.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     }
   ]
 }

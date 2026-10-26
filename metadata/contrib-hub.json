@@ -1,13 +1,16 @@
 {
   "name": "contrib-hub",
   "path": "apps/contrib-hub",
+  "url": "https://github.com/orendon/contrib-hub",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.3.0",
       "rails_version": "4.2.5.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2016-02-07"
     }
   ]
 }

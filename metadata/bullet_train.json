@@ -1,13 +1,16 @@
 {
   "name": "bullet_train",
   "path": "apps/bullet_train",
+  "url": "https://github.com/bullet-train-co/bullet_train",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "4.0.3",
       "rails_version": "8.1.3.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2026-09-26"
     }
   ]
 }

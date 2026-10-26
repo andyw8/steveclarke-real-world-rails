@@ -1,13 +1,16 @@
 {
   "name": "jobsworth",
   "path": "apps/jobsworth",
+  "url": "https://github.com/ari/jobsworth",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "jruby-9.1.5.0",
       "rails_version": "4.2.7.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2018-05-17"
     }
   ]
 }

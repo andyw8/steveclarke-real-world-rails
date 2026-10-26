@@ -146,10 +146,29 @@ def write_metadata(output_directory, repository, contents)
   metadata = {
     "name" => name,
     "path" => File.join(File.basename(File.dirname(repository)), name),
+    "url" => repository_url(repository),
     "contents" => contents.map { |content| content_metadata(repository, content) }
   }
   path = File.join(output_directory, "#{name}.json")
   File.write(path, "#{JSON.pretty_generate(metadata)}\n")
+end
+
+def repository_url(repository)
+  return unless File.exist?(File.join(repository, ".git"))
+
+  remote = IO.popen(["git", "-C", repository, "config", "--get", "remote.origin.url"], &:read).strip
+  return if remote.empty?
+
+  normalize_remote_url(remote)
+rescue SystemCallError
+  nil
+end
+
+def normalize_remote_url(remote)
+  url = remote.delete_suffix(".git")
+  url = url.sub(/\Agit@([^:]+):/, 'https://\1/')
+  url = url.sub(%r{\Assh://(?:git@)?}, "https://")
+  url.sub(%r{\Agit://}, "https://")
 end
 
 def content_metadata(repository, content)
@@ -161,7 +180,9 @@ def content_metadata(repository, content)
     "path" => content_path(repository, directory),
     "ruby_version" => ruby_version(directory, fallback),
     "rails_version" => rails_version(directory, fallback),
-    "gemfile_lock" => gemfile_lock?(directory)
+    "gemfile_lock" => gemfile_lock?(directory),
+    "stimulus" => stimulus?(directory),
+    "last_commit" => last_commit(repository, directory)
   }
 end
 
@@ -173,6 +194,45 @@ end
 
 def gemfile_lock?(directory)
   File.file?(File.join(directory, "Gemfile.lock"))
+end
+
+def stimulus?(directory)
+  return true if Dir.exist?(File.join(directory, "app", "javascript", "stimulus"))
+  return true if Dir.exist?(File.join(directory, "app", "javascript", "controllers"))
+
+  stimulus_dependency?(directory) || stimulus_import?(directory)
+end
+
+def stimulus_dependency?(directory)
+  %w[package.json frontend/package.json app/javascript/package.json].any? do |relative|
+    path = File.join(directory, relative)
+    File.file?(path) && File.read(path).match?(/"(?:@hotwired\/stimulus|stimulus)"\s*:/)
+  end
+end
+
+def stimulus_import?(directory)
+  javascript_directories(directory).any? do |path|
+    Dir.glob(File.join(path, "**", "*.{js,ts,jsx,tsx}")).any? do |file|
+      File.read(file).match?(/@hotwired\/stimulus|from\s+["']stimulus["']/)
+    end
+  end
+end
+
+def javascript_directories(directory)
+  %w[app/javascript app/assets/javascripts frontend/src].filter_map do |relative|
+    path = File.join(directory, relative)
+    path if Dir.exist?(path)
+  end
+end
+
+def last_commit(repository, directory)
+  return unless File.exist?(File.join(repository, ".git"))
+
+  relative_path = directory == repository ? "." : directory.delete_prefix("#{repository}/")
+  date = IO.popen(["git", "-C", repository, "log", "-1", "--format=%cs", "--", relative_path], &:read).strip
+  date unless date.empty?
+rescue SystemCallError
+  nil
 end
 
 def remove_stale_metadata(output_directory, name)

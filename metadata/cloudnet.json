@@ -1,13 +1,16 @@
 {
   "name": "cloudnet",
   "path": "apps/cloudnet",
+  "url": "https://github.com/virtuozzo/cloudnet",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.2.1",
       "rails_version": "4.2.7",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2017-10-03"
     }
   ]
 }

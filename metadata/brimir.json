@@ -1,13 +1,16 @@
 {
   "name": "brimir",
   "path": "apps/brimir",
+  "url": "https://github.com/ivaldi/brimir",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": null,
       "rails_version": "5.1.6",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2018-12-22"
     }
   ]
 }

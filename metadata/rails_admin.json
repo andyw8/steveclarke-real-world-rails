@@ -1,13 +1,16 @@
 {
   "name": "rails_admin",
   "path": "engines/rails_admin",
+  "url": "https://github.com/railsadminteam/rails_admin",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 2.7.0",
       "rails_version": null,
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-05"
     }
   ]
 }

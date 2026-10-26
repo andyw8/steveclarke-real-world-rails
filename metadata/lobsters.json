@@ -1,13 +1,16 @@
 {
   "name": "lobsters",
   "path": "apps/lobsters",
+  "url": "https://github.com/jcs/lobsters",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "4.0.0",
       "rails_version": "8.0.5",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-05-20"
     }
   ]
 }

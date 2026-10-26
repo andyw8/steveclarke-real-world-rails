@@ -1,13 +1,16 @@
 {
   "name": "inch_ci-web",
   "path": "apps/inch_ci-web",
+  "url": "https://github.com/inch-ci/inch_ci-web",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.1.5",
       "rails_version": "4.1.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2018-12-28"
     }
   ]
 }

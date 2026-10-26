@@ -1,13 +1,16 @@
 {
   "name": "rapporteur",
   "path": "engines/rapporteur",
+  "url": "https://github.com/envylabs/rapporteur",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": "4.0.6",
       "rails_version": "~> 8.0, < 8.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-08-20"
     }
   ]
 }

@@ -1,13 +1,16 @@
 {
   "name": "manageiq",
   "path": "apps/manageiq",
+  "url": "https://github.com/ManageIQ/manageiq",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": ">= 3.3.1",
       "rails_version": "~>8.0.5, >=8.0.5.1",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-08"
     }
   ]
 }

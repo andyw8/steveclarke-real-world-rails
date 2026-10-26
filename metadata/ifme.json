@@ -1,13 +1,16 @@
 {
   "name": "ifme",
   "path": "apps/ifme",
+  "url": "https://github.com/ifmeorg/ifme",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.3.0",
       "rails_version": "7.0.8.7",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-09-19"
     }
   ]
 }

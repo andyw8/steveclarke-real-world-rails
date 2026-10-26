@@ -1,13 +1,16 @@
 {
   "name": "communityengine",
   "path": "engines/communityengine",
+  "url": "https://github.com/bborn/communityengine",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": "~> 4.1.0",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2016-08-09"
     }
   ]
 }

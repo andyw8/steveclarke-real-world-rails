@@ -1,13 +1,16 @@
 {
   "name": "open-source-billing",
   "path": "apps/open-source-billing",
+  "url": "https://github.com/vteams/open-source-billing",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.7.1",
       "rails_version": "6.0.2.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2025-11-24"
     }
   ]
 }

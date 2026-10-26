@@ -1,13 +1,16 @@
 {
   "name": "on_ruby",
   "path": "apps/on_ruby",
+  "url": "https://github.com/rughh/on_ruby",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "4.0.7",
       "rails_version": "7.2.3",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-04"
     }
   ]
 }

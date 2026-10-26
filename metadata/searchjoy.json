@@ -1,13 +1,16 @@
 {
   "name": "searchjoy",
   "path": "engines/searchjoy",
+  "url": "https://github.com/ankane/searchjoy",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 3.3",
       "rails_version": ">= 7.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-04-08"
     }
   ]
 }

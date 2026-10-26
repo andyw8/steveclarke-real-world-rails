@@ -1,13 +1,16 @@
 {
   "name": "chaskiq",
   "path": "apps/chaskiq",
+  "url": "https://github.com/chaskiq/chaskiq",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.3.5",
       "rails_version": "7.2.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-06-30"
     }
   ]
 }

@@ -1,13 +1,16 @@
 {
   "name": "github-awards",
   "path": "apps/github-awards",
+  "url": "https://github.com/vdaubry/github-awards",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.3.1",
       "rails_version": "4.2.7.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2018-06-09"
     }
   ]
 }

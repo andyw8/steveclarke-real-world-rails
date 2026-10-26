@@ -1,13 +1,16 @@
 {
   "name": "onebody",
   "path": "apps/onebody",
+  "url": "https://github.com/seven1m/onebody",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.5.3",
       "rails_version": "5.1.6",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2021-01-29"
     }
   ]
 }

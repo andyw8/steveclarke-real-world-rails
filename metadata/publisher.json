@@ -1,13 +1,16 @@
 {
   "name": "publisher",
   "path": "apps/publisher",
+  "url": "https://github.com/alphagov/publisher",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "4.0.6",
       "rails_version": "8.1.3.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-09"
     }
   ]
 }

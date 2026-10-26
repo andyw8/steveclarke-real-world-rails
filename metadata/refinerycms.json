@@ -1,41 +1,52 @@
 {
   "name": "refinerycms",
   "path": "apps/refinerycms",
+  "url": "https://github.com/refinery/refinerycms",
   "contents": [
     {
       "type": "engine",
       "path": "core",
       "ruby_version": null,
       "rails_version": null,
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-05-11"
     },
     {
       "type": "engine",
       "path": "dragonfly",
       "ruby_version": null,
       "rails_version": null,
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-05-11"
     },
     {
       "type": "engine",
       "path": "images",
       "ruby_version": null,
       "rails_version": null,
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-05-11"
     },
     {
       "type": "engine",
       "path": "pages",
       "ruby_version": null,
       "rails_version": null,
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-05-11"
     },
     {
       "type": "engine",
       "path": "resources",
       "ruby_version": null,
       "rails_version": null,
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-05-11"
     }
   ]
 }

@@ -1,13 +1,16 @@
 {
   "name": "ohana-api",
   "path": "apps/ohana-api",
+  "url": "https://github.com/codeforamerica/ohana-api",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.7.5",
       "rails_version": "5.2.8",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2022-05-27"
     }
   ]
 }

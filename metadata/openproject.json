@@ -1,223 +1,286 @@
 {
   "name": "openproject",
   "path": "apps/openproject",
+  "url": "https://github.com/opf/openproject",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/auth_plugins",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/auth_saml",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/avatars",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/backlogs",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/bim",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/boards",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/budgets",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/calendar",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/costs",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/documents",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/gantt",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/github_integration",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/gitlab_integration",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/grids",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/job_status",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/ldap_departments",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/ldap_groups",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/meeting",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/my_page",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/openid_connect",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/overviews",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/recaptcha",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/reporting",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/resource_management",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/storages",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/team_planner",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/two_factor_authentication",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/webhooks",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/wikis",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "modules/xls_export",
       "ruby_version": "4.0.7",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     }
   ]
 }

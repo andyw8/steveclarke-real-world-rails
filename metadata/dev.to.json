@@ -1,13 +1,16 @@
 {
   "name": "dev.to",
   "path": "apps/dev.to",
+  "url": "https://github.com/forem/forem",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.3.0",
       "rails_version": "8.0.5",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2026-10-09"
     }
   ]
 }

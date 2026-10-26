@@ -1,13 +1,16 @@
 {
   "name": "thredded",
   "path": "engines/thredded",
+  "url": "https://github.com/thredded/thredded",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 3.1",
       "rails_version": ">= 7.0",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-06-22"
     }
   ]
 }

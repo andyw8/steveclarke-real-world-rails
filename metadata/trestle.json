@@ -1,13 +1,16 @@
 {
   "name": "trestle",
   "path": "engines/trestle",
+  "url": "https://github.com/TrestleAdmin/trestle",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 2.6.0",
       "rails_version": "~> 8.0.0",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": true,
+      "last_commit": "2025-09-25"
     }
   ]
 }

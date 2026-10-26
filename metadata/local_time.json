@@ -1,13 +1,16 @@
 {
   "name": "local_time",
   "path": "engines/local_time",
+  "url": "https://github.com/basecamp/local_time",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": "2.7.8",
       "rails_version": "7.1.5.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-07-13"
     }
   ]
 }

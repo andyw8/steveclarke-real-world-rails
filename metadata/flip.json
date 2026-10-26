@@ -1,13 +1,16 @@
 {
   "name": "flip",
   "path": "engines/flip",
+  "url": "https://github.com/pda/flip",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": ">= 4.0",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2019-02-12"
     }
   ]
 }

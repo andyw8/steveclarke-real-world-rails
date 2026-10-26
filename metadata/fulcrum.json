@@ -1,13 +1,16 @@
 {
   "name": "fulcrum",
   "path": "apps/fulcrum",
+  "url": "https://github.com/fulcrum-agile/fulcrum",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.2.1",
       "rails_version": "4.1.9",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2022-07-22"
     }
   ]
 }

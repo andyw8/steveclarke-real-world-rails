@@ -1,13 +1,16 @@
 {
   "name": "pupilfirst",
   "path": "apps/pupilfirst",
+  "url": "https://github.com/pupilfirst/pupilfirst",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.2.2",
       "rails_version": "7.1.3",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2024-11-18"
     }
   ]
 }

@@ -1,13 +1,16 @@
 {
   "name": "feedbunch",
   "path": "apps/feedbunch",
+  "url": "https://github.com/amatriain/feedbunch",
   "contents": [
     {
       "type": "app",
       "path": "FeedBunch-app",
       "ruby_version": "2.7.2",
       "rails_version": "6.1.4.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2021-10-21"
     }
   ]
 }

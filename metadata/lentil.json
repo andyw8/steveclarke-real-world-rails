@@ -1,13 +1,16 @@
 {
   "name": "lentil",
   "path": "engines/lentil",
+  "url": "https://github.com/NCSU-Libraries/lentil",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 2.2.3",
       "rails_version": "4.2.7.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2018-10-05"
     }
   ]
 }

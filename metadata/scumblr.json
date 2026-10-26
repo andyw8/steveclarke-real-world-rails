@@ -1,13 +1,16 @@
 {
   "name": "scumblr",
   "path": "apps/scumblr",
+  "url": "https://github.com/Netflix-Skunkworks/Scumblr",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.3.1",
       "rails_version": "4.2.10",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2019-02-05"
     }
   ]
 }

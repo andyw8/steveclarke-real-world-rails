@@ -1,48 +1,61 @@
 {
   "name": "canvas-lms",
   "path": "apps/canvas-lms",
+  "url": "https://github.com/instructure/canvas-lms",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": null,
       "rails_version": "8.0.5",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-04-30"
     },
     {
       "type": "engine",
       "path": "gems/plugins/academic_benchmark",
       "ruby_version": null,
       "rails_version": ">= 3.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-04-30"
     },
     {
       "type": "engine",
       "path": "gems/plugins/account_reports",
       "ruby_version": null,
       "rails_version": ">= 3.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-04-30"
     },
     {
       "type": "engine",
       "path": "gems/plugins/moodle_importer",
       "ruby_version": null,
       "rails_version": ">= 3.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-04-30"
     },
     {
       "type": "engine",
       "path": "gems/plugins/qti_exporter",
       "ruby_version": null,
       "rails_version": ">= 3.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-04-30"
     },
     {
       "type": "engine",
       "path": "gems/plugins/respondus_soap_endpoint",
       "ruby_version": null,
       "rails_version": ">= 3.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-04-30"
     }
   ]
 }

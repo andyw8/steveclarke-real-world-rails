@@ -1,13 +1,16 @@
 {
   "name": "spina",
   "path": "apps/spina",
+  "url": "https://github.com/denkGroot/Spina",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": "2.6.1",
       "rails_version": "5.2.3",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2019-08-07"
     }
   ]
 }

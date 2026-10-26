@@ -1,13 +1,16 @@
 {
   "name": "eff-action-center-platform",
   "path": "apps/eff-action-center-platform",
+  "url": "https://github.com/EFForg/action-center-platform",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.3.5",
       "rails_version": "7.0.8.7",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-04-28"
     }
   ]
 }

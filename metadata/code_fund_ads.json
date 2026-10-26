@@ -1,13 +1,16 @@
 {
   "name": "code_fund_ads",
   "path": "apps/code_fund_ads",
+  "url": "https://github.com/gitcoinco/code_fund_ads",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.6.6",
       "rails_version": "6.0.3.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2020-07-01"
     }
   ]
 }

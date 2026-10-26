@@ -1,13 +1,16 @@
 {
   "name": "xrono",
   "path": "apps/xrono",
+  "url": "https://github.com/ironmtntech/xrono",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": null,
       "rails_version": "4.0.6",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2018-06-26"
     }
   ]
 }

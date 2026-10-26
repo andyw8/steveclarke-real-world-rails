@@ -1,13 +1,16 @@
 {
   "name": "publify",
   "path": "apps/publify",
+  "url": "https://github.com/publify/publify",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": null,
       "rails_version": "~> 7.2.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-04"
     }
   ]
 }

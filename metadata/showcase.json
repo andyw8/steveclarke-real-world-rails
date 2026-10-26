@@ -1,13 +1,16 @@
 {
   "name": "showcase",
   "path": "apps/showcase",
+  "url": "https://github.com/rubys/showcase",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": null,
       "rails_version": "8.1.2",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2026-09-27"
     }
   ]
 }

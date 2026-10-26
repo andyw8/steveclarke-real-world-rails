@@ -1,55 +1,70 @@
 {
   "name": "amahi-platform",
   "path": "apps/amahi-platform",
+  "url": "https://github.com/amahi/platform",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.4.3",
       "rails_version": "5.2.0",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2020-12-19"
     },
     {
       "type": "engine",
       "path": "plugins/010-users",
       "ruby_version": "2.4.3",
       "rails_version": "~> 5.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2020-12-19"
     },
     {
       "type": "engine",
       "path": "plugins/020-shares",
       "ruby_version": "2.4.3",
       "rails_version": "~> 5.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2020-12-19"
     },
     {
       "type": "engine",
       "path": "plugins/030-disks",
       "ruby_version": "2.4.3",
       "rails_version": "~> 5.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2020-12-19"
     },
     {
       "type": "engine",
       "path": "plugins/040-apps",
       "ruby_version": "2.4.3",
       "rails_version": "~> 5.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2020-12-19"
     },
     {
       "type": "engine",
       "path": "plugins/050-network",
       "ruby_version": "2.4.3",
       "rails_version": "~> 5.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2020-12-19"
     },
     {
       "type": "engine",
       "path": "plugins/080-settings",
       "ruby_version": "2.4.3",
       "rails_version": "~> 5.2",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2020-12-19"
     }
   ]
 }

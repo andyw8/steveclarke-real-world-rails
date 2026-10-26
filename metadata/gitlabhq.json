@@ -1,13 +1,16 @@
 {
   "name": "gitlabhq",
   "path": "apps/gitlabhq",
+  "url": "https://github.com/gitlabhq/gitlabhq",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.3.11",
       "rails_version": "7.2.3.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     }
   ]
 }

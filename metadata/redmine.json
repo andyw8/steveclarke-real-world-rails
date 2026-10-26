@@ -1,13 +1,16 @@
 {
   "name": "redmine",
   "path": "apps/redmine",
+  "url": "https://github.com/redmine/redmine",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": ">= 3.3.0",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": true,
+      "last_commit": "2026-10-12"
     }
   ]
 }

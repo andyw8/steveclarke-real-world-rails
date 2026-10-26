@@ -1,13 +1,16 @@
 {
   "name": "easymon",
   "path": "engines/easymon",
+  "url": "https://github.com/basecamp/easymon",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": "3.4.6",
       "rails_version": "8.0.3",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-06-15"
     }
   ]
 }

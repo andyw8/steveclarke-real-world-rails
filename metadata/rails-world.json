@@ -1,13 +1,16 @@
 {
   "name": "rails-world",
   "path": "apps/rails-world",
+  "url": "https://github.com/TelosLabs/rails-world",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.3.3",
       "rails_version": "8.0.2.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2025-09-04"
     }
   ]
 }

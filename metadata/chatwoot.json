@@ -1,13 +1,16 @@
 {
   "name": "chatwoot",
   "path": "apps/chatwoot",
+  "url": "https://github.com/chatwoot/chatwoot",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.4",
       "rails_version": "7.2.3.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     }
   ]
 }

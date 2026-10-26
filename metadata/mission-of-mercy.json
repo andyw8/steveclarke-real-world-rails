@@ -1,13 +1,16 @@
 {
   "name": "mission-of-mercy",
   "path": "apps/mission-of-mercy",
+  "url": "https://github.com/mission-of-mercy/mission-of-mercy",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": null,
       "rails_version": "4.1.9",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2019-09-17"
     }
   ]
 }

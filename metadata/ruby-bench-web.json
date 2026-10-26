@@ -1,13 +1,16 @@
 {
   "name": "ruby-bench-web",
   "path": "apps/ruby-bench-web",
+  "url": "https://github.com/ruby-bench/ruby-bench-web",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": null,
       "rails_version": "5.0.7",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2021-01-18"
     }
   ]
 }

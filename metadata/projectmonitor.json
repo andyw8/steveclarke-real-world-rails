@@ -1,13 +1,16 @@
 {
   "name": "projectmonitor",
   "path": "apps/projectmonitor",
+  "url": "https://github.com/vmware-archive/projectmonitor",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.3.1",
       "rails_version": "4.2.7",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2022-03-25"
     }
   ]
 }

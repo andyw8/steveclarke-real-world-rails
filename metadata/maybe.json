@@ -1,13 +1,16 @@
 {
   "name": "maybe",
   "path": "apps/maybe",
+  "url": "https://github.com/maybe-finance/maybe",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.4",
       "rails_version": "7.2.2.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": true,
+      "last_commit": "2025-07-24"
     }
   ]
 }

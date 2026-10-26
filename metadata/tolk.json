@@ -1,13 +1,16 @@
 {
   "name": "tolk",
   "path": "engines/tolk",
+  "url": "https://github.com/tolk/tolk",
   "contents": [
     {
       "type": "engine",
       "path": "/",
       "ruby_version": ">= 3.0.0",
       "rails_version": ">= 7.0",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2024-09-06"
     }
   ]
 }

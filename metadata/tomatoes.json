@@ -1,13 +1,16 @@
 {
   "name": "tomatoes",
   "path": "apps/tomatoes",
+  "url": "https://github.com/tomatoes-app/tomatoes",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "2.4.10",
       "rails_version": "5.1.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2022-07-17"
     }
   ]
 }

@@ -1,223 +1,286 @@
 {
   "name": "discourse",
   "path": "apps/discourse",
+  "url": "https://github.com/discourse/discourse",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/automation",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/boards",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/chat",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/checklist",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-adplugin",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-ai",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-assign",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-cakeday",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-captcha",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-data-explorer",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-events",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-gamification",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-local-dates",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-narrative-bot",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-patreon",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-policy",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-post-voting",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-reactions",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-rewind",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-rss-polling",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-solved",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-subscriptions",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-templates",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-topic-voting",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-user-notes",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-workflows",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/discourse-zendesk-plugin",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/poll",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/styleguide",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     },
     {
       "type": "engine",
       "path": "plugins/voice",
       "ruby_version": "~> 3.4",
       "rails_version": "8.1.4",
-      "gemfile_lock": false
+      "gemfile_lock": false,
+      "stimulus": false,
+      "last_commit": "2026-10-12"
     }
   ]
 }

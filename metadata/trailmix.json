@@ -1,13 +1,16 @@
 {
   "name": "trailmix",
   "path": "apps/trailmix",
+  "url": "https://github.com/codecation/trailmix",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": "3.4.2",
       "rails_version": "8.0.5.1",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2026-08-21"
     }
   ]
 }

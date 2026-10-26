@@ -1,13 +1,16 @@
 {
   "name": "opengovernment",
   "path": "apps/opengovernment",
+  "url": "https://github.com/opengovernment/opengovernment",
   "contents": [
     {
       "type": "app",
       "path": "/",
       "ruby_version": null,
       "rails_version": "3.0.19",
-      "gemfile_lock": true
+      "gemfile_lock": true,
+      "stimulus": false,
+      "last_commit": "2015-06-11"
     }
   ]
 }

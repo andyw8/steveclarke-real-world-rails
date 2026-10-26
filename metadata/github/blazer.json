@@ -1,0 +1,43 @@
+{
+  "createdAt": "2014-10-01T04:54:55Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Business intelligence made simple",
+  "diskUsage": 4974,
+  "forkCount": 504,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ankane/blazer",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/0e358c4b7a6edf82307c50362f315863b5faa299f6ab36423d9001f8687b33bc/ankane/blazer",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-20T00:01:32Z",
+  "repositoryTopics": [
+    {
+      "name": "business-intelligence"
+    },
+    {
+      "name": "charts"
+    },
+    {
+      "name": "sql"
+    }
+  ],
+  "stargazerCount": 4805,
+  "updatedAt": "2026-10-24T17:54:04Z",
+  "url": "https://github.com/ankane/blazer",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 66
+  }
+}

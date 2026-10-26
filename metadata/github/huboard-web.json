@@ -1,0 +1,29 @@
+{
+  "createdAt": "2015-01-14T22:17:00Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "GitHub issues made awesome",
+  "diskUsage": 30555,
+  "forkCount": 25,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://huboard.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "huboard/huboard-web",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/4af6f7ee3cdaf1b93aec8305d7a998d2dcc93253a2873b948f4855605fe2c590/huboard/huboard-web",
+  "primaryLanguage": {
+    "name": "JavaScript"
+  },
+  "pushedAt": "2022-08-30T15:56:38Z",
+  "repositoryTopics": null,
+  "stargazerCount": 62,
+  "updatedAt": "2025-06-28T09:15:46Z",
+  "url": "https://github.com/huboard/huboard-web",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 6
+  }
+}

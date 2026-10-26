@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-11-25T00:39:48Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Core of the Amahi Platform, a web app in RoR",
+  "diskUsage": 3199,
+  "forkCount": 100,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "amahi/platform",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/e8154e681c824b90adf3a12e343ffbb60346a6b25b0014829094ebb47b7844f4/amahi/platform",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-01-19T05:33:22Z",
+  "repositoryTopics": null,
+  "stargazerCount": 136,
+  "updatedAt": "2026-08-11T16:50:58Z",
+  "url": "https://github.com/amahi/platform",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 18
+  }
+}

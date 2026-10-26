@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-11-21T18:34:42Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Open source toolkit for voice services; with special focus to the needs of medium- and low-income countries, scalable services, and interacting with vulnerable populations",
+  "diskUsage": 13661,
+  "forkCount": 20,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://verboice.instedd.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "nickname": "GNU GPLv3"
+  },
+  "nameWithOwner": "instedd/verboice",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/f67f8412b41df89204c4743f4f2805e341254a53f3e011fc7208009e2b3925af/instedd/verboice",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2025-02-21T13:51:14Z",
+  "repositoryTopics": null,
+  "stargazerCount": 46,
+  "updatedAt": "2025-02-22T21:46:19Z",
+  "url": "https://github.com/instedd/verboice",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 10
+  }
+}

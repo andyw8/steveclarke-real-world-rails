@@ -1,0 +1,33 @@
+{
+  "createdAt": "2009-03-06T22:49:00Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "The web application that runs https://contributors.rubyonrails.org",
+  "diskUsage": 3018,
+  "forkCount": 162,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "rails/rails-contributors",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b1ff7638501791a6dac3df9090f8ea25a35c9579e2f85039e5fc189d58cb8549/rails/rails-contributors",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-09-19T17:30:51Z",
+  "repositoryTopics": null,
+  "stargazerCount": 139,
+  "updatedAt": "2026-09-19T17:30:54Z",
+  "url": "https://github.com/rails/rails-contributors",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 13
+  }
+}

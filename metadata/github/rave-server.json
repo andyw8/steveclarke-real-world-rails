@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-12-17T10:56:03Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "RESTful Anti-Virus Endpoint server - provides a HTTPS endpoint to scan files for malware as-a-service",
+  "diskUsage": 248,
+  "forkCount": 2,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "nickname": ""
+  },
+  "nameWithOwner": "ministryofjustice/rave-server",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/3f9f000af66f57ac03a3ce8422ca8dee24ee8bca1c3616a1a2b08606632102e5/ministryofjustice/rave-server",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2014-12-17T16:41:58Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1,
+  "updatedAt": "2023-01-28T14:42:39Z",
+  "url": "https://github.com/ministryofjustice/rave-server",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "createdAt": "2012-09-22T07:40:18Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.",
+  "diskUsage": 44582,
+  "forkCount": 503,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://osem.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "openSUSE/osem",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/1e229fcab87a81827da3a875d6fe6276f6cd77a44735a2c11c98ef31fa1d6088/openSUSE/osem",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-17T09:46:43Z",
+  "repositoryTopics": [
+    {
+      "name": "osem"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "conferences"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "schedule"
+    },
+    {
+      "name": "events"
+    },
+    {
+      "name": "conference"
+    },
+    {
+      "name": "rails-application"
+    },
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 930,
+  "updatedAt": "2026-10-21T06:01:28Z",
+  "url": "https://github.com/openSUSE/osem",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 51
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "createdAt": "2013-09-17T04:21:55Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Rails engine providing access to files in cloud storage",
+  "diskUsage": 1647,
+  "forkCount": 21,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "nickname": ""
+  },
+  "nameWithOwner": "samvera/browse-everything",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/7a8e3db8b2b79c75f9ca016076f606f55b787b8d2302b08bb19b55942597a2c7/samvera/browse-everything",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-01-21T22:27:30Z",
+  "repositoryTopics": [
+    {
+      "name": "core-components"
+    },
+    {
+      "name": "samvera-community"
+    }
+  ],
+  "stargazerCount": 115,
+  "updatedAt": "2026-01-20T17:45:59Z",
+  "url": "https://github.com/samvera/browse-everything",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 60
+  }
+}

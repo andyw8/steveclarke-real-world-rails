@@ -1,0 +1,43 @@
+{
+  "createdAt": "2016-10-25T14:42:47Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Server app for the TestTrack multi-platform split-testing and feature-gating system",
+  "diskUsage": 1001,
+  "forkCount": 36,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "Betterment/test_track",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/4f078e8880856caebfc3c5596842a1d0f9fc6f2f346a54507bb3b967975aa267/Betterment/test_track",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-07T15:59:27Z",
+  "repositoryTopics": [
+    {
+      "name": "feature-toggle"
+    },
+    {
+      "name": "ab-testing"
+    },
+    {
+      "name": "rails"
+    }
+  ],
+  "stargazerCount": 119,
+  "updatedAt": "2026-10-07T16:05:29Z",
+  "url": "https://github.com/Betterment/test_track",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 12
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "createdAt": "2008-03-10T14:45:35Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.",
+  "diskUsage": 355257,
+  "forkCount": 5316,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://spreecommerce.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "nickname": "Modified BSD License"
+  },
+  "nameWithOwner": "spree/spree",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/3314/8a9dfa62-7682-49c4-a213-462a70ca8c69",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T12:54:24Z",
+  "repositoryTopics": [
+    {
+      "name": "ecommerce"
+    },
+    {
+      "name": "e-commerce"
+    },
+    {
+      "name": "ecommerce-platform"
+    },
+    {
+      "name": "spree-commerce"
+    },
+    {
+      "name": "marketplace"
+    },
+    {
+      "name": "multi-tenant"
+    },
+    {
+      "name": "multi-vendor"
+    },
+    {
+      "name": "multi-vendor-ecommerce"
+    },
+    {
+      "name": "ecommerce-api"
+    },
+    {
+      "name": "ecommerce-framework"
+    },
+    {
+      "name": "open-source"
+    },
+    {
+      "name": "headless"
+    },
+    {
+      "name": "headless-commerce"
+    },
+    {
+      "name": "headless-ecommerce"
+    },
+    {
+      "name": "b2b-commerce"
+    }
+  ],
+  "stargazerCount": 15777,
+  "updatedAt": "2026-10-26T12:54:00Z",
+  "url": "https://github.com/spree/spree",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 78
+  }
+}

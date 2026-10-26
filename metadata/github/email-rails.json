@@ -1,0 +1,33 @@
+{
+  "createdAt": "2024-02-08T14:00:42Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A new era for emails",
+  "diskUsage": 510,
+  "forkCount": 12,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "caley-io/email-rails",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/1791d1af32095f68a14feb934adec0a7f45ae48561537b3a824734d4e1413005/caley-io/email-rails",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2024-06-21T12:46:25Z",
+  "repositoryTopics": null,
+  "stargazerCount": 126,
+  "updatedAt": "2026-03-08T20:51:07Z",
+  "url": "https://github.com/caley-io/email-rails",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 6
+  }
+}

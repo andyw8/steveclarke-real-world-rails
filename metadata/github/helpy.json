@@ -1,0 +1,52 @@
+{
+  "createdAt": "2015-04-01T03:44:22Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.",
+  "diskUsage": 90540,
+  "forkCount": 490,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://helpy.io/?source=ghh",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "helpyio/helpy",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/8647180612e0f8ea60f9dcbba4d033256df9a1773476014d0970c70de44aa522/helpyio/helpy",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-03-08T21:42:10Z",
+  "repositoryTopics": [
+    {
+      "name": "helpdesk"
+    },
+    {
+      "name": "knowledge-base"
+    },
+    {
+      "name": "forum"
+    },
+    {
+      "name": "support"
+    },
+    {
+      "name": "ticketing"
+    },
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 2467,
+  "updatedAt": "2026-10-26T01:44:55Z",
+  "url": "https://github.com/helpyio/helpy",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 64
+  }
+}

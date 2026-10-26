@@ -1,0 +1,49 @@
+{
+  "createdAt": "2013-05-07T07:39:38Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Create beautiful JavaScript charts with one line of Ruby",
+  "diskUsage": 2073,
+  "forkCount": 560,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://chartkick.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ankane/chartkick",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/8a1ccebbd48619888ffa6377a281de1e8b81460e480eddf9428783ee44bbef11/ankane/chartkick",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-22T20:17:13Z",
+  "repositoryTopics": [
+    {
+      "name": "charts"
+    },
+    {
+      "name": "visualization"
+    },
+    {
+      "name": "chartjs"
+    },
+    {
+      "name": "google-charts"
+    },
+    {
+      "name": "highcharts"
+    }
+  ],
+  "stargazerCount": 6528,
+  "updatedAt": "2026-10-24T17:51:29Z",
+  "url": "https://github.com/ankane/chartkick",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 97
+  }
+}

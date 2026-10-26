@@ -1,0 +1,46 @@
+{
+  "createdAt": "2013-02-27T14:49:12Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The mark of quality and trust for open data",
+  "diskUsage": 18987,
+  "forkCount": 39,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://certificates.theodi.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "theodi/open-data-certificate",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/60c8420c8ae345f8ea03a0b13922aa6db4398050faea4659f6bf466ae55e67ea/theodi/open-data-certificate",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-03-10T11:58:21Z",
+  "repositoryTopics": [
+    {
+      "name": "data-assessment"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "surveys"
+    },
+    {
+      "name": "dataset"
+    }
+  ],
+  "stargazerCount": 47,
+  "updatedAt": "2026-02-16T00:08:03Z",
+  "url": "https://github.com/theodi/open-data-certificate",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 22
+  }
+}

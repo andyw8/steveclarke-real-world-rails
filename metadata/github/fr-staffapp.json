@@ -1,0 +1,40 @@
+{
+  "createdAt": "2015-02-06T16:01:04Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Help with Court Fees Staff Interface",
+  "diskUsage": 10027,
+  "forkCount": 1,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "hmcts/hwf-staffapp",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/6c90662e6ae42abd1445d37323fcf0e6abee711f218c505152ee9b328c19e27c/hmcts/hwf-staffapp",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T11:14:33Z",
+  "repositoryTopics": [
+    {
+      "name": "jenkins-cft"
+    },
+    {
+      "name": "jenkins-cft-d-i"
+    }
+  ],
+  "stargazerCount": 2,
+  "updatedAt": "2026-10-26T09:43:13Z",
+  "url": "https://github.com/hmcts/hwf-staffapp",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 29
+  }
+}

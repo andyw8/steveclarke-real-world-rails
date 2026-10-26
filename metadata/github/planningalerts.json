@@ -1,0 +1,37 @@
+{
+  "createdAt": "2009-11-28T05:16:07Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Find out and have your say about what's being built and knocked down in your area.",
+  "diskUsage": 42357,
+  "forkCount": 54,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.planningalerts.org.au",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "openaustralia/planningalerts",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/13cd33efcfc34788e2e8e8a9e698af102ce2a7e6fdf0fd4c18ac39840708cad1/openaustralia/planningalerts",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T07:44:44Z",
+  "repositoryTopics": [
+    {
+      "name": "civic-tech"
+    }
+  ],
+  "stargazerCount": 116,
+  "updatedAt": "2026-10-22T09:16:23Z",
+  "url": "https://github.com/openaustralia/planningalerts",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 15
+  }
+}

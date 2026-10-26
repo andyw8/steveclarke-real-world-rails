@@ -1,0 +1,58 @@
+{
+  "createdAt": "2021-08-06T13:47:04Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.",
+  "diskUsage": 545,
+  "forkCount": 170,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.getmotoradmin.com",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "motor-admin/motor-admin",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/63fab4c46862063203589b0b82849d3ef60a45774cada171f0cdf4061d9f4e43/motor-admin/motor-admin",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2024-05-30T06:59:11Z",
+  "repositoryTopics": [
+    {
+      "name": "reports"
+    },
+    {
+      "name": "admin-dashboard"
+    },
+    {
+      "name": "admin-panel"
+    },
+    {
+      "name": "business-ingelligence"
+    },
+    {
+      "name": "no-code"
+    },
+    {
+      "name": "postgresql"
+    },
+    {
+      "name": "mysql"
+    },
+    {
+      "name": "sql-server"
+    }
+  ],
+  "stargazerCount": 2167,
+  "updatedAt": "2026-10-13T20:25:02Z",
+  "url": "https://github.com/motor-admin/motor-admin",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 19
+  }
+}

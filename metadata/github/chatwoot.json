@@ -1,0 +1,91 @@
+{
+  "createdAt": "2019-08-14T06:50:51Z",
+  "defaultBranchRef": {
+    "name": "develop"
+  },
+  "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+  "diskUsage": 304840,
+  "forkCount": 9347,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.chatwoot.com/help-center",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "chatwoot/chatwoot",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/202291859/bd7a45e0-9a03-4a0b-8ab9-146e55911702",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T13:09:51Z",
+  "repositoryTopics": [
+    {
+      "name": "vuejs"
+    },
+    {
+      "name": "intercom"
+    },
+    {
+      "name": "zendesk"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "design"
+    },
+    {
+      "name": "sass"
+    },
+    {
+      "name": "actioncable"
+    },
+    {
+      "name": "opensource"
+    },
+    {
+      "name": "livechat"
+    },
+    {
+      "name": "javascript"
+    },
+    {
+      "name": "docker"
+    },
+    {
+      "name": "docker-image"
+    },
+    {
+      "name": "heroku"
+    },
+    {
+      "name": "conversation"
+    },
+    {
+      "name": "customer-support"
+    },
+    {
+      "name": "whatsapp"
+    },
+    {
+      "name": "chat-widget"
+    },
+    {
+      "name": "dashboard"
+    },
+    {
+      "name": "ruby"
+    }
+  ],
+  "stargazerCount": 38330,
+  "updatedAt": "2026-10-26T13:03:50Z",
+  "url": "https://github.com/chatwoot/chatwoot",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 292
+  }
+}

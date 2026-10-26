@@ -1,0 +1,49 @@
+{
+  "createdAt": "2014-01-07T10:41:14Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": " Check that your CSV files are valid",
+  "diskUsage": 16487,
+  "forkCount": 11,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://csvlint.io",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "Data-Liberation-Front/csvlint.io",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/44b3137f8c6874f55aa9ad0b4fc361e6640f37c0d11225d9f8350701a17402be/Data-Liberation-Front/csvlint.io",
+  "primaryLanguage": {
+    "name": "SCSS"
+  },
+  "pushedAt": "2024-05-03T09:40:53Z",
+  "repositoryTopics": [
+    {
+      "name": "data-validation"
+    },
+    {
+      "name": "csvlint"
+    },
+    {
+      "name": "csv-files"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "ruby-on-rails"
+    }
+  ],
+  "stargazerCount": 74,
+  "updatedAt": "2025-05-14T20:35:41Z",
+  "url": "https://github.com/Data-Liberation-Front/csvlint.io",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

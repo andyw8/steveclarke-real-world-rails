@@ -1,0 +1,55 @@
+{
+  "createdAt": "2010-09-15T05:20:04Z",
+  "defaultBranchRef": {
+    "name": "develop"
+  },
+  "description": "A privacy-aware, distributed, open source social network.",
+  "diskUsage": 117798,
+  "forkCount": 2868,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://diasporafoundation.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "diaspora/diaspora",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/ad0048f7b8bb2528aaec7659e8702e7eb70590ed903a8be75cc37b1992438d59/diaspora/diaspora",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-07-28T20:36:26Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "social-network"
+    },
+    {
+      "name": "federated"
+    },
+    {
+      "name": "distributed"
+    },
+    {
+      "name": "decentralized"
+    },
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 13655,
+  "updatedAt": "2026-10-26T08:24:54Z",
+  "url": "https://github.com/diaspora/diaspora",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 461
+  }
+}

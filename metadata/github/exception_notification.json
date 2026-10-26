@@ -1,0 +1,33 @@
+{
+  "createdAt": "2011-02-17T20:43:30Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Exception Notifier Plugin for Rails",
+  "diskUsage": 979,
+  "forkCount": 415,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://smartinez87.github.io/exception_notification",
+  "isArchived": false,
+  "isFork": true,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "smartinez87/exception_notification",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/a8c7683cc4e51246ff2ba2fba7a1d97751c5ce478d2f3029236b0370a9b8fad3/smartinez87/exception_notification",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2025-03-22T01:40:14Z",
+  "repositoryTopics": null,
+  "stargazerCount": 2174,
+  "updatedAt": "2026-08-31T16:10:03Z",
+  "url": "https://github.com/smartinez87/exception_notification",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 33
+  }
+}

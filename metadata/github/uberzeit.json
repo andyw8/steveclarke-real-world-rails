@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-10-14T07:29:02Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Time and activity tracking web application for the rest of us.",
+  "diskUsage": 2501,
+  "forkCount": 6,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ninech/uberzeit",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/fdf8e745f126d709da88ed5d373f6a09e53fd4d3628f0267daf4d68125ebbcec/ninech/uberzeit",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2016-06-10T14:10:09Z",
+  "repositoryTopics": null,
+  "stargazerCount": 33,
+  "updatedAt": "2025-10-15T07:41:57Z",
+  "url": "https://github.com/ninech/uberzeit",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 7
+  }
+}

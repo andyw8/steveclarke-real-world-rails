@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-05-08T19:09:30Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs",
+  "diskUsage": 6654,
+  "forkCount": 78,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "CultivateLabs/storytime",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/fea3e4dc9f095ec07eafcbf5369feeed4a9e11b573dc9f4e7fd11e440ac70641/CultivateLabs/storytime",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-01T20:40:02Z",
+  "repositoryTopics": null,
+  "stargazerCount": 744,
+  "updatedAt": "2026-10-12T03:20:03Z",
+  "url": "https://github.com/CultivateLabs/storytime",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 36
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "createdAt": "2013-05-14T20:49:27Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A Rails Engine which provides a customizable status page on your application.",
+  "diskUsage": 389,
+  "forkCount": 4,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://rubygems.org/gems/rapporteur",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "envylabs/rapporteur",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/c5d65a8df462c31d56b7f857164535498d2b344cf5088f2ad23c6a7a11b45489/envylabs/rapporteur",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-08-20T20:52:30Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "ruby-on-rails"
+    },
+    {
+      "name": "ruby-gem"
+    }
+  ],
+  "stargazerCount": 49,
+  "updatedAt": "2026-10-03T01:15:59Z",
+  "url": "https://github.com/envylabs/rapporteur",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 16
+  }
+}

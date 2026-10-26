@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-11-22T18:41:52Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Easy Monitoring",
+  "diskUsage": 182,
+  "forkCount": 19,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "basecamp/easymon",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/afd194efedcb01a87a53d4bbc748e5d9eed07576badd734f08c05c3ab6e20283/basecamp/easymon",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-06-15T22:52:16Z",
+  "repositoryTopics": null,
+  "stargazerCount": 219,
+  "updatedAt": "2026-08-14T18:29:36Z",
+  "url": "https://github.com/basecamp/easymon",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 30
+  }
+}

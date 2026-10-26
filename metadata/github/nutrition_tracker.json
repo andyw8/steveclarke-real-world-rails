@@ -1,0 +1,33 @@
+{
+  "createdAt": "2025-04-11T18:09:05Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "",
+  "diskUsage": 568,
+  "forkCount": 1,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "varun2407/nutrition_tracker",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/e13b4e66d996e759fc0de85381cb55c809b2ecf77ce7d5786ebebf9fcd594501/varun2407/nutrition_tracker",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-02-02T05:25:46Z",
+  "repositoryTopics": null,
+  "stargazerCount": 24,
+  "updatedAt": "2026-01-25T19:21:58Z",
+  "url": "https://github.com/varun2407/nutrition_tracker",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

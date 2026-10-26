@@ -1,0 +1,33 @@
+{
+  "createdAt": "2019-06-12T21:02:35Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Heya 👋 is a campaign mailer for Rails. Think of it like ActionMailer, but for timed email sequences. It can also perform other actions like sending a text message.",
+  "diskUsage": 1152,
+  "forkCount": 35,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.heya.email",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "honeybadger-io/heya",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/191644248/527ba180-0bcc-11eb-8196-8bfb8a5677ae",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-12T05:52:18Z",
+  "repositoryTopics": null,
+  "stargazerCount": 766,
+  "updatedAt": "2026-10-10T18:19:19Z",
+  "url": "https://github.com/honeybadger-io/heya",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 11
+  }
+}

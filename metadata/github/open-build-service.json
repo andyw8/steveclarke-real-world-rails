@@ -1,0 +1,91 @@
+{
+  "createdAt": "2011-07-14T06:52:57Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs",
+  "diskUsage": 893008,
+  "forkCount": 503,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://openbuildservice.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "nickname": "GNU GPLv2"
+  },
+  "nameWithOwner": "openSUSE/open-build-service",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/2046192/395ef800-669b-11e9-9648-d54057ed554b",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T12:09:09Z",
+  "repositoryTopics": [
+    {
+      "name": "opensuse"
+    },
+    {
+      "name": "rpm"
+    },
+    {
+      "name": "deb"
+    },
+    {
+      "name": "packaging"
+    },
+    {
+      "name": "pkgbuild"
+    },
+    {
+      "name": "packages"
+    },
+    {
+      "name": "archlinux"
+    },
+    {
+      "name": "obs"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "docker"
+    },
+    {
+      "name": "kiwi"
+    },
+    {
+      "name": "appimage"
+    },
+    {
+      "name": "centos"
+    },
+    {
+      "name": "debian"
+    },
+    {
+      "name": "fedora"
+    },
+    {
+      "name": "ubuntu"
+    },
+    {
+      "name": "rails-application"
+    },
+    {
+      "name": "openbuildservice"
+    },
+    {
+      "name": "ruby-on-rails"
+    }
+  ],
+  "stargazerCount": 1085,
+  "updatedAt": "2026-10-26T12:09:13Z",
+  "url": "https://github.com/openSUSE/open-build-service",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 54
+  }
+}

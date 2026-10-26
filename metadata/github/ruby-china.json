@@ -1,0 +1,49 @@
+{
+  "createdAt": "2012-03-27T10:26:23Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": ":circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.",
+  "diskUsage": 29677,
+  "forkCount": 1175,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://homeland.ruby-china.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ruby-china/homeland",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/dddd08c812fb957117a9a4f1035efe422497ac7d152579528bfd53ec4d511204/ruby-china/homeland",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-08-08T10:38:56Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "forum"
+    },
+    {
+      "name": "community"
+    },
+    {
+      "name": "disscusstion"
+    },
+    {
+      "name": "homeland"
+    }
+  ],
+  "stargazerCount": 3858,
+  "updatedAt": "2026-10-20T00:58:02Z",
+  "url": "https://github.com/ruby-china/homeland",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 209
+  }
+}

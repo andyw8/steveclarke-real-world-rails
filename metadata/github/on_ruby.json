@@ -1,0 +1,39 @@
+{
+  "createdAt": "2010-12-13T13:46:46Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": ":gem: :diamonds: Whitelabel Site for Ruby Communities",
+  "diskUsage": 16579,
+  "forkCount": 95,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://www.onruby.eu",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "rughh/on_ruby",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/8435412c59d8b37dc9216dcf34b56509de00b0b66a056acfcf57a86a7525bd00/rughh/on_ruby",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-04T19:23:03Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "meetup"
+    }
+  ],
+  "stargazerCount": 241,
+  "updatedAt": "2026-10-16T20:54:03Z",
+  "url": "https://github.com/rughh/on_ruby",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 17
+  }
+}

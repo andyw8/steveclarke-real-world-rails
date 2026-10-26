@@ -1,0 +1,58 @@
+{
+  "createdAt": "2012-10-17T07:56:23Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Connect suppliers, distributors and consumers to trade local produce.",
+  "diskUsage": 132254,
+  "forkCount": 804,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.openfoodnetwork.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "openfoodfoundation/openfoodnetwork",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/6257856/e1704d4b-509a-4689-9857-f51105eed2fc",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T09:50:21Z",
+  "repositoryTopics": [
+    {
+      "name": "food"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "food-hubs"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "farmers"
+    },
+    {
+      "name": "sustainable-consumption"
+    },
+    {
+      "name": "nonprofit"
+    },
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 1299,
+  "updatedAt": "2026-10-26T09:50:29Z",
+  "url": "https://github.com/openfoodfoundation/openfoodnetwork",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 68
+  }
+}

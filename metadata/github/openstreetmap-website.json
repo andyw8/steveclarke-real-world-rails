@@ -1,0 +1,43 @@
+{
+  "createdAt": "2010-05-01T16:22:12Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The Rails application that powers OpenStreetMap",
+  "diskUsage": 504743,
+  "forkCount": 1100,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.openstreetmap.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "nickname": "GNU GPLv2"
+  },
+  "nameWithOwner": "openstreetmap/openstreetmap-website",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/6a6d85bd111195593546796f3781c27394ca64da568cb40111c3033aad0c9d52/openstreetmap/openstreetmap-website",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T12:03:37Z",
+  "repositoryTopics": [
+    {
+      "name": "openstreetmap"
+    },
+    {
+      "name": "rails-application"
+    },
+    {
+      "name": "ruby"
+    }
+  ],
+  "stargazerCount": 2864,
+  "updatedAt": "2026-10-24T17:02:09Z",
+  "url": "https://github.com/openstreetmap/openstreetmap-website",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 102
+  }
+}

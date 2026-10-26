@@ -1,0 +1,58 @@
+{
+  "createdAt": "2019-08-13T09:41:32Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interaction.",
+  "diskUsage": 133842,
+  "forkCount": 279,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.pupilfirst.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "pupilfirst/pupilfirst",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/202112909/f0cde580-08f4-11eb-9b67-bc81b7955851",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2025-12-09T17:32:04Z",
+  "repositoryTopics": [
+    {
+      "name": "lms"
+    },
+    {
+      "name": "ruby-on-rails"
+    },
+    {
+      "name": "reason-react"
+    },
+    {
+      "name": "vle"
+    },
+    {
+      "name": "graphql"
+    },
+    {
+      "name": "rescript"
+    },
+    {
+      "name": "pupilfirst"
+    },
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 980,
+  "updatedAt": "2026-10-23T16:14:39Z",
+  "url": "https://github.com/pupilfirst/pupilfirst",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 15
+  }
+}

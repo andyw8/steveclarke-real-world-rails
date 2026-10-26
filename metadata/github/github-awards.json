@@ -1,0 +1,46 @@
+{
+  "createdAt": "2015-01-25T10:08:58Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Discover your ranking on github :",
+  "diskUsage": 2874,
+  "forkCount": 117,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://git-awards.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "vdaubry/github-awards",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/296f58a6741e83c2fde0a5a2bcbfdcc58f0847862b76e721688a0c68e7190489/vdaubry/github-awards",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-01-03T14:13:59Z",
+  "repositoryTopics": [
+    {
+      "name": "github"
+    },
+    {
+      "name": "rankings"
+    },
+    {
+      "name": "language"
+    },
+    {
+      "name": "star"
+    }
+  ],
+  "stargazerCount": 1576,
+  "updatedAt": "2026-10-16T00:07:38Z",
+  "url": "https://github.com/vdaubry/github-awards",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 26
+  }
+}

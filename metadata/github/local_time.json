@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-11-17T21:24:07Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Rails engine for cache-friendly, client-side local time",
+  "diskUsage": 1877,
+  "forkCount": 124,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "basecamp/local_time",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/edc5b81b0a0ebacf5ea945e558368cbd3cb79003f720c7bd9d61e90a708fd6fc/basecamp/local_time",
+  "primaryLanguage": {
+    "name": "JavaScript"
+  },
+  "pushedAt": "2026-07-13T13:16:23Z",
+  "repositoryTopics": null,
+  "stargazerCount": 2000,
+  "updatedAt": "2026-10-16T14:10:01Z",
+  "url": "https://github.com/basecamp/local_time",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 45
+  }
+}

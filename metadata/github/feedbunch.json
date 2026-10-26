@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-03-29T21:23:01Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A simple and elegant feed reader.",
+  "diskUsage": 27879,
+  "forkCount": 9,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://feedbunch.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "amatriain/feedbunch",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/88f931c8c4ec9bae7ff48433f7bbce40b1761ce3836c2d8c4f13f1a0e7bc52cf/amatriain/feedbunch",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-03-08T22:18:22Z",
+  "repositoryTopics": null,
+  "stargazerCount": 83,
+  "updatedAt": "2026-06-12T09:46:39Z",
+  "url": "https://github.com/amatriain/feedbunch",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

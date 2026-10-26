@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-10-26T14:27:49Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Simplify receiving email in Rails (deprecated)",
+  "diskUsage": 592,
+  "forkCount": 197,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://griddler.io/",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "thoughtbot/griddler",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/973f8cbf769698f8f9f2e8f0949eaf2ceea8052fe5287b7cd6f90c051d060174/thoughtbot/griddler",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2024-07-12T18:58:16Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1358,
+  "updatedAt": "2026-10-20T20:48:13Z",
+  "url": "https://github.com/thoughtbot/griddler",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 1
+  }
+}

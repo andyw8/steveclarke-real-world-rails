@@ -1,0 +1,49 @@
+{
+  "createdAt": "2014-02-26T08:42:22Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Simple, powerful, first-party analytics for Rails",
+  "diskUsage": 867,
+  "forkCount": 384,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ankane/ahoy",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/a24cff4b2eb3d3252f4ecdf5716b0702e4ffd07d8c3db24b0039326faaf51c28/ankane/ahoy",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-22T01:25:28Z",
+  "repositoryTopics": [
+    {
+      "name": "analytics"
+    },
+    {
+      "name": "first-party-analytics"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "visits"
+    },
+    {
+      "name": "events"
+    }
+  ],
+  "stargazerCount": 4485,
+  "updatedAt": "2026-10-23T04:58:25Z",
+  "url": "https://github.com/ankane/ahoy",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 51
+  }
+}

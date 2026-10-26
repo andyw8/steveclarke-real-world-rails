@@ -1,0 +1,49 @@
+{
+  "createdAt": "2015-03-03T11:12:00Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The Global Cloud Hosting Marketplace",
+  "diskUsage": 14296,
+  "forkCount": 16,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "nickname": ""
+  },
+  "nameWithOwner": "virtuozzo/cloudnet",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/78085b5e19a4834d30e138c5481ccc4e697ce714f0e0e952c910252020b3e480/virtuozzo/cloudnet",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2017-10-31T11:47:35Z",
+  "repositoryTopics": [
+    {
+      "name": "onapp"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "docker"
+    },
+    {
+      "name": "cloud"
+    },
+    {
+      "name": "server"
+    }
+  ],
+  "stargazerCount": 32,
+  "updatedAt": "2026-07-01T08:03:49Z",
+  "url": "https://github.com/virtuozzo/cloudnet",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-03-18T00:36:24Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "The Ruby Together website",
+  "diskUsage": 4132,
+  "forkCount": 33,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "rubytogether.org",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "rubytogether/rubytogether.org",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/32428682/b8e5b300-701b-11e9-94f9-3ef3cc6c05b2",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2022-08-20T00:10:21Z",
+  "repositoryTopics": null,
+  "stargazerCount": 77,
+  "updatedAt": "2025-12-01T14:28:22Z",
+  "url": "https://github.com/rubytogether/rubytogether.org",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

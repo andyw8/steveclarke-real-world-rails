@@ -1,0 +1,33 @@
+{
+  "createdAt": "2008-06-20T15:28:43Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Radiant is a no-fluff, open source content management system designed for small teams.",
+  "diskUsage": 15535,
+  "forkCount": 338,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "radiant/radiant",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/4500c98e1ee6236af723f38e37118e3fe3541d8c6376c68cc9d0ab4d602e53df/radiant/radiant",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-03-11T04:19:50Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1680,
+  "updatedAt": "2026-09-15T03:37:12Z",
+  "url": "https://github.com/radiant/radiant",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 66
+  }
+}

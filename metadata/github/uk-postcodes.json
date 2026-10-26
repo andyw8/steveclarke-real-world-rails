@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-11-13T14:14:10Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "",
+  "diskUsage": 40278,
+  "forkCount": 17,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "theodi/uk-postcodes",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/cb282cd330c77db20cf7fa1c41ced0131ad46faf4dd71e7e07b7c09e8a037297/theodi/uk-postcodes",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2020-10-01T09:18:48Z",
+  "repositoryTopics": null,
+  "stargazerCount": 40,
+  "updatedAt": "2026-06-11T20:23:47Z",
+  "url": "https://github.com/theodi/uk-postcodes",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 7
+  }
+}

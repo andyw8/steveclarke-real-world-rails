@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-03-24T20:25:21Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The Web GUI for Panamax",
+  "diskUsage": 3481,
+  "forkCount": 148,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://panamax.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "nickname": ""
+  },
+  "nameWithOwner": "CenturyLinkLabs/panamax-ui",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/732b484c44a76d764591086d6b1f765d4bca5bafb0e1404b2fb19b7af6506a2c/CenturyLinkLabs/panamax-ui",
+  "primaryLanguage": {
+    "name": "JavaScript"
+  },
+  "pushedAt": "2022-10-19T04:30:41Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1433,
+  "updatedAt": "2026-10-23T18:55:09Z",
+  "url": "https://github.com/CenturyLinkLabs/panamax-ui",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 77
+  }
+}

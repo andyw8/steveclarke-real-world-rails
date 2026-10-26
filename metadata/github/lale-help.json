@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-09-17T18:59:56Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A collaborative platform for volunteer refugee support.",
+  "diskUsage": 8257,
+  "forkCount": 15,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://lale.help",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "lale-help/lale-help",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/346aa1db18bae9c3a5dcd640875d3a4637c2ebc397dcda7a83d9841e07bad8d8/lale-help/lale-help",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-20T16:06:11Z",
+  "repositoryTopics": null,
+  "stargazerCount": 28,
+  "updatedAt": "2026-03-09T07:37:44Z",
+  "url": "https://github.com/lale-help/lale-help",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 18
+  }
+}

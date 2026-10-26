@@ -1,0 +1,64 @@
+{
+  "createdAt": "2016-12-22T10:50:17Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Showcasing speakers' proposals and timelines in an effort to demystify the CFP process and help new speakers get started.",
+  "diskUsage": 1216,
+  "forkCount": 27,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://speakerline.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "nodunayo/speakerline",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/e06a37729882ad7c48c79e01f59ca40a913d648f0c55c3c41b0c6eeefe9f4fef/nodunayo/speakerline",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-18T15:15:50Z",
+  "repositoryTopics": [
+    {
+      "name": "speaking-resources"
+    },
+    {
+      "name": "conferences"
+    },
+    {
+      "name": "proposals"
+    },
+    {
+      "name": "cfp"
+    },
+    {
+      "name": "conference-speakers"
+    },
+    {
+      "name": "conference-talk"
+    },
+    {
+      "name": "proposal"
+    },
+    {
+      "name": "conference"
+    },
+    {
+      "name": "speaker"
+    },
+    {
+      "name": "accepted-proposals"
+    }
+  ],
+  "stargazerCount": 83,
+  "updatedAt": "2026-08-03T13:56:58Z",
+  "url": "https://github.com/nodunayo/speakerline",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

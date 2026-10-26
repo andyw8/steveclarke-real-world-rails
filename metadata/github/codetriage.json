@@ -1,0 +1,43 @@
+{
+  "createdAt": "2012-07-21T03:54:51Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Discover the best way to get started contributing to Open Source projects",
+  "diskUsage": 11105,
+  "forkCount": 382,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.codetriage.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "codetriage/CodeTriage",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/81762b5b41307adcec2485474a8d62b75eabca727895a24d6f8179a9e435a35b/codetriage/CodeTriage",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-01T16:07:59Z",
+  "repositoryTopics": [
+    {
+      "name": "open-source"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    }
+  ],
+  "stargazerCount": 1471,
+  "updatedAt": "2026-10-16T18:07:27Z",
+  "url": "https://github.com/codetriage/CodeTriage",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 56
+  }
+}

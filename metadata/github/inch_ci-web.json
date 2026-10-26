@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-05-22T14:15:50Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Web frontend for Inch CI",
+  "diskUsage": 2100,
+  "forkCount": 20,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://inch-ci.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "inch-ci/inch_ci-web",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/fdd1e551e8940299bb9ad20d3a4d55bbcf8a8f90d61c388afb3c3cb88e2d2df3/inch-ci/inch_ci-web",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2022-07-21T22:01:55Z",
+  "repositoryTopics": null,
+  "stargazerCount": 138,
+  "updatedAt": "2025-07-22T03:02:31Z",
+  "url": "https://github.com/inch-ci/inch_ci-web",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

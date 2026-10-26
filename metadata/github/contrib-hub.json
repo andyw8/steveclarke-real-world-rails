@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-09-30T00:34:28Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Open source lovers, making easier to find cool projects to hack on! Wanna help?",
+  "diskUsage": 1102,
+  "forkCount": 18,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "orendon/contrib-hub",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/3607552052a36434a7e7dbfac43f11b83a0c39b8da8c02013a1516b6d6e48a9e/orendon/contrib-hub",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2017-10-13T12:26:22Z",
+  "repositoryTopics": null,
+  "stargazerCount": 64,
+  "updatedAt": "2023-09-08T16:35:33Z",
+  "url": "https://github.com/orendon/contrib-hub",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 6
+  }
+}

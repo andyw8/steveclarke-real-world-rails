@@ -1,0 +1,49 @@
+{
+  "createdAt": "2015-10-26T06:07:48Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Captcha Gem for Rails, which generates captcha image by Rust.",
+  "diskUsage": 401,
+  "forkCount": 129,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://huacnlee.github.io/rucaptcha",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "huacnlee/rucaptcha",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/e7f368494bdc0f26fc7f26a63e61f35d626831a51263c85b40269d8774ed1e0a/huacnlee/rucaptcha",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-02-05T03:52:45Z",
+  "repositoryTopics": [
+    {
+      "name": "captcha"
+    },
+    {
+      "name": "recaptcha"
+    },
+    {
+      "name": "rust"
+    },
+    {
+      "name": "magnus"
+    },
+    {
+      "name": "ffi"
+    }
+  ],
+  "stargazerCount": 702,
+  "updatedAt": "2026-04-26T10:35:25Z",
+  "url": "https://github.com/huacnlee/rucaptcha",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 16
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "createdAt": "2016-08-10T13:09:14Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Fork and Evolution of the Fulcrum project - An agile project planning tool and Pivotal Tracker drop-in replacement",
+  "diskUsage": 15679,
+  "forkCount": 81,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://central.cm42.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "Codeminer42/cm42-central",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/46decc9a8a7e7a64322d704cacbb0462aed516c07ac6c2e50f8ca0fc704643aa/Codeminer42/cm42-central",
+  "primaryLanguage": {
+    "name": "JavaScript"
+  },
+  "pushedAt": "2026-02-10T13:58:54Z",
+  "repositoryTopics": [
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 330,
+  "updatedAt": "2026-10-24T01:40:24Z",
+  "url": "https://github.com/Codeminer42/cm42-central",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 43
+  }
+}

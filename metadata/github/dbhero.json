@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-03-20T14:03:59Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "DBHero is a simple and elegant web interface to extract data clips from your app database. just plug and play ;)",
+  "diskUsage": 257,
+  "forkCount": 13,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "catarse/dbhero",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/ca9bd299ae44e68924e47d18ece460219ad8bd1a0a80f53adccb3a496e20517a/catarse/dbhero",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2024-06-13T00:24:07Z",
+  "repositoryTopics": null,
+  "stargazerCount": 58,
+  "updatedAt": "2025-08-25T16:30:27Z",
+  "url": "https://github.com/catarse/dbhero",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 5
+  }
+}

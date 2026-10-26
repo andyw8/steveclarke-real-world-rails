@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-07-09T16:21:45Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails",
+  "diskUsage": 61926,
+  "forkCount": 288,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://camaleon.website",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "owen2345/camaleon-cms",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/9d2dc5728b45424cf389df28a9c3b8890844c198e4231e7d77ca18e7bce1175c/owen2345/camaleon-cms",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-21T07:22:58Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1238,
+  "updatedAt": "2026-10-11T00:25:05Z",
+  "url": "https://github.com/owen2345/camaleon-cms",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 49
+  }
+}

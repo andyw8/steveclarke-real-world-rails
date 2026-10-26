@@ -1,0 +1,33 @@
+{
+  "createdAt": "2010-03-17T00:00:29Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "OpenGovernment -- a project of the Participatory Politics Foundation",
+  "diskUsage": 36000,
+  "forkCount": 231,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "http://opengovernment.org/home",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "nickname": "GNU GPLv2"
+  },
+  "nameWithOwner": "opengovernment/opengovernment",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/647f21a106ceac203cdbd69c346685e803fa8d33393d27528a159c5c6cd004ad/opengovernment/opengovernment",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-01-03T16:20:02Z",
+  "repositoryTopics": null,
+  "stargazerCount": 309,
+  "updatedAt": "2026-10-11T13:45:50Z",
+  "url": "https://github.com/opengovernment/opengovernment",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 29
+  }
+}

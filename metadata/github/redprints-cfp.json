@@ -1,0 +1,29 @@
+{
+  "createdAt": "2025-07-23T04:51:09Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A redprint for a CFP app built with Rails and Inertia.js",
+  "diskUsage": 1661,
+  "forkCount": 11,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "evilmartians/redprints-cfp",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/47019bc1a13606bbe9d11b1be3444c6d493b66a1c9f73cd5791b8928ed3df16b/evilmartians/redprints-cfp",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-07-29T00:10:48Z",
+  "repositoryTopics": null,
+  "stargazerCount": 108,
+  "updatedAt": "2026-09-15T21:08:40Z",
+  "url": "https://github.com/evilmartians/redprints-cfp",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 1
+  }
+}

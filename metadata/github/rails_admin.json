@@ -1,0 +1,33 @@
+{
+  "createdAt": "2010-08-01T17:01:00Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data",
+  "diskUsage": 22156,
+  "forkCount": 2223,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "railsadminteam/rails_admin",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/bcea0d06b1cafa7f9894749b508b58da0b53dd2cefa4442667d2ae965ca2dd91/railsadminteam/rails_admin",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T09:14:31Z",
+  "repositoryTopics": null,
+  "stargazerCount": 7958,
+  "updatedAt": "2026-10-25T06:40:50Z",
+  "url": "https://github.com/railsadminteam/rails_admin",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 134
+  }
+}

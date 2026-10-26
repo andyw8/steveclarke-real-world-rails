@@ -1,0 +1,33 @@
+{
+  "createdAt": "2024-06-25T19:17:42Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Official App for the Rails World 2025 Conference",
+  "diskUsage": 62770,
+  "forkCount": 36,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://app.railsworld.com/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "nickname": "GNU GPLv3"
+  },
+  "nameWithOwner": "TelosLabs/rails-world",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/99a83f67af94fa78e43a3b647728d190f2fca35be0423f94779db091ea0187f8/TelosLabs/rails-world",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-02-20T00:36:05Z",
+  "repositoryTopics": null,
+  "stargazerCount": 199,
+  "updatedAt": "2026-09-23T18:42:12Z",
+  "url": "https://github.com/TelosLabs/rails-world",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 11
+  }
+}

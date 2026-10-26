@@ -1,0 +1,43 @@
+{
+  "createdAt": "2014-04-28T08:25:42Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "First-party email analytics for Rails",
+  "diskUsage": 381,
+  "forkCount": 144,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ankane/ahoy_email",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/f18b32e7f60fd18485b8f58924cab566e7a20137ca94c27245f304a99b9207e6/ankane/ahoy_email",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-09-21T23:29:52Z",
+  "repositoryTopics": [
+    {
+      "name": "analytics"
+    },
+    {
+      "name": "first-party-analytics"
+    },
+    {
+      "name": "rails"
+    }
+  ],
+  "stargazerCount": 1195,
+  "updatedAt": "2026-10-02T10:21:56Z",
+  "url": "https://github.com/ankane/ahoy_email",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 17
+  }
+}

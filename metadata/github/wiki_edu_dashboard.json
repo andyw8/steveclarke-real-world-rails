@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-12-12T22:13:19Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Wiki Education Foundation's Wikipedia course dashboard system",
+  "diskUsage": 163550,
+  "forkCount": 732,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://dashboard.wikiedu.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "WikiEducationFoundation/WikiEduDashboard",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/fafa2cd8ce9af1ff115b9c820bd5221c57541ffd13d85f761b8493a50cba8ef0/WikiEducationFoundation/WikiEduDashboard",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T12:04:43Z",
+  "repositoryTopics": null,
+  "stargazerCount": 430,
+  "updatedAt": "2026-10-26T12:04:50Z",
+  "url": "https://github.com/WikiEducationFoundation/WikiEduDashboard",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 34
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "createdAt": "2017-10-25T22:50:27Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Sail is a lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app",
+  "diskUsage": 43860,
+  "forkCount": 32,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "vinistock/sail",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/2c2fa8faeb915953d8790d90a5b475302d5363492ac7643a332517c2a3ec9379/vinistock/sail",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-01-30T10:03:50Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "settings"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "ruby-on-rails"
+    },
+    {
+      "name": "utilities"
+    },
+    {
+      "name": "feature-flags"
+    },
+    {
+      "name": "dashboard"
+    },
+    {
+      "name": "admin"
+    }
+  ],
+  "stargazerCount": 505,
+  "updatedAt": "2026-08-25T23:52:28Z",
+  "url": "https://github.com/vinistock/sail",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 5
+  }
+}

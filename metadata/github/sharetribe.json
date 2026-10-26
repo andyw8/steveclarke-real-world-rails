@@ -1,0 +1,40 @@
+{
+  "createdAt": "2012-05-25T15:34:17Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Sharetribe Go is Sharetribe's old source-available marketplace software, which was also available as a hosted SaaS product. Sharetribe Go is no longer actively maintained.",
+  "diskUsage": 143348,
+  "forkCount": 1323,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.sharetribe.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "sharetribe/sharetribe",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/c1b2b756ac7fab9bda286ca1f24713fdeaca0b2565887b80660648ec6a85b569/sharetribe/sharetribe",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-05-11T13:38:51Z",
+  "repositoryTopics": [
+    {
+      "name": "marketplace"
+    },
+    {
+      "name": "platform"
+    }
+  ],
+  "stargazerCount": 2448,
+  "updatedAt": "2026-10-20T17:15:51Z",
+  "url": "https://github.com/sharetribe/sharetribe",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 165
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2011-01-03T16:42:47Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Xrono is an asset and time tracking application for consultants and consulting companies.",
+  "diskUsage": 10888,
+  "forkCount": 22,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://www.xrono.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ironmtntech/xrono",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/d3a975d3b942dc07c4a02e3c3c54c19c7bb850663ecaac27c705ca5df9a22f7b/ironmtntech/xrono",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2022-10-19T12:49:37Z",
+  "repositoryTopics": null,
+  "stargazerCount": 40,
+  "updatedAt": "2026-06-29T08:23:21Z",
+  "url": "https://github.com/ironmtntech/xrono",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 15
+  }
+}

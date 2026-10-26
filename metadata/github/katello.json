@@ -1,0 +1,58 @@
+{
+  "createdAt": "2012-04-12T16:59:08Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Katello integrates open source systems management tools into a single solution for controlling the lifecycle of your machines.",
+  "diskUsage": 280319,
+  "forkCount": 324,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://theforeman.org/plugins/katello/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "nickname": "GNU GPLv2"
+  },
+  "nameWithOwner": "Katello/katello",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/cda3045d7b6579c4a5e2b4fd0ebda30b406a33c80976d456af6b5d59ff2683e8/Katello/katello",
+  "primaryLanguage": {
+    "name": "JavaScript"
+  },
+  "pushedAt": "2026-10-23T14:15:50Z",
+  "repositoryTopics": [
+    {
+      "name": "katello"
+    },
+    {
+      "name": "foreman"
+    },
+    {
+      "name": "rpm"
+    },
+    {
+      "name": "puppet"
+    },
+    {
+      "name": "docker"
+    },
+    {
+      "name": "content-management"
+    },
+    {
+      "name": "theforeman"
+    },
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 427,
+  "updatedAt": "2026-10-26T08:53:37Z",
+  "url": "https://github.com/Katello/katello",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 28
+  }
+}

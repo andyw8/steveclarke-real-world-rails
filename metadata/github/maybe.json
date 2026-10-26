@@ -1,0 +1,58 @@
+{
+  "createdAt": "2024-01-01T22:23:46Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "The personal finance app for everyone",
+  "diskUsage": 6891,
+  "forkCount": 5675,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "maybe-finance/maybe",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/737898780/adb612d1-a1e6-4e68-b314-437aa2fc8727",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2025-07-24T22:20:44Z",
+  "repositoryTopics": [
+    {
+      "name": "finance"
+    },
+    {
+      "name": "personal-finance"
+    },
+    {
+      "name": "postgresql"
+    },
+    {
+      "name": "hotwire"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "ruby-on-rails"
+    },
+    {
+      "name": "stimulusjs"
+    },
+    {
+      "name": "turbo"
+    }
+  ],
+  "stargazerCount": 54212,
+  "updatedAt": "2026-10-26T03:34:00Z",
+  "url": "https://github.com/maybe-finance/maybe",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 10
+  }
+}

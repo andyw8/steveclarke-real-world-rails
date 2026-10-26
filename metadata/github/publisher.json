@@ -1,0 +1,37 @@
+{
+  "createdAt": "2011-07-04T15:35:13Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Publishes mainstream content on GOV.UK",
+  "diskUsage": 16374,
+  "forkCount": 42,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://docs.publishing.service.gov.uk/apps/publisher.html",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "alphagov/publisher",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/bc07bf46266fe046af0cf56a2f85216c7cc9905425e3e0bb42e3df768ec666f5/alphagov/publisher",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T10:19:48Z",
+  "repositoryTopics": [
+    {
+      "name": "govuk"
+    }
+  ],
+  "stargazerCount": 49,
+  "updatedAt": "2026-10-26T10:15:08Z",
+  "url": "https://github.com/alphagov/publisher",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 94
+  }
+}

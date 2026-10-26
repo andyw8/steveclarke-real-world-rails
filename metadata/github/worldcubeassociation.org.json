@@ -1,0 +1,46 @@
+{
+  "createdAt": "2015-04-18T10:21:53Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "All of the code that runs on worldcubeassociation.org",
+  "diskUsage": 456892,
+  "forkCount": 214,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.worldcubeassociation.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "nickname": "GNU GPLv3"
+  },
+  "nameWithOwner": "thewca/worldcubeassociation.org",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/34161579/3a21ed80-6bb7-11e9-873a-12f52d590653",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T12:09:00Z",
+  "repositoryTopics": [
+    {
+      "name": "wca"
+    },
+    {
+      "name": "speedcubing"
+    },
+    {
+      "name": "competitions"
+    },
+    {
+      "name": "cubing"
+    }
+  ],
+  "stargazerCount": 411,
+  "updatedAt": "2026-10-26T12:09:05Z",
+  "url": "https://github.com/thewca/worldcubeassociation.org",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 16
+  }
+}

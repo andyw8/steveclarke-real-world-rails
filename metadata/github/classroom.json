@@ -1,0 +1,48 @@
+{
+  "createdAt": "2015-05-05T05:33:50Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.",
+  "diskUsage": 169709,
+  "forkCount": 571,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://classroom.github.com",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "github-education-resources/classroom",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/c00a0c7b010ceab1d408253a4087f10888752ddb615cf03e11b8c0bb5a7b0607/github-education-resources/classroom",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2020-03-12T15:25:27Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "github"
+    },
+    {
+      "name": "education"
+    },
+    {
+      "name": "classroom"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "oauth"
+    }
+  ],
+  "stargazerCount": 1380,
+  "updatedAt": "2026-10-15T06:41:23Z",
+  "url": "https://github.com/github-education-resources/classroom",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "createdAt": "2014-02-24T22:25:47Z",
+  "defaultBranchRef": {
+    "name": "development"
+  },
+  "description": "Time registration that doesn't suck",
+  "diskUsage": 7947,
+  "forkCount": 257,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://happyhours.io",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "DefactoSoftware/Hours",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/9847cce2039b033334c6323f8f16db53f8c5796088c50d53f0cfe81d215c1b07/DefactoSoftware/Hours",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-01-20T05:06:04Z",
+  "repositoryTopics": [
+    {
+      "name": "time-tracker"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    }
+  ],
+  "stargazerCount": 1033,
+  "updatedAt": "2026-09-29T23:03:39Z",
+  "url": "https://github.com/DefactoSoftware/Hours",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 40
+  }
+}

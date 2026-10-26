@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-08-04T20:20:52Z",
+  "defaultBranchRef": {
+    "name": "staging"
+  },
+  "description": "This is the official repository for the Girl Develop It website.",
+  "diskUsage": 71394,
+  "forkCount": 364,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://girldevelopit.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "girldevelopit/gdi-website",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/1a1ef51d884f2f7dba22f8ab0c38cf14a3712ca005a86d7359a5c7f8b7243c92/girldevelopit/gdi-website",
+  "primaryLanguage": {
+    "name": "HTML"
+  },
+  "pushedAt": "2022-12-14T02:06:33Z",
+  "repositoryTopics": null,
+  "stargazerCount": 307,
+  "updatedAt": "2026-09-05T16:26:05Z",
+  "url": "https://github.com/girldevelopit/gdi-website",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 86
+  }
+}

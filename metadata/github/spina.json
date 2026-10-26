@@ -1,0 +1,33 @@
+{
+  "createdAt": "2019-08-07T21:19:30Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Spina CMS",
+  "diskUsage": 7007,
+  "forkCount": 3,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "http://www.spinacms.com",
+  "isArchived": false,
+  "isFork": true,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "denkGroot/Spina",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/08213a997b1cae9bfbcb651e655c94f4103c4ccfc657309bd4d74d68fc55873b/denkGroot/Spina",
+  "primaryLanguage": {
+    "name": "HTML"
+  },
+  "pushedAt": "2019-08-07T21:20:32Z",
+  "repositoryTopics": null,
+  "stargazerCount": 14,
+  "updatedAt": "2024-10-15T16:58:09Z",
+  "url": "https://github.com/denkGroot/Spina",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "createdAt": "2014-05-05T06:50:13Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Multimedia story telling for the web.",
+  "diskUsage": 32533,
+  "forkCount": 131,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://pageflow.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "codevise/pageflow",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/eb446e34998a7d40a42c9ee9c42e76e698734c9bc66e03b6f1b41408a838fc3e/codevise/pageflow",
+  "primaryLanguage": {
+    "name": "JavaScript"
+  },
+  "pushedAt": "2026-10-23T14:11:58Z",
+  "repositoryTopics": [
+    {
+      "name": "scrollytelling"
+    },
+    {
+      "name": "multimedia-storytelling"
+    },
+    {
+      "name": "storytelling"
+    }
+  ],
+  "stargazerCount": 713,
+  "updatedAt": "2026-10-23T14:12:02Z",
+  "url": "https://github.com/codevise/pageflow",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 31
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-01-16T12:44:33Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A Rails plugin which provides a health checking and monitoring API of various services and application aspects.",
+  "diskUsage": 702,
+  "forkCount": 60,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "lbeder/health-monitor-rails",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/743f463f36b1f7a0bde9759fc0d6b142023bbd2a51cc5e44f9f24bf56e74ba90/lbeder/health-monitor-rails",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2025-04-27T23:44:42Z",
+  "repositoryTopics": null,
+  "stargazerCount": 218,
+  "updatedAt": "2026-10-12T16:57:06Z",
+  "url": "https://github.com/lbeder/health-monitor-rails",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

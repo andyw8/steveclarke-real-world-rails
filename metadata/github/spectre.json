@@ -1,0 +1,33 @@
+{
+  "createdAt": "2016-03-08T12:23:49Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A simple UI for browsing and inspecting diffs, and an API for runner scripts to submit screenshots to and receive a pass or fail in real time. (For use with Wraith, Backstop, Selenium etc)",
+  "diskUsage": 1089,
+  "forkCount": 69,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "wearefriday/spectre",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/e6afd4b006901691abd162ebdf885f1ba774fd79dc22ba34ff81c3c48030813a/wearefriday/spectre",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2022-05-29T01:25:19Z",
+  "repositoryTopics": null,
+  "stargazerCount": 459,
+  "updatedAt": "2026-10-02T13:52:32Z",
+  "url": "https://github.com/wearefriday/spectre",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 5
+  }
+}

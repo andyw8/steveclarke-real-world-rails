@@ -1,0 +1,43 @@
+{
+  "createdAt": "2011-10-02T16:25:27Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+  "diskUsage": 2975186,
+  "forkCount": 5943,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://about.gitlab.com/getting-help/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "gitlabhq/gitlabhq",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/0e81b0a1067f2b8c5498ac782a3fd8dae0577afbb88748100db8cfca0c12e403/gitlabhq/gitlabhq",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T09:09:41Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "gitlab"
+    },
+    {
+      "name": "rails"
+    }
+  ],
+  "stargazerCount": 24544,
+  "updatedAt": "2026-10-26T06:57:49Z",
+  "url": "https://github.com/gitlabhq/gitlabhq",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 964
+  }
+}

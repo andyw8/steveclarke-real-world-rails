@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-10-10T09:00:53Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "DEPRECATED - Please use the GitLab.com issue tracker",
+  "diskUsage": 5714,
+  "forkCount": 309,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://gitlab.com/gitlab-org/gitlab-ce/issues",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "gitlabhq/gitlab-ci",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/4f9b0181e0884f537107559968d99ecf9f829de4d63d1591c2199b72dfa96f77/gitlabhq/gitlab-ci",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2016-05-14T19:36:38Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1444,
+  "updatedAt": "2026-10-13T15:29:20Z",
+  "url": "https://github.com/gitlabhq/gitlab-ci",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 18
+  }
+}

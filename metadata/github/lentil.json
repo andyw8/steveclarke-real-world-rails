@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-04-23T19:41:09Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Lentil is no longer supported. Lentil is a Ruby on Rails Engine that supports the harvesting of images from Instagram.",
+  "diskUsage": 4360,
+  "forkCount": 13,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://lib.ncsu.edu/projects/my-huntlibrary",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "NCSU-Libraries/lentil",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b203532c4fe83fe5f4d94cd9ee5b8d93104e6c7ddc2131496febac9417dbb76d/NCSU-Libraries/lentil",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2018-10-05T12:35:59Z",
+  "repositoryTopics": null,
+  "stargazerCount": 58,
+  "updatedAt": "2023-01-28T01:59:49Z",
+  "url": "https://github.com/NCSU-Libraries/lentil",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

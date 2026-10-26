@@ -1,0 +1,49 @@
+{
+  "createdAt": "2010-04-15T14:26:03Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The administration framework for Ruby on Rails applications.",
+  "diskUsage": 16920,
+  "forkCount": 3318,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://activeadmin.info",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "activeadmin/activeadmin",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/371d033bff553f8d0a191ac20a859c6014fc43fadca6e7d2a61ce0f1d82bdba2/activeadmin/activeadmin",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T12:27:34Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "activeadmin"
+    },
+    {
+      "name": "arbre"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "admin-ui"
+    }
+  ],
+  "stargazerCount": 9716,
+  "updatedAt": "2026-10-25T15:09:47Z",
+  "url": "https://github.com/activeadmin/activeadmin",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 179
+  }
+}

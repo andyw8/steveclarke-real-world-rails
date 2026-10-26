@@ -1,0 +1,33 @@
+{
+  "createdAt": "2024-12-06T13:58:33Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "The Campsite monorepo",
+  "diskUsage": 148266,
+  "forkCount": 715,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://campsite.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "campsite/campsite",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/f26b95d8fc15d9a979bbd84922f7a320ce2b1509de150f2b8edc783b3ef36556/campsite/campsite",
+  "primaryLanguage": {
+    "name": "TypeScript"
+  },
+  "pushedAt": "2025-05-12T20:15:56Z",
+  "repositoryTopics": null,
+  "stargazerCount": 4820,
+  "updatedAt": "2026-10-26T12:21:58Z",
+  "url": "https://github.com/campsite/campsite",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 10
+  }
+}

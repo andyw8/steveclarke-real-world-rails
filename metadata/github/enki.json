@@ -1,0 +1,33 @@
+{
+  "createdAt": "2008-04-11T23:54:11Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A Ruby on Rails blogging app for the fashionable developer. It's better than Mephisto or SimpleLog",
+  "diskUsage": 12764,
+  "forkCount": 264,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "xaviershay/enki",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/727b20ae32a7a85ea9d294899b2374b869a7f1f15aae69bb895f618b824908b2/xaviershay/enki",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2022-12-14T14:09:33Z",
+  "repositoryTopics": null,
+  "stargazerCount": 822,
+  "updatedAt": "2026-04-04T19:54:20Z",
+  "url": "https://github.com/xaviershay/enki",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 17
+  }
+}

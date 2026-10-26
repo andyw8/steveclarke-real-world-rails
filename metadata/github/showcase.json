@@ -1,0 +1,33 @@
+{
+  "createdAt": "2022-04-06T12:34:32Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Ballroom Dance Showcase Scheduler",
+  "diskUsage": 7100,
+  "forkCount": 6,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "rubys/showcase",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/9b633eda559d9d1d7efcdc1bbffb1c6bf51959ae4caaeb345c681bddef53338c/rubys/showcase",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-18T23:51:39Z",
+  "repositoryTopics": null,
+  "stargazerCount": 36,
+  "updatedAt": "2026-10-18T23:51:42Z",
+  "url": "https://github.com/rubys/showcase",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2016-03-01T21:58:25Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "QuickSearch is a toolkit for easily creating custom bento-box search applications",
+  "diskUsage": 2392,
+  "forkCount": 20,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.lib.ncsu.edu/projects/quicksearch",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "NCSU-Libraries/quick_search",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/71be17d5e0b0e7730b8bd046c0ebfdc1fe0b41f9bd4731e42057cca5a2a379fa/NCSU-Libraries/quick_search",
+  "primaryLanguage": {
+    "name": "JavaScript"
+  },
+  "pushedAt": "2026-10-05T20:39:59Z",
+  "repositoryTopics": null,
+  "stargazerCount": 40,
+  "updatedAt": "2026-09-17T17:45:43Z",
+  "url": "https://github.com/NCSU-Libraries/quick_search",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 13
+  }
+}

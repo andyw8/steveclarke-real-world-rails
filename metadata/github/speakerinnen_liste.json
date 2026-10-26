@@ -1,0 +1,49 @@
+{
+  "createdAt": "2013-01-14T19:58:20Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "International Women* Speaker Directory",
+  "diskUsage": 109417,
+  "forkCount": 61,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://speakerinnen.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "rubymonsters/speakerinnen_liste",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/836c6431bd0b982b946e08c52a25c7a5b8e8e0f86e4284c0bfd1d5621a45d996/rubymonsters/speakerinnen_liste",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-24T22:04:03Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "women-speakers"
+    },
+    {
+      "name": "women-empowerment"
+    },
+    {
+      "name": "diversity"
+    },
+    {
+      "name": "railsgirls"
+    }
+  ],
+  "stargazerCount": 75,
+  "updatedAt": "2026-10-20T18:53:51Z",
+  "url": "https://github.com/rubymonsters/speakerinnen_liste",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 12
+  }
+}

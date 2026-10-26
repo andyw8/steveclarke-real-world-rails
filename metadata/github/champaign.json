@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-04-09T18:16:20Z",
+  "defaultBranchRef": {
+    "name": "development"
+  },
+  "description": "SumOfUs Online Campaign Platform.",
+  "diskUsage": 22329,
+  "forkCount": 20,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "SumOfUs/Champaign",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/5b2498c1326132e8b664267e7ce3bc650862a1c38a721fe3a27b3fda40e24a8d/SumOfUs/Champaign",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-03-27T16:20:44Z",
+  "repositoryTopics": null,
+  "stargazerCount": 48,
+  "updatedAt": "2025-04-05T21:58:28Z",
+  "url": "https://github.com/SumOfUs/Champaign",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

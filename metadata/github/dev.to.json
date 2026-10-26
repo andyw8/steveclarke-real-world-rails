@@ -1,0 +1,55 @@
+{
+  "createdAt": "2016-11-13T23:02:13Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "For empowering community 🌱",
+  "diskUsage": 1838909,
+  "forkCount": 4194,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://forem.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "forem/forem",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/73648678/380a5aeb-0956-4b3f-8c87-ac53e55638c7",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T13:12:24Z",
+  "repositoryTopics": [
+    {
+      "name": "feedback"
+    },
+    {
+      "name": "discussion"
+    },
+    {
+      "name": "community"
+    },
+    {
+      "name": "hacktoberfest"
+    },
+    {
+      "name": "open-source"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "ruby"
+    }
+  ],
+  "stargazerCount": 22810,
+  "updatedAt": "2026-10-26T13:12:30Z",
+  "url": "https://github.com/forem/forem",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 354
+  }
+}

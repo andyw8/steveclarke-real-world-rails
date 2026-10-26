@@ -1,0 +1,43 @@
+{
+  "createdAt": "2016-09-11T23:36:22Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A modern, responsive admin framework for Ruby on Rails",
+  "diskUsage": 17185,
+  "forkCount": 175,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://trestle.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "nickname": "GNU LGPLv3"
+  },
+  "nameWithOwner": "TrestleAdmin/trestle",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/89cf618abbe92e8e2b184e2cb576b72d71c88cda2059f603cdcb65f3fe9a84cf/TrestleAdmin/trestle",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2025-09-25T12:30:55Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "admin-dashboard"
+    }
+  ],
+  "stargazerCount": 1994,
+  "updatedAt": "2026-10-24T17:59:03Z",
+  "url": "https://github.com/TrestleAdmin/trestle",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 51
+  }
+}

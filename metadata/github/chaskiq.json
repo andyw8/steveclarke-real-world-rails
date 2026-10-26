@@ -1,0 +1,88 @@
+{
+  "createdAt": "2018-05-29T06:26:06Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.",
+  "diskUsage": 35187,
+  "forkCount": 509,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://chaskiq.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "chaskiq/chaskiq",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/135250854/6ebcb600-6675-11eb-9e04-3d09f197c254",
+  "primaryLanguage": {
+    "name": "TypeScript"
+  },
+  "pushedAt": "2026-06-30T17:20:11Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "react"
+    },
+    {
+      "name": "graphql"
+    },
+    {
+      "name": "messenger"
+    },
+    {
+      "name": "messenger-platform"
+    },
+    {
+      "name": "messenger-chatbots"
+    },
+    {
+      "name": "newsletter-management"
+    },
+    {
+      "name": "chat"
+    },
+    {
+      "name": "support-ticket"
+    },
+    {
+      "name": "tour-guide-app"
+    },
+    {
+      "name": "helpdesk"
+    },
+    {
+      "name": "knowledge-base"
+    },
+    {
+      "name": "livechat"
+    },
+    {
+      "name": "widget"
+    },
+    {
+      "name": "webchat"
+    },
+    {
+      "name": "livechat-bot"
+    },
+    {
+      "name": "livechat-integration"
+    },
+    {
+      "name": "chatbot"
+    }
+  ],
+  "stargazerCount": 3579,
+  "updatedAt": "2026-10-26T04:32:55Z",
+  "url": "https://github.com/chaskiq/chaskiq",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 52
+  }
+}

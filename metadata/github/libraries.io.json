@@ -1,0 +1,52 @@
+{
+  "createdAt": "2014-09-30T14:26:33Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": ":books: The Open Source Discovery Service",
+  "diskUsage": 65626,
+  "forkCount": 213,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://libraries.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "librariesio/libraries.io",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/d94c4d068ab01f496f4be0512e42ec451c9e2c8f762d4c784f783278ff2ab820/librariesio/libraries.io",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T23:30:22Z",
+  "repositoryTopics": [
+    {
+      "name": "discovery"
+    },
+    {
+      "name": "dependencies"
+    },
+    {
+      "name": "open-source"
+    },
+    {
+      "name": "search"
+    },
+    {
+      "name": "package-manager"
+    },
+    {
+      "name": "rails"
+    }
+  ],
+  "stargazerCount": 1160,
+  "updatedAt": "2026-10-23T23:30:24Z",
+  "url": "https://github.com/librariesio/libraries.io",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 52
+  }
+}

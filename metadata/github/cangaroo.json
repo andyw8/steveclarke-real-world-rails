@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-10-26T15:11:42Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Connect Any App to Any Service",
+  "diskUsage": 248,
+  "forkCount": 18,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://github.com/nebulab/cangaroo",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "nebulab/cangaroo",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/27a2a0f827883e375d8a9cafc8c34b95ba1e34726e9cea730ae0336c22e63762/nebulab/cangaroo",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2018-11-30T12:15:55Z",
+  "repositoryTopics": null,
+  "stargazerCount": 107,
+  "updatedAt": "2026-10-09T16:33:38Z",
+  "url": "https://github.com/nebulab/cangaroo",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 17
+  }
+}

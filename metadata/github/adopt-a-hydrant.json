@@ -1,0 +1,33 @@
+{
+  "createdAt": "2011-02-14T18:28:03Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A web application that allows citizens to \"adopt\" civic infrastructure, such as fire hydrants that need to be shoveled out after it snows.",
+  "diskUsage": 5961,
+  "forkCount": 230,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://adopt-a-hydrant.herokuapp.com/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "nickname": "Modified BSD License"
+  },
+  "nameWithOwner": "codeforamerica/adopt-a-hydrant",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/4953d87d99dd9c5c8a04d1acdfc94bfc896711ee05ba9486e46ece9716fa4db9/codeforamerica/adopt-a-hydrant",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-09-26T05:22:24Z",
+  "repositoryTopics": null,
+  "stargazerCount": 802,
+  "updatedAt": "2026-10-26T10:56:03Z",
+  "url": "https://github.com/codeforamerica/adopt-a-hydrant",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 58
+  }
+}

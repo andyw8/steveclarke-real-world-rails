@@ -1,0 +1,33 @@
+{
+  "createdAt": "2025-08-15T09:57:36Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Super simple group chat, without a subscription",
+  "diskUsage": 60478,
+  "forkCount": 820,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://once.com/campfire",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "basecamp/once-campfire",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/d88b79f14b1314fc6414319603e1daa45a5263a38c5708fd447ea694ca1f3eb4/basecamp/once-campfire",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-24T19:05:55Z",
+  "repositoryTopics": null,
+  "stargazerCount": 4803,
+  "updatedAt": "2026-10-25T19:41:08Z",
+  "url": "https://github.com/basecamp/once-campfire",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 24
+  }
+}

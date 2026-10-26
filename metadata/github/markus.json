@@ -1,0 +1,33 @@
+{
+  "createdAt": "2010-09-26T16:18:08Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Git repository of MarkUs",
+  "diskUsage": 208577,
+  "forkCount": 263,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "MarkUsProject/Markus",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/5e37d0b8eea78f6bc0ffe603b26884dd5f21884484b19af53a35e76ce4484a18/MarkUsProject/Markus",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T14:57:12Z",
+  "repositoryTopics": null,
+  "stargazerCount": 292,
+  "updatedAt": "2026-10-23T02:19:36Z",
+  "url": "https://github.com/MarkUsProject/Markus",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 9
+  }
+}

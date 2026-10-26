@@ -1,0 +1,49 @@
+{
+  "createdAt": "2013-05-09T01:17:41Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "The best Rails forums engine ever.",
+  "diskUsage": 3768,
+  "forkCount": 214,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "thredded/thredded",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/13652ff3c690bd0b4385e0dfcb5361ed9964bde79205414a98809f28997993d7/thredded/thredded",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-06-22T20:33:10Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "forums"
+    },
+    {
+      "name": "rails-engine"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "message-board"
+    }
+  ],
+  "stargazerCount": 1598,
+  "updatedAt": "2026-10-26T04:57:57Z",
+  "url": "https://github.com/thredded/thredded",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 25
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-02-26T22:59:57Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Deployment coordination",
+  "diskUsage": 6163,
+  "forkCount": 155,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://shopify.engineering/introducing-shipit",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "Shopify/shipit-engine",
+  "openGraphImageUrl": "https://avatars.githubusercontent.com/u/8085?s=400&v=4",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-22T15:43:32Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1493,
+  "updatedAt": "2026-10-22T15:43:34Z",
+  "url": "https://github.com/Shopify/shipit-engine",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 426
+  }
+}

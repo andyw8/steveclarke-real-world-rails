@@ -1,0 +1,33 @@
+{
+  "createdAt": "2011-03-24T06:24:53Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Event management system for all the Bridges (RailsBridge, MobileBridge, GoBridge, etc!)",
+  "diskUsage": 10511,
+  "forkCount": 256,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.bridgetroll.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "railsbridge/bridge_troll",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/6ebef9b0788327221d6d8e9c9f464127cb8925fc39cae1da75e62489b7f6a2c1/railsbridge/bridge_troll",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-02-14T10:06:34Z",
+  "repositoryTopics": null,
+  "stargazerCount": 281,
+  "updatedAt": "2026-06-12T09:41:27Z",
+  "url": "https://github.com/railsbridge/bridge_troll",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 25
+  }
+}

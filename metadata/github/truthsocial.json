@@ -1,0 +1,29 @@
+{
+  "createdAt": "2024-04-13T19:58:05Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "🎺🐤👱‍♂️ Automatically updated dump of Truth Social's source code (reskinned Mastodon)",
+  "diskUsage": 49699,
+  "forkCount": 1,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://boehs.org/node/truth-social",
+  "isArchived": false,
+  "isFork": true,
+  "licenseInfo": null,
+  "nameWithOwner": "boehs/truthsocial",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/1182a3202f06ea6ada89badb8474251fad4da31a06b8b0de00ec834e68a6f6c5/boehs/truthsocial",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2024-10-02T03:13:55Z",
+  "repositoryTopics": null,
+  "stargazerCount": 18,
+  "updatedAt": "2026-04-30T22:16:20Z",
+  "url": "https://github.com/boehs/truthsocial",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 0
+  }
+}

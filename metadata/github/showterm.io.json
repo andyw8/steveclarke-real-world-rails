@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-10-08T08:31:59Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The website for showterm!",
+  "diskUsage": 295,
+  "forkCount": 49,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ConradIrwin/showterm.io",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/84b55a0f11e3e66c8d4219e76ca7e309fd2c5cfef549001a5137ca2492b43a11/ConradIrwin/showterm.io",
+  "primaryLanguage": {
+    "name": "JavaScript"
+  },
+  "pushedAt": "2021-03-22T17:54:47Z",
+  "repositoryTopics": null,
+  "stargazerCount": 354,
+  "updatedAt": "2026-08-19T15:38:46Z",
+  "url": "https://github.com/ConradIrwin/showterm.io",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 14
+  }
+}

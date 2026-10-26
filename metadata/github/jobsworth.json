@@ -1,0 +1,33 @@
+{
+  "createdAt": "2008-10-01T00:37:47Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Project Management, Collaboration and Time Tracking.",
+  "diskUsage": 25976,
+  "forkCount": 187,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "ari/jobsworth",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/68ede68734a5aaff8757ac5b098a5ecaa1e52deda1e3981be9ccd5e423e5aae7/ari/jobsworth",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2022-12-14T01:36:32Z",
+  "repositoryTopics": null,
+  "stargazerCount": 637,
+  "updatedAt": "2026-10-22T01:09:57Z",
+  "url": "https://github.com/ari/jobsworth",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 45
+  }
+}

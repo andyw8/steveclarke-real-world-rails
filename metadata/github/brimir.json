@@ -1,0 +1,49 @@
+{
+  "createdAt": "2012-11-23T12:31:36Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Email helpdesk built using Ruby on Rails and Zurb Foundation",
+  "diskUsage": 2613,
+  "forkCount": 290,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://getbrimir.com",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "ivaldi/brimir",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/3b12254f60b85fd15a854907251d0b26587449c2ce95b3a0c0e966fc0bbdfa89/ivaldi/brimir",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2018-12-22T15:01:41Z",
+  "repositoryTopics": [
+    {
+      "name": "helpdesk"
+    },
+    {
+      "name": "ticket"
+    },
+    {
+      "name": "e-mail"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    }
+  ],
+  "stargazerCount": 1363,
+  "updatedAt": "2026-10-13T15:29:21Z",
+  "url": "https://github.com/ivaldi/brimir",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

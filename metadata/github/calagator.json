@@ -1,0 +1,33 @@
+{
+  "createdAt": "2009-01-11T01:08:17Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "An open source community calendar platform written in Ruby on Rails",
+  "diskUsage": 17625,
+  "forkCount": 217,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://calagator.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "calagator/calagator",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/246fc2f5bb32208fab98b2f05ea356e55b16ea3feeb625332f8e40177bef781d/calagator/calagator",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-02-24T01:29:48Z",
+  "repositoryTopics": null,
+  "stargazerCount": 447,
+  "updatedAt": "2026-08-20T20:06:48Z",
+  "url": "https://github.com/calagator/calagator",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 27
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "createdAt": "2023-07-29T14:34:51Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "",
+  "diskUsage": 16954,
+  "forkCount": 58,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "rubyforgood/stocks-in-the-future",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/63f11741449ae9132c45345f1b7237138c737ad375b120844f97dee9d08f007e/rubyforgood/stocks-in-the-future",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-21T08:09:57Z",
+  "repositoryTopics": [
+    {
+      "name": "hacktoberfest"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "rubyforgood"
+    }
+  ],
+  "stargazerCount": 51,
+  "updatedAt": "2026-10-21T08:09:59Z",
+  "url": "https://github.com/rubyforgood/stocks-in-the-future",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 5
+  }
+}

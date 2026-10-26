@@ -1,0 +1,304 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+################################################################################
+# Real World Rails GitHub Metadata
+################################################################################
+#
+# OVERVIEW
+# --------
+# Fetch GitHub metadata for each app/engine repository with the `gh` CLI and
+# write the raw response to metadata/github/<repository>.json.
+#
+# Repositories that already have a metadata file are skipped, so the script can
+# be re-run safely to fill in gaps or retry failures.
+#
+# Requests run in parallel. GraphQL quota is checked with `gh api rate_limit`
+# and the script waits for the quota window to reset when necessary.
+#
+# USAGE
+# -----
+#   bin/github-metadata [root] [--jobs N]
+#
+################################################################################
+
+require "fileutils"
+require "json"
+require "open3"
+require "optparse"
+require "thread"
+
+REPO_DIRECTORIES = %w[apps engines].freeze
+OUTPUT_DIRECTORY = "metadata/github"
+DEFAULT_JOBS = 4
+MAX_RETRIES = 5
+
+FIELDS = %w[
+  nameWithOwner description url homepageUrl stargazerCount forkCount watchers
+  primaryLanguage isArchived isFork visibility createdAt updatedAt pushedAt
+  diskUsage repositoryTopics licenseInfo defaultBranchRef hasIssuesEnabled
+  hasDiscussionsEnabled openGraphImageUrl
+].freeze
+
+GH_ENVIRONMENT = {
+  "GH_PROMPT_DISABLED" => "1",
+  "GH_NO_UPDATE_NOTIFIER" => "1",
+  "NO_COLOR" => "1"
+}.freeze
+
+# Coordinates access to the GraphQL quota across worker threads.
+class RateLimiter
+  def initialize
+    @mutex = Mutex.new
+    @remaining = nil
+    @reset_at = nil
+  end
+
+  # Reserves one request, sleeping until the quota window resets if necessary.
+  def acquire
+    loop do
+      wait = @mutex.synchronize do
+        refresh if @remaining.nil?
+
+        if @remaining.positive?
+          @remaining -= 1
+          return
+        end
+
+        @reset_at
+      end
+
+      sleep_until(wait)
+      @mutex.synchronize { refresh if @remaining <= 0 }
+    end
+  end
+
+  # Called after `gh` reports a rate-limit error. Re-checks the actual quota
+  # and waits for a reset if it is exhausted.
+  def wait_for_quota
+    @mutex.synchronize { refresh }
+
+    loop do
+      wait = @mutex.synchronize do
+        return if @remaining.positive?
+
+        @reset_at
+      end
+
+      sleep_until(wait)
+      @mutex.synchronize { refresh }
+    end
+  end
+
+  private
+
+  def refresh
+    output, error, status = Open3.capture3(
+      GH_ENVIRONMENT,
+      "gh", "api", "rate_limit", "--jq", ".resources.graphql"
+    )
+    raise "Could not read GitHub rate limit: #{error.strip}" unless status.success?
+
+    quota = JSON.parse(output)
+    @remaining = quota.fetch("remaining").to_i
+    @reset_at = quota.fetch("reset").to_i
+  end
+
+  def sleep_until(epoch)
+    seconds = epoch.to_i - Time.now.to_i + 1
+    return if seconds <= 0
+
+    warn "GitHub rate limit reached; waiting #{seconds}s for the quota window to reset..."
+    sleep seconds
+  end
+end
+
+def main
+  options = parse_options
+  root = File.expand_path(options[:root])
+  output_directory = File.join(root, OUTPUT_DIRECTORY)
+  FileUtils.mkdir_p(output_directory)
+
+  repositories = repositories(root)
+  pending = repositories.reject do |repository|
+    File.exist?(File.join(output_directory, "#{repository[:name]}.json"))
+  end
+
+  puts "Found #{repositories.size} repositories; #{pending.size} to fetch, " \
+       "#{repositories.size - pending.size} already saved."
+
+  if pending.empty?
+    puts "Nothing to do."
+    return
+  end
+
+  ensure_gh_ready!
+  results = fetch_all(pending, output_directory, options[:jobs])
+  report(results)
+end
+
+def parse_options
+  options = { root: File.expand_path("..", __dir__), jobs: DEFAULT_JOBS }
+
+  OptionParser.new do |parser|
+    parser.banner = "Usage: bin/github-metadata [root] [--jobs N]"
+
+    parser.on("-j", "--jobs N", Integer, "Concurrent requests (default: #{DEFAULT_JOBS})") do |jobs|
+      raise OptionParser::InvalidArgument, "jobs must be at least 1" if jobs < 1
+
+      options[:jobs] = jobs
+    end
+
+    parser.on("-h", "--help") do
+      puts parser
+      exit
+    end
+  end.parse!
+
+  options[:root] = File.expand_path(ARGV[0]) if ARGV[0]
+  options
+rescue OptionParser::ParseError => e
+  warn e.message
+  exit 1
+end
+
+def ensure_gh_ready!
+  _output, _error, status = Open3.capture3(GH_ENVIRONMENT, "gh", "auth", "status")
+  return if status.success?
+
+  warn "GitHub CLI is not authenticated. Run `gh auth login` first."
+  exit 1
+end
+
+def repositories(root)
+  REPO_DIRECTORIES.flat_map do |directory|
+    path = File.join(root, directory)
+    next [] unless Dir.exist?(path)
+
+    Dir.children(path)
+       .reject { |name| name.start_with?(".") }
+       .sort
+       .filter_map do |name|
+         repository_path = File.join(path, name)
+         next unless Dir.exist?(repository_path)
+
+         { name: name, path: repository_path, slug: repository_slug(repository_path) }
+       end
+  end
+end
+
+def repository_slug(repository)
+  remote, _error, status = Open3.capture3(
+    "git", "-C", repository, "config", "--get", "remote.origin.url"
+  )
+  return if !status.success? || remote.strip.empty?
+
+  match = remote.strip
+                .delete_suffix("/")
+                .delete_suffix(".git")
+                .match(%r{github\.com[:/]([^/]+)/([^/]+)\z})
+  "#{match[1]}/#{match[2]}" if match
+end
+
+def fetch_all(repositories, output_directory, jobs)
+  queue = Queue.new
+  repositories.each { |repository| queue << repository }
+  queue.close
+
+  results = { written: 0, skipped: 0, failed: [], total: repositories.size }
+  results_mutex = Mutex.new
+  limiter = RateLimiter.new
+
+  workers = Array.new(jobs) do
+    Thread.new do
+      while (repository = queue.pop)
+        process(repository, output_directory, limiter, results, results_mutex)
+      end
+    end
+  end
+
+  workers.each(&:join)
+  results
+end
+
+def process(repository, output_directory, limiter, results, results_mutex)
+  path = File.join(output_directory, "#{repository[:name]}.json")
+
+  if File.exist?(path)
+    results_mutex.synchronize { results[:skipped] += 1 }
+    return
+  end
+
+  if repository[:slug].nil?
+    record_failure(results, results_mutex, repository[:name], "no GitHub remote found")
+    return
+  end
+
+  response = fetch_repository(repository[:slug], limiter)
+  write_atomically(path, response)
+
+  total = results_mutex.synchronize do
+    results[:written] += 1
+    results[:written] + results[:skipped] + results[:failed].size
+  end
+  puts "[#{total}/#{results[:total]}] #{repository[:name]}"
+rescue StandardError => e
+  record_failure(results, results_mutex, repository[:name], e.message)
+end
+
+def fetch_repository(slug, limiter)
+  attempts = 0
+
+  loop do
+    attempts += 1
+    limiter.acquire
+
+    output, error, status = Open3.capture3(
+      GH_ENVIRONMENT,
+      "gh", "repo", "view", slug, "--json", FIELDS.join(",")
+    )
+    return "#{JSON.pretty_generate(JSON.parse(output))}\n" if status.success?
+
+    if attempts <= MAX_RETRIES && error.match?(/secondary rate limit/i)
+      warn "GitHub secondary rate limit hit; waiting 60s..."
+      sleep 60
+      next
+    end
+
+    if attempts <= MAX_RETRIES && error.match?(/rate limit/i)
+      limiter.wait_for_quota
+      next
+    end
+
+    raise error.strip
+  end
+end
+
+def write_atomically(path, contents)
+  temporary = "#{path}.tmp.#{Process.pid}.#{Thread.current.object_id}"
+  File.write(temporary, contents)
+  File.rename(temporary, path)
+ensure
+  File.delete(temporary) if temporary && File.exist?(temporary)
+end
+
+def record_failure(results, results_mutex, name, message)
+  results_mutex.synchronize do
+    results[:failed] << [name, message]
+    warn "Failed #{name}: #{message}"
+  end
+end
+
+def report(results)
+  puts
+  puts "Wrote #{results[:written]} file#{'s' unless results[:written] == 1}."
+  puts "Skipped #{results[:skipped]} existing file#{'s' unless results[:skipped] == 1}." if results[:skipped].positive?
+
+  return if results[:failed].empty?
+
+  puts "Failed #{results[:failed].size} repositor#{results[:failed].size == 1 ? 'y' : 'ies'}:"
+  results[:failed].each { |name, message| puts "  - #{name}: #{message}" }
+  exit 1
+end
+
+main

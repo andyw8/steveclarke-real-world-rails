@@ -1,0 +1,33 @@
+{
+  "createdAt": "2018-05-29T06:20:28Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.",
+  "diskUsage": 85795,
+  "forkCount": 143,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://hcb.hackclub.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "hackclub/hcb",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/135250235/2f3f1b30-8b57-48c8-9884-ee7ca6be1072",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T06:56:58Z",
+  "repositoryTopics": null,
+  "stargazerCount": 878,
+  "updatedAt": "2026-10-25T20:14:54Z",
+  "url": "https://github.com/hackclub/hcb",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

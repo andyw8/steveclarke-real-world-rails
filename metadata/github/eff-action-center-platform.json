@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-05-29T23:27:28Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "The EFF Action Center Platform",
+  "diskUsage": 6099,
+  "forkCount": 74,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "EFForg/action-center-platform",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/ad5884c8f8fe91d3cea622c6baf7a9a53abf313e1b5095628bbabb51dc0c73ae/EFForg/action-center-platform",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-04-28T19:40:15Z",
+  "repositoryTopics": null,
+  "stargazerCount": 551,
+  "updatedAt": "2026-10-26T03:26:11Z",
+  "url": "https://github.com/EFForg/action-center-platform",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 42
+  }
+}

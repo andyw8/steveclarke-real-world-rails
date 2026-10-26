@@ -1,0 +1,33 @@
+{
+  "createdAt": "2008-10-09T15:10:52Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A Rails Engine for building Shopify Apps",
+  "diskUsage": 6927,
+  "forkCount": 740,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "Shopify/shopify_app",
+  "openGraphImageUrl": "https://avatars.githubusercontent.com/u/8085?s=400&v=4",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-15T13:48:24Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1943,
+  "updatedAt": "2026-10-23T18:36:30Z",
+  "url": "https://github.com/Shopify/shopify_app",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 488
+  }
+}

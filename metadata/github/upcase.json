@@ -1,0 +1,37 @@
+{
+  "createdAt": "2009-07-07T17:35:57Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Sharpen your programming skills.",
+  "diskUsage": 63639,
+  "forkCount": 39,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://thoughtbot.com/upcase",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "thoughtbot/upcase",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/e9664f6002ee9f2f9a928bb92a68b62622d01a6b477cd187fe693629c9b0bcdb/thoughtbot/upcase",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-02-10T16:23:22Z",
+  "repositoryTopics": [
+    {
+      "name": "product"
+    }
+  ],
+  "stargazerCount": 338,
+  "updatedAt": "2026-07-14T05:34:57Z",
+  "url": "https://github.com/thoughtbot/upcase",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 27
+  }
+}

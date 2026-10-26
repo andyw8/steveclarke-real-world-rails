@@ -1,0 +1,46 @@
+{
+  "createdAt": "2013-01-04T13:09:14Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A web interface for browsing Ruby on Rails sent emails",
+  "diskUsage": 764,
+  "forkCount": 129,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "fgrehm/letter_opener_web",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/080c5dbff043ef7b110ee5fb3ee0f099d03457e8e075e5cdeb85ed8455eac070/fgrehm/letter_opener_web",
+  "primaryLanguage": {
+    "name": "HTML"
+  },
+  "pushedAt": "2026-04-08T14:21:00Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "email"
+    },
+    {
+      "name": "inbox"
+    },
+    {
+      "name": "development"
+    }
+  ],
+  "stargazerCount": 814,
+  "updatedAt": "2026-10-24T01:57:26Z",
+  "url": "https://github.com/fgrehm/letter_opener_web",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 6
+  }
+}

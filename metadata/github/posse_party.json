@@ -1,0 +1,33 @@
+{
+  "createdAt": "2025-11-27T17:33:34Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Quit social media by posting more",
+  "diskUsage": 33453,
+  "forkCount": 15,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "searlsco/posse_party",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/bd565a7e99a5aae88debfb716e3ea5def1df7561a716c5d563a15d1ac3de0f72/searlsco/posse_party",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T19:46:41Z",
+  "repositoryTopics": null,
+  "stargazerCount": 215,
+  "updatedAt": "2026-10-23T19:46:36Z",
+  "url": "https://github.com/searlsco/posse_party",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 1
+  }
+}

@@ -62,6 +62,7 @@ If you want to update all submodules to the absolute latest right now (without w
 - **`bin/update`** — Pull latest changes and update all submodules to their latest remote commits
 - **`bin/status`** — Show how many apps are initialized
 - **`bin/metadata`** — Write each repo's URL, apps/engines, their Ruby/Rails versions, Gemfile.lock presence, Stimulus usage, and last commit date to `metadata/*.json`
+- **`bin/github-metadata`** — Fetch each repo's GitHub metadata (stars, forks, topics, license, timestamps, etc.) with the `gh` CLI and save it to `metadata/github/*.json` (requires `gh` CLI; skips existing files and parallelizes requests)
 - **`bin/add`** — Add a new app or engine by GitHub URL (e.g. `bin/add https://github.com/user/repo`)
 - **`bin/verify`** — Check that each submodule repo still exists on GitHub and hasn't been moved or renamed (requires `gh` CLI)
 

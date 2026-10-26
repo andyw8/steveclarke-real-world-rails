@@ -1,0 +1,55 @@
+{
+  "createdAt": "2008-03-11T11:43:25Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A free, open source, non-commercial home for musicians and their music",
+  "diskUsage": 70509,
+  "forkCount": 94,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://alonetone.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "sudara/alonetone",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/3456/6bb75d00-b269-11e9-82b6-a0911da0ff06",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-17T14:17:07Z",
+  "repositoryTopics": [
+    {
+      "name": "platform"
+    },
+    {
+      "name": "music"
+    },
+    {
+      "name": "non-commercial"
+    },
+    {
+      "name": "mp3"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "songs"
+    }
+  ],
+  "stargazerCount": 381,
+  "updatedAt": "2026-10-17T14:17:11Z",
+  "url": "https://github.com/sudara/alonetone",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 13
+  }
+}

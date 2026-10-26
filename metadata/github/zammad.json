@@ -1,0 +1,76 @@
+{
+  "createdAt": "2012-04-02T08:50:33Z",
+  "defaultBranchRef": {
+    "name": "develop"
+  },
+  "description": "Zammad is a web based open source helpdesk/customer support system.",
+  "diskUsage": 1103808,
+  "forkCount": 1080,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://zammad.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "zammad/zammad",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/9478611964ef57dcc3ff8d5a9c62f2e159c9aa97752b73a841375cb770c38801/zammad/zammad",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T13:02:55Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "javascript"
+    },
+    {
+      "name": "coffeescript"
+    },
+    {
+      "name": "zammad"
+    },
+    {
+      "name": "ticketing"
+    },
+    {
+      "name": "helpdesk"
+    },
+    {
+      "name": "customer-support"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "customer-care"
+    },
+    {
+      "name": "support"
+    },
+    {
+      "name": "graphql"
+    },
+    {
+      "name": "typescript"
+    },
+    {
+      "name": "vite"
+    },
+    {
+      "name": "vuejs"
+    }
+  ],
+  "stargazerCount": 6031,
+  "updatedAt": "2026-10-26T13:03:07Z",
+  "url": "https://github.com/zammad/zammad",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 132
+  }
+}

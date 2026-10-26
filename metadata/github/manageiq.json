@@ -1,0 +1,91 @@
+{
+  "createdAt": "2014-06-13T02:31:26Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "ManageIQ Open-Source Management Platform",
+  "diskUsage": 422429,
+  "forkCount": 940,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://manageiq.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "nickname": ""
+  },
+  "nameWithOwner": "ManageIQ/manageiq",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/1e371aea4a3e3bc0a1f976c9a6da2722bb0e267d41133f92beae95aa3f6b5104/ManageIQ/manageiq",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T13:07:13Z",
+  "repositoryTopics": [
+    {
+      "name": "manageiq"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "cloud"
+    },
+    {
+      "name": "containers"
+    },
+    {
+      "name": "vmware"
+    },
+    {
+      "name": "rhev"
+    },
+    {
+      "name": "ovirt"
+    },
+    {
+      "name": "amazon"
+    },
+    {
+      "name": "management"
+    },
+    {
+      "name": "ansible"
+    },
+    {
+      "name": "google-cloud"
+    },
+    {
+      "name": "azure"
+    },
+    {
+      "name": "openstack"
+    },
+    {
+      "name": "kubernetes"
+    },
+    {
+      "name": "openshift"
+    },
+    {
+      "name": "nuage"
+    },
+    {
+      "name": "foreman"
+    },
+    {
+      "name": "aws"
+    }
+  ],
+  "stargazerCount": 1402,
+  "updatedAt": "2026-10-26T13:07:21Z",
+  "url": "https://github.com/ManageIQ/manageiq",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 63
+  }
+}

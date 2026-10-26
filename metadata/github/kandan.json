@@ -1,0 +1,55 @@
+{
+  "createdAt": "2026-02-23T17:02:02Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
+  "diskUsage": 13165,
+  "forkCount": 27,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "steveclarke/real-world-rails",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/7824bbe445a21af5dadc374d32df996894493053fd163db2e214cf674b6da8d7/steveclarke/real-world-rails",
+  "primaryLanguage": {
+    "name": "Shell"
+  },
+  "pushedAt": "2026-10-26T08:52:11Z",
+  "repositoryTopics": [
+    {
+      "name": "ai-agents"
+    },
+    {
+      "name": "code-patterns"
+    },
+    {
+      "name": "learning"
+    },
+    {
+      "name": "open-source"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "real-world"
+    },
+    {
+      "name": "ruby"
+    }
+  ],
+  "stargazerCount": 545,
+  "updatedAt": "2026-10-26T02:14:32Z",
+  "url": "https://github.com/steveclarke/real-world-rails",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

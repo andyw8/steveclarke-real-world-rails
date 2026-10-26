@@ -1,0 +1,33 @@
+{
+  "createdAt": "2025-02-24T11:56:56Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "YLL is a lightweight and secure URL shortener built with Ruby on Rails. It provides a simple way to generate short links, track clicks, and optionally set expiration times or password protection for added security.",
+  "diskUsage": 128,
+  "forkCount": 0,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "davidesantangelo/yll",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/290dc76a7807a096ae5adbb3a8a2dba33a9b6b804a8553f1f286e7be613d1e64/davidesantangelo/yll",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2025-05-26T16:58:13Z",
+  "repositoryTopics": null,
+  "stargazerCount": 19,
+  "updatedAt": "2025-10-06T09:33:29Z",
+  "url": "https://github.com/davidesantangelo/yll",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-05-04T08:40:30Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Email subscriptions for Rails",
+  "diskUsage": 216,
+  "forkCount": 81,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ankane/mailkick",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/e51e1bb75a17e2af915492e3fc9de489cc300f14508adffd17873172b53178c4/ankane/mailkick",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-08-08T18:13:45Z",
+  "repositoryTopics": null,
+  "stargazerCount": 975,
+  "updatedAt": "2026-09-01T13:34:42Z",
+  "url": "https://github.com/ankane/mailkick",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 14
+  }
+}

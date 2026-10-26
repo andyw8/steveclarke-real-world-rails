@@ -1,0 +1,55 @@
+{
+  "createdAt": "2011-07-16T10:26:14Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Tracks is a GTD™ web application, built with Ruby on Rails",
+  "diskUsage": 22881,
+  "forkCount": 530,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.getontracks.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "nickname": "GNU GPLv2"
+  },
+  "nameWithOwner": "TracksApp/tracks",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/29e56ef7a6dc881646f31cb7c8a9d0f68f33acad40a6d5c2fac07073519abeea/TracksApp/tracks",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-08-03T15:42:54Z",
+  "repositoryTopics": [
+    {
+      "name": "gtd"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "todo"
+    },
+    {
+      "name": "tracks"
+    },
+    {
+      "name": "productivity"
+    },
+    {
+      "name": "getting-things-done"
+    }
+  ],
+  "stargazerCount": 1239,
+  "updatedAt": "2026-10-22T01:17:42Z",
+  "url": "https://github.com/TracksApp/tracks",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 54
+  }
+}

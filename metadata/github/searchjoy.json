@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-10-24T07:37:31Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Search analytics made easy",
+  "diskUsage": 267,
+  "forkCount": 51,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ankane/searchjoy",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/fbab7f28eb2d3846d4614808e387969ce0b8d14c0570e1dd101d249c7636e2b7/ankane/searchjoy",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-04-08T21:32:38Z",
+  "repositoryTopics": null,
+  "stargazerCount": 666,
+  "updatedAt": "2026-08-15T23:07:47Z",
+  "url": "https://github.com/ankane/searchjoy",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 9
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2011-02-07T14:50:58Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project",
+  "diskUsage": 71511,
+  "forkCount": 869,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://www.transformativeworks.org/archive_of_our_own",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "nickname": "GNU GPLv2"
+  },
+  "nameWithOwner": "otwcode/otwarchive",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/d0738a96bff76d71df1cd02b98e48795a602139c17795b0651678b47f3871baf/otwcode/otwarchive",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T22:06:00Z",
+  "repositoryTopics": null,
+  "stargazerCount": 2280,
+  "updatedAt": "2026-10-25T13:34:33Z",
+  "url": "https://github.com/otwcode/otwarchive",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 73
+  }
+}

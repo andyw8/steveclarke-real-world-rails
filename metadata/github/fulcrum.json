@@ -1,0 +1,33 @@
+{
+  "createdAt": "2011-06-06T09:37:07Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "An agile project planning tool",
+  "diskUsage": 2242,
+  "forkCount": 341,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://wholemeal.co.nz/projects/fulcrum.html",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "fulcrum-agile/fulcrum",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/9ab294a6743f0b771b8cdde7d1097393e30d8ea8caa1f12cc48d5f98ff9fecde/fulcrum-agile/fulcrum",
+  "primaryLanguage": {
+    "name": "JavaScript"
+  },
+  "pushedAt": "2022-07-22T03:58:25Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1493,
+  "updatedAt": "2026-10-26T06:53:46Z",
+  "url": "https://github.com/fulcrum-agile/fulcrum",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

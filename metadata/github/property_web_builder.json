@@ -1,0 +1,73 @@
+{
+  "createdAt": "2016-11-04T17:51:48Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Create a fully featured real estate website on Rails in minutes! ⛺",
+  "diskUsage": 96573,
+  "forkCount": 285,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://propertywebbuilder.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "etewiah/property_web_builder",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/76a784dfdfd8b042ab53fae84a2100bc4a4c4038027dd7e3231ef52e23b49ec4/etewiah/property_web_builder",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-19T21:14:32Z",
+  "repositoryTopics": [
+    {
+      "name": "real-estate"
+    },
+    {
+      "name": "property-management"
+    },
+    {
+      "name": "opensource"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "heroku"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rets"
+    },
+    {
+      "name": "mls"
+    },
+    {
+      "name": "proptech"
+    },
+    {
+      "name": "lead-generator"
+    },
+    {
+      "name": "crm"
+    },
+    {
+      "name": "cms"
+    },
+    {
+      "name": "real-estate-website"
+    }
+  ],
+  "stargazerCount": 649,
+  "updatedAt": "2026-10-26T02:42:45Z",
+  "url": "https://github.com/etewiah/property_web_builder",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 37
+  }
+}

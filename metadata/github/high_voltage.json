@@ -1,0 +1,33 @@
+{
+  "createdAt": "2009-04-21T19:54:37Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Easily include static pages in your Rails app.",
+  "diskUsage": 988,
+  "forkCount": 147,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://thoughtbot.github.io/high_voltage",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "thoughtbot/high_voltage",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/be3463a7fb1d466da3651cffcb0b0b7a9f28871fa93cf05c0c4b499900eeda65/thoughtbot/high_voltage",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-01T15:46:09Z",
+  "repositoryTopics": null,
+  "stargazerCount": 3228,
+  "updatedAt": "2026-10-16T14:12:36Z",
+  "url": "https://github.com/thoughtbot/high_voltage",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 55
+  }
+}

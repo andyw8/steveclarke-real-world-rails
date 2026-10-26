@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-04-10T22:29:15Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Management application for Mission of Mercy free dental clinics",
+  "diskUsage": 5705,
+  "forkCount": 29,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "mission-of-mercy/mission-of-mercy",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/f6cf95336b3fb2421db817c5d0fa73a1dee09378454efa7aed38f481d2b93788/mission-of-mercy/mission-of-mercy",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2022-02-26T03:14:08Z",
+  "repositoryTopics": null,
+  "stargazerCount": 48,
+  "updatedAt": "2025-05-15T23:45:45Z",
+  "url": "https://github.com/mission-of-mercy/mission-of-mercy",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

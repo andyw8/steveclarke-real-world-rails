@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-05-01T12:56:19Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Webapp to manage the workflow in Parliamentary Questions",
+  "diskUsage": 8227,
+  "forkCount": 21,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ministryofjustice/parliamentary-questions",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/78d15271ce90b3db449cccf24057b37a71d06d3e3edaf0012a4eaddb605b2b5f/ministryofjustice/parliamentary-questions",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-16T00:47:16Z",
+  "repositoryTopics": null,
+  "stargazerCount": 5,
+  "updatedAt": "2026-10-13T11:14:50Z",
+  "url": "https://github.com/ministryofjustice/parliamentary-questions",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 34
+  }
+}

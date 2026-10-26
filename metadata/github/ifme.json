@@ -1,0 +1,94 @@
+{
+  "createdAt": "2014-04-19T06:58:25Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Free, open source mental health communication web app to share experiences with loved ones",
+  "diskUsage": 100055,
+  "forkCount": 764,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://www.if-me.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "ifmeorg/ifme",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/281782d8b5b8b71d272c16af0fe0528c8d1435e101d18151b3462e5d0dfdebd9/ifmeorg/ifme",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-17T10:11:40Z",
+  "repositoryTopics": [
+    {
+      "name": "mental-health"
+    },
+    {
+      "name": "community-driven"
+    },
+    {
+      "name": "ruby-on-rails"
+    },
+    {
+      "name": "javascript"
+    },
+    {
+      "name": "free-software"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "react"
+    },
+    {
+      "name": "flow"
+    },
+    {
+      "name": "i18n"
+    },
+    {
+      "name": "social-impact"
+    },
+    {
+      "name": "storybook"
+    },
+    {
+      "name": "rspec"
+    },
+    {
+      "name": "capybara"
+    },
+    {
+      "name": "jest"
+    },
+    {
+      "name": "html"
+    },
+    {
+      "name": "scss"
+    },
+    {
+      "name": "webpack"
+    },
+    {
+      "name": "react-testing-library"
+    },
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 1650,
+  "updatedAt": "2026-10-20T22:56:11Z",
+  "url": "https://github.com/ifmeorg/ifme",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 83
+  }
+}

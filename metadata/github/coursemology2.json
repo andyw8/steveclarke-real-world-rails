@@ -1,0 +1,40 @@
+{
+  "createdAt": "2014-07-23T14:57:06Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Rails 6 re-write of Coursemology",
+  "diskUsage": 91359,
+  "forkCount": 78,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://coursemology.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "Coursemology/coursemology2",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/190e715671950a4ba3c09f1e75d2bd0edec1b977fe41334547b9e76650f3b302/Coursemology/coursemology2",
+  "primaryLanguage": {
+    "name": "TypeScript"
+  },
+  "pushedAt": "2026-10-26T11:13:54Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "react"
+    }
+  ],
+  "stargazerCount": 158,
+  "updatedAt": "2026-10-26T11:13:57Z",
+  "url": "https://github.com/Coursemology/coursemology2",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 11
+  }
+}

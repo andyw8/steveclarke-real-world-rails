@@ -1,0 +1,37 @@
+{
+  "createdAt": "2011-08-03T08:52:34Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "\"Find My Nearest\" API and management tools on GOV.UK",
+  "diskUsage": 4791,
+  "forkCount": 6,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://docs.publishing.service.gov.uk/apps/imminence.html",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "alphagov/places-manager",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/4f11d41545bbdc45bea2095d41483abb98b4a7b745d8630794df00217db35899/alphagov/places-manager",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T09:54:46Z",
+  "repositoryTopics": [
+    {
+      "name": "govuk"
+    }
+  ],
+  "stargazerCount": 13,
+  "updatedAt": "2026-10-26T09:53:59Z",
+  "url": "https://github.com/alphagov/places-manager",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 79
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-07-21T09:56:02Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A performance dashboard for Postgres",
+  "diskUsage": 2457,
+  "forkCount": 482,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ankane/pghero",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/da89fae0a69f25ed3982d5d8ae4466ad15395655c66258f4f339fdea21c0b975/ankane/pghero",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-22T01:24:11Z",
+  "repositoryTopics": null,
+  "stargazerCount": 8940,
+  "updatedAt": "2026-10-25T04:09:53Z",
+  "url": "https://github.com/ankane/pghero",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 84
+  }
+}

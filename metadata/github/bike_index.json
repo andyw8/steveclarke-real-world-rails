@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-07-25T21:52:26Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "All the code for Bike Index, because we love you",
+  "diskUsage": 282458,
+  "forkCount": 76,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://bikeindex.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "bikeindex/bike_index",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/11671912/c6d648b9-22fe-4414-906a-4e9e36f38164",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T11:54:07Z",
+  "repositoryTopics": null,
+  "stargazerCount": 308,
+  "updatedAt": "2026-10-25T16:14:14Z",
+  "url": "https://github.com/bikeindex/bike_index",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 14
+  }
+}

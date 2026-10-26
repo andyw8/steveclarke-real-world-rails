@@ -1,0 +1,29 @@
+{
+  "createdAt": "2011-05-23T13:56:55Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Flip lets you declare and manage feature flags, backed by cookies (private testing) and database (site-wide).",
+  "diskUsage": 107,
+  "forkCount": 66,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "pda/flip",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/22d1e4f4a724c74eac17dbe0f35a11c7bc0ba36da8dffabe5820a4a971a164c7/pda/flip",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-02-14T06:52:09Z",
+  "repositoryTopics": null,
+  "stargazerCount": 404,
+  "updatedAt": "2026-10-09T10:38:33Z",
+  "url": "https://github.com/pda/flip",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 6
+  }
+}

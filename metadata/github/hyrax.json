@@ -1,0 +1,61 @@
+{
+  "createdAt": "2016-11-29T23:09:59Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.",
+  "diskUsage": 222389,
+  "forkCount": 140,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://hyrax.samvera.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "nickname": ""
+  },
+  "nameWithOwner": "samvera/hyrax",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/2819ab46272ba842d041ff6609d78261d54db0bb2789f8c7dd39abc6c3734cb3/samvera/hyrax",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T11:22:58Z",
+  "repositoryTopics": [
+    {
+      "name": "repository"
+    },
+    {
+      "name": "sufia"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "hydra-community"
+    },
+    {
+      "name": "fcrepo"
+    },
+    {
+      "name": "blacklight"
+    },
+    {
+      "name": "hyrax"
+    },
+    {
+      "name": "samvera"
+    },
+    {
+      "name": "samvera-community"
+    }
+  ],
+  "stargazerCount": 201,
+  "updatedAt": "2026-10-23T22:41:03Z",
+  "url": "https://github.com/samvera/hyrax",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 56
+  }
+}

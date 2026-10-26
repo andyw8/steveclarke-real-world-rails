@@ -1,0 +1,29 @@
+{
+  "createdAt": "2016-03-24T16:28:32Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "",
+  "diskUsage": 2446,
+  "forkCount": 10,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "thoughtbot/freshfoodconnect",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/6c571f7c4a388e0c13b24d0c66d32babfb106e0e018f824130b0fe8692efe2de/thoughtbot/freshfoodconnect",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2021-09-24T16:04:44Z",
+  "repositoryTopics": null,
+  "stargazerCount": 16,
+  "updatedAt": "2022-09-27T00:13:09Z",
+  "url": "https://github.com/thoughtbot/freshfoodconnect",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "createdAt": "2012-05-11T13:35:14Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Tolk is a web interface for doing i18n translations packaged as an engine for Rails applications",
+  "diskUsage": 1231,
+  "forkCount": 151,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "tolk/tolk",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/292031eb1c03a3cbae5b44c0af604b81d6d0688812f7d8c1f12257ca193236aa/tolk/tolk",
+  "primaryLanguage": {
+    "name": "HTML"
+  },
+  "pushedAt": "2025-01-18T11:18:31Z",
+  "repositoryTopics": [
+    {
+      "name": "i18n"
+    },
+    {
+      "name": "internationalization"
+    },
+    {
+      "name": "localization"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "translations"
+    }
+  ],
+  "stargazerCount": 607,
+  "updatedAt": "2026-09-01T13:34:32Z",
+  "url": "https://github.com/tolk/tolk",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 16
+  }
+}

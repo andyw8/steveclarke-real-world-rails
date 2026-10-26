@@ -1,0 +1,55 @@
+{
+  "createdAt": "2011-07-19T15:12:06Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Pomodoro Technique® online time tracker",
+  "diskUsage": 2146,
+  "forkCount": 89,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://www.tomato.es",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "tomatoes-app/tomatoes",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/d095473cf3fc5160261461378d4b67a37758f81b61606c9b5a3e23d76ba40a83/tomatoes-app/tomatoes",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-11-14T18:30:59Z",
+  "repositoryTopics": [
+    {
+      "name": "pomodoro-technique"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "mongodb"
+    },
+    {
+      "name": "mongoid"
+    },
+    {
+      "name": "rails-application"
+    },
+    {
+      "name": "productivity"
+    }
+  ],
+  "stargazerCount": 347,
+  "updatedAt": "2026-10-18T18:25:44Z",
+  "url": "https://github.com/tomatoes-app/tomatoes",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 22
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2010-07-22T19:02:27Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A platform to create, publish and edit sites",
+  "diskUsage": 32161,
+  "forkCount": 612,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://www.locomotivecms.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "locomotivecms/engine",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/4490849d16373d52d79c7c00e23b9b9db5ec4db95e1cb806ae72cf3f65b93629/locomotivecms/engine",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2025-08-07T08:51:45Z",
+  "repositoryTopics": null,
+  "stargazerCount": 2321,
+  "updatedAt": "2026-10-11T00:25:37Z",
+  "url": "https://github.com/locomotivecms/engine",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 77
+  }
+}

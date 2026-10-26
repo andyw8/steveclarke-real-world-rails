@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-06-12T10:01:26Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Attachments handler for Rails that uses Cloudinary for storage.",
+  "diskUsage": 339,
+  "forkCount": 127,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "assembler/attachinary",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/9ad9c8b2ef56d837d6b73ae8fae64e7e8856b4727afa68dff153f6e3d8dd4adb/assembler/attachinary",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-02-16T10:30:23Z",
+  "repositoryTopics": null,
+  "stargazerCount": 294,
+  "updatedAt": "2026-07-22T10:44:27Z",
+  "url": "https://github.com/assembler/attachinary",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 15
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "createdAt": "2013-12-22T05:39:05Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Take the hassle out of web scraping",
+  "diskUsage": 16049,
+  "forkCount": 82,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://morph.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "openaustralia/morph",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/23510edda8da1d80e712f04f2a305e8c8d99096dd58bf23bffe0afab1bb14016/openaustralia/morph",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-09-22T01:57:29Z",
+  "repositoryTopics": [
+    {
+      "name": "civictech"
+    },
+    {
+      "name": "docker"
+    },
+    {
+      "name": "webscraping"
+    }
+  ],
+  "stargazerCount": 482,
+  "updatedAt": "2026-09-23T02:29:37Z",
+  "url": "https://github.com/openaustralia/morph",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 14
+  }
+}

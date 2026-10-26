@@ -1,0 +1,29 @@
+{
+  "createdAt": "2014-02-12T17:05:04Z",
+  "defaultBranchRef": {
+    "name": "legacy-2018"
+  },
+  "description": "An open-source assets exchange.",
+  "diskUsage": 5985,
+  "forkCount": 2713,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "hpyhacking/peatio",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b6034679b1f80df7a454eee0567fe85064340756ee54332dcd043d9e2e32de71/hpyhacking/peatio",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-07-09T04:10:29Z",
+  "repositoryTopics": null,
+  "stargazerCount": 3604,
+  "updatedAt": "2026-10-20T13:37:46Z",
+  "url": "https://github.com/hpyhacking/peatio",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 327
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2020-12-14T14:34:35Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Computing-focused community centered around link aggregation and discussion",
+  "diskUsage": 8918,
+  "forkCount": 1,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://lobste.rs",
+  "isArchived": false,
+  "isFork": true,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "jcs/lobsters",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/9b638b9b207f35d476f6f40f3cf3d02cca696ec41a01d24e37a4d53ac9ce2d2c/jcs/lobsters",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-05-20T21:38:53Z",
+  "repositoryTopics": null,
+  "stargazerCount": 31,
+  "updatedAt": "2026-06-30T19:59:03Z",
+  "url": "https://github.com/jcs/lobsters",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 0
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "createdAt": "2011-02-01T00:08:40Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The open LMS by Instructure, Inc.",
+  "diskUsage": 2263312,
+  "forkCount": 3045,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://github.com/instructure/canvas-lms/wiki",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "instructure/canvas-lms",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b29aaacb31a24986d618ef6be63b2df9cc2871cfc179748dccac832bc014336b/instructure/canvas-lms",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-04-30T14:52:10Z",
+  "repositoryTopics": [
+    {
+      "name": "instructure"
+    },
+    {
+      "name": "canvas-lms"
+    },
+    {
+      "name": "gerrit-mirror"
+    }
+  ],
+  "stargazerCount": 6888,
+  "updatedAt": "2026-10-25T09:08:02Z",
+  "url": "https://github.com/instructure/canvas-lms",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 290
+  }
+}

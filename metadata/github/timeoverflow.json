@@ -1,0 +1,49 @@
+{
+  "createdAt": "2012-10-24T06:48:53Z",
+  "defaultBranchRef": {
+    "name": "develop"
+  },
+  "description": "🏦 ⌛ A time banking system",
+  "diskUsage": 17760,
+  "forkCount": 75,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.timeoverflow.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "coopdevs/timeoverflow",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/1b42f5f2a220dad9a6467b2c8c7dc4175720b5d457e0289138f796fde31ba9f3/coopdevs/timeoverflow",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-05T13:59:35Z",
+  "repositoryTopics": [
+    {
+      "name": "time"
+    },
+    {
+      "name": "bank"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "banking"
+    },
+    {
+      "name": "timebank"
+    }
+  ],
+  "stargazerCount": 172,
+  "updatedAt": "2026-10-16T16:13:52Z",
+  "url": "https://github.com/coopdevs/timeoverflow",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 17
+  }
+}

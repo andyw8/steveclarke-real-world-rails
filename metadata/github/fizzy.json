@@ -1,0 +1,46 @@
+{
+  "createdAt": "2024-06-21T15:43:29Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Kanban as it should be. Not as it has been.",
+  "diskUsage": 67642,
+  "forkCount": 1208,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://fizzy.do",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "basecamp/fizzy",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/0518242437fbfb118fb20074d2850c21196dbd91325f4f45879346c0349d3147/basecamp/fizzy",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T09:04:21Z",
+  "repositoryTopics": [
+    {
+      "name": "hotwire"
+    },
+    {
+      "name": "kanban"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "ruby"
+    }
+  ],
+  "stargazerCount": 8270,
+  "updatedAt": "2026-10-26T09:17:46Z",
+  "url": "https://github.com/basecamp/fizzy",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 31
+  }
+}

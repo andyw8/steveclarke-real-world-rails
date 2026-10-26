@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-08-24T00:31:31Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A nice place to read on the web.",
+  "diskUsage": 25442,
+  "forkCount": 289,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://feedbin.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "feedbin/feedbin",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/cd883ac1b6ac5a76a2716f90c4760867ada52d38cbec907831f5f2ceb684e849/feedbin/feedbin",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-17T18:27:17Z",
+  "repositoryTopics": null,
+  "stargazerCount": 3778,
+  "updatedAt": "2026-10-26T11:26:46Z",
+  "url": "https://github.com/feedbin/feedbin",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 99
+  }
+}

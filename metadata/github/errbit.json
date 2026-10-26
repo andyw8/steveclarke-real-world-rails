@@ -1,0 +1,46 @@
+{
+  "createdAt": "2010-08-04T04:08:34Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "The open source error catcher that's Airbrake API compliant :ukraine:",
+  "diskUsage": 28075,
+  "forkCount": 985,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://errbit.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "errbit/errbit",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/005e658fa1e4a9a054c9c7b3cca5a0d9fe85d2bc05f6a3842089785c7b71911f/errbit/errbit",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T12:07:09Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "airbrake"
+    },
+    {
+      "name": "crash-reporting"
+    },
+    {
+      "name": "error-monitoring"
+    }
+  ],
+  "stargazerCount": 4269,
+  "updatedAt": "2026-10-23T23:00:35Z",
+  "url": "https://github.com/errbit/errbit",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 79
+  }
+}

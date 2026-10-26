@@ -1,0 +1,52 @@
+{
+  "createdAt": "2010-11-11T13:37:03Z",
+  "defaultBranchRef": {
+    "name": "develop"
+  },
+  "description": "The first open source crowdfunding platform for creative projects in the world",
+  "diskUsage": 73487,
+  "forkCount": 809,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "http://catarse.me",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "catarse/catarse",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/d1600373171cfdb8668e129f8362e0c66e85995d43b893edd1a29ba233a028b0/catarse/catarse",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-03-28T13:42:31Z",
+  "repositoryTopics": [
+    {
+      "name": "crowdfunding"
+    },
+    {
+      "name": "payment-engines"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "payment-gateway"
+    },
+    {
+      "name": "donations"
+    },
+    {
+      "name": "rails"
+    }
+  ],
+  "stargazerCount": 1639,
+  "updatedAt": "2026-10-22T04:18:32Z",
+  "url": "https://github.com/catarse/catarse",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 104
+  }
+}

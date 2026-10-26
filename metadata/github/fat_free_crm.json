@@ -1,0 +1,33 @@
+{
+  "createdAt": "2008-11-25T03:09:44Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Ruby on Rails CRM platform",
+  "diskUsage": 21529,
+  "forkCount": 1318,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://www.fatfreecrm.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "fatfreecrm/fat_free_crm",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/51039f7115b05474fb5c4db4872569fbb5291ec4b23b4ee51d3415d394dc4065/fatfreecrm/fat_free_crm",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T08:09:03Z",
+  "repositoryTopics": null,
+  "stargazerCount": 3632,
+  "updatedAt": "2026-10-26T08:09:03Z",
+  "url": "https://github.com/fatfreecrm/fat_free_crm",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 136
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2025-04-03T07:22:41Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "See what sticks",
+  "diskUsage": 679906,
+  "forkCount": 2097,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://gumroad.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "antiwork/gumroad",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/7d95e58c294af72e023e838d754196d4c30219ad1312e5d83e4d0d7fa7e05e3f/antiwork/gumroad",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T13:10:49Z",
+  "repositoryTopics": null,
+  "stargazerCount": 10022,
+  "updatedAt": "2026-10-26T12:02:00Z",
+  "url": "https://github.com/antiwork/gumroad",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 100
+  }
+}

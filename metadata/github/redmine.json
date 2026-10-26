@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-11-19T22:47:09Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp",
+  "diskUsage": 114398,
+  "forkCount": 2474,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://www.redmine.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "redmine/redmine",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/83c015bfcb9252f2d2ef52d9ab3d397c625565a6d47e380011e0cd5c2c02e3a3/redmine/redmine",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-25T23:45:08Z",
+  "repositoryTopics": null,
+  "stargazerCount": 6061,
+  "updatedAt": "2026-10-26T04:33:12Z",
+  "url": "https://github.com/redmine/redmine",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 383
+  }
+}

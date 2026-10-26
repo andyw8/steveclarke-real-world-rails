@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-07-07T10:26:46Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "An editor for digital case files.",
+  "diskUsage": 427,
+  "forkCount": 1,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ministryofjustice/case_file_editor",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b601679a2732103d1b308e599fc25baf41459cacc577f34340d8cc9b6caa19ec/ministryofjustice/case_file_editor",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2016-06-30T14:35:24Z",
+  "repositoryTopics": null,
+  "stargazerCount": 0,
+  "updatedAt": "2023-01-28T05:07:55Z",
+  "url": "https://github.com/ministryofjustice/case_file_editor",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

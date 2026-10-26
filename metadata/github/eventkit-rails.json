@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-09-11T02:30:37Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "An open source project for integrating with SendGrid's Event Webhook.",
+  "diskUsage": 542,
+  "forkCount": 73,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "osl-3.0",
+    "name": "Open Software License 3.0",
+    "nickname": ""
+  },
+  "nameWithOwner": "sendgrid/eventkit-rails",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/3d5d7ce3d11e6ebc47ef2b47309e2feb7840000367d7d9ca441a1339006c0d29/sendgrid/eventkit-rails",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2018-11-01T05:40:57Z",
+  "repositoryTopics": null,
+  "stargazerCount": 53,
+  "updatedAt": "2024-03-19T22:55:40Z",
+  "url": "https://github.com/sendgrid/eventkit-rails",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 30
+  }
+}

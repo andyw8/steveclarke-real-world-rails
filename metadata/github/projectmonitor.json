@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-04-16T20:33:46Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Big Visible Chart CI aggregator",
+  "diskUsage": 45138,
+  "forkCount": 117,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://ci.pivotallabs.com",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "nickname": ""
+  },
+  "nameWithOwner": "vmware-archive/projectmonitor",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/cf631e08320a210da416fff2b19a9177f3e695a7d8ae27f462dac2adbee9e49d/vmware-archive/projectmonitor",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2022-03-24T16:13:21Z",
+  "repositoryTopics": null,
+  "stargazerCount": 425,
+  "updatedAt": "2026-06-29T20:49:18Z",
+  "url": "https://github.com/vmware-archive/projectmonitor",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 0
+  }
+}

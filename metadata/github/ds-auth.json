@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-03-11T17:03:26Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Digital Services SSO Provider",
+  "diskUsage": 28280,
+  "forkCount": 2,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ministryofjustice/ds-auth",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/980d1bd33020936a06e363cdf3c0c1c72e38ef3ba9939ebb61240dc73c1067aa/ministryofjustice/ds-auth",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2015-09-28T14:54:24Z",
+  "repositoryTopics": null,
+  "stargazerCount": 2,
+  "updatedAt": "2023-02-02T09:34:14Z",
+  "url": "https://github.com/ministryofjustice/ds-auth",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-12-22T11:06:36Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Track notable requests and background jobs",
+  "diskUsage": 136,
+  "forkCount": 15,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ankane/notable",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b3deea02d26b6ee28506f524b83f0fce62e85a70ca897c30aca40791b4b0a11b/ankane/notable",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-04-15T20:51:49Z",
+  "repositoryTopics": null,
+  "stargazerCount": 455,
+  "updatedAt": "2026-07-10T11:06:12Z",
+  "url": "https://github.com/ankane/notable",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 9
+  }
+}

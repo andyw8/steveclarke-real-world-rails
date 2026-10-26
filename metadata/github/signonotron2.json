@@ -1,0 +1,37 @@
+{
+  "createdAt": "2012-04-04T13:23:55Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Single sign-on service for GOV.UK",
+  "diskUsage": 13761,
+  "forkCount": 36,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://docs.publishing.service.gov.uk/apps/signon.html",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "alphagov/signon",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/cf3ca36049db21bed952248140e35996f679d59cfc33034ea0d1e1dbab25da40/alphagov/signon",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T12:14:40Z",
+  "repositoryTopics": [
+    {
+      "name": "govuk"
+    }
+  ],
+  "stargazerCount": 98,
+  "updatedAt": "2026-10-24T20:44:52Z",
+  "url": "https://github.com/alphagov/signon",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 87
+  }
+}

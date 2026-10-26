@@ -1,0 +1,58 @@
+{
+  "createdAt": "2013-04-17T04:29:28Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Making dynamic surveys should be easy!",
+  "diskUsage": 572,
+  "forkCount": 140,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://rapidfire.fly.dev/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "codemancers/rapidfire",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/c741acdf43d48bd991af36e4d397e8a52b2efd824875a02d35d851689e6f3a7c/codemancers/rapidfire",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2024-12-22T06:47:45Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "survey-app"
+    },
+    {
+      "name": "survey-form"
+    },
+    {
+      "name": "survey-solutions"
+    },
+    {
+      "name": "surveys"
+    },
+    {
+      "name": "surveys-management"
+    },
+    {
+      "name": "ruby-on-rails"
+    }
+  ],
+  "stargazerCount": 328,
+  "updatedAt": "2026-10-24T05:46:36Z",
+  "url": "https://github.com/codemancers/rapidfire",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 30
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-12-07T08:18:02Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Squash’s front-end and API host.",
+  "diskUsage": 3634,
+  "forkCount": 133,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://www.squash.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "nickname": ""
+  },
+  "nameWithOwner": "SquareSquash/web",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/4a90cbfdb830f2934b1f706f59c1aefa76a800dd807328d49621a0eb128741cb/SquareSquash/web",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2020-10-04T06:15:07Z",
+  "repositoryTopics": null,
+  "stargazerCount": 976,
+  "updatedAt": "2026-10-23T18:52:37Z",
+  "url": "https://github.com/SquareSquash/web",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 44
+  }
+}

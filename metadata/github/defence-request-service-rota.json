@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-03-18T12:04:23Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Defence Request Service - Rota Handling",
+  "diskUsage": 5170,
+  "forkCount": 3,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ministryofjustice/defence-request-service-rota",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/1224a4697d905134b603522e0fc7ba7eb76dc721f82b70926308cb6126e531ec/ministryofjustice/defence-request-service-rota",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2015-07-09T09:27:12Z",
+  "repositoryTopics": null,
+  "stargazerCount": 0,
+  "updatedAt": "2026-02-01T00:11:49Z",
+  "url": "https://github.com/ministryofjustice/defence-request-service-rota",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 0
+  }
+}

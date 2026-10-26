@@ -1,0 +1,29 @@
+{
+  "createdAt": "2015-08-25T10:39:07Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A tool for tracking arbitrary metrics via Slack",
+  "diskUsage": 89,
+  "forkCount": 0,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "collectiveidea/metrics",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/bffd7415000cf4a1aed60f93aced38118b6baf42e198639523fa7a69805890e3/collectiveidea/metrics",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2018-06-09T12:56:58Z",
+  "repositoryTopics": null,
+  "stargazerCount": 6,
+  "updatedAt": "2023-09-08T17:00:56Z",
+  "url": "https://github.com/collectiveidea/metrics",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 12
+  }
+}

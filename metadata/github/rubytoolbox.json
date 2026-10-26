@@ -1,0 +1,33 @@
+{
+  "createdAt": "2017-06-13T18:27:13Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Find actively maintained & popular open source software libraries for the Ruby programming language",
+  "diskUsage": 8153,
+  "forkCount": 51,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.ruby-toolbox.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "rubytoolbox/rubytoolbox",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/3e33b25077189a761c2b15ed5e55881152e6f8bec7d4a3152a4adb4025337cfe/rubytoolbox/rubytoolbox",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T09:55:51Z",
+  "repositoryTopics": null,
+  "stargazerCount": 549,
+  "updatedAt": "2026-10-25T13:00:25Z",
+  "url": "https://github.com/rubytoolbox/rubytoolbox",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 16
+  }
+}

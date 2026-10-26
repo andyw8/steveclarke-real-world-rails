@@ -1,0 +1,43 @@
+{
+  "createdAt": "2013-10-21T01:40:23Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "🗓 the main codebar site",
+  "diskUsage": 31496,
+  "forkCount": 208,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://codebar.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "codebar/planner",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/6454ed80f10e0c459ce2570cf18a699004949167fd1628b00190e1b682a407e1/codebar/planner",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-25T11:38:24Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "ruby-on-rails"
+    },
+    {
+      "name": "codebar"
+    }
+  ],
+  "stargazerCount": 106,
+  "updatedAt": "2026-10-25T11:38:26Z",
+  "url": "https://github.com/codebar/planner",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 17
+  }
+}

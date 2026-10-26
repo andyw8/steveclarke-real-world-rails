@@ -1,0 +1,61 @@
+{
+  "createdAt": "2016-02-22T15:01:25Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Your self-hosted, globally interconnected microblogging community",
+  "diskUsage": 421350,
+  "forkCount": 7521,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://joinmastodon.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "mastodon/mastodon",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/fa2ec4a235b423f5ccb941cccc68ef14e3e60703a26fbe0759380fb2e5010c36/mastodon/mastodon",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T13:11:10Z",
+  "repositoryTopics": [
+    {
+      "name": "mastodon"
+    },
+    {
+      "name": "docker"
+    },
+    {
+      "name": "microblog"
+    },
+    {
+      "name": "activity-stream"
+    },
+    {
+      "name": "webfinger"
+    },
+    {
+      "name": "social-network"
+    },
+    {
+      "name": "activitypub"
+    },
+    {
+      "name": "fediverse"
+    },
+    {
+      "name": "social-web"
+    }
+  ],
+  "stargazerCount": 50453,
+  "updatedAt": "2026-10-26T13:11:21Z",
+  "url": "https://github.com/mastodon/mastodon",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 713
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2019-07-08T12:47:02Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Application with CQRS and Event Sourcing built on Rails and Rails Event Store",
+  "diskUsage": 11530,
+  "forkCount": 85,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "RailsEventStore/ecommerce",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b2cf95359a3ff15386c770c275b55cb20980d09ac8cd1d59bed812557fa6506f/RailsEventStore/ecommerce",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-09-21T12:35:49Z",
+  "repositoryTopics": null,
+  "stargazerCount": 507,
+  "updatedAt": "2026-10-07T00:34:21Z",
+  "url": "https://github.com/RailsEventStore/ecommerce",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 19
+  }
+}

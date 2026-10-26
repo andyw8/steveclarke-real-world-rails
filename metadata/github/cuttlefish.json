@@ -1,0 +1,52 @@
+{
+  "createdAt": "2013-03-30T21:30:54Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Transactional email server with a lovely web interface",
+  "diskUsage": 26769,
+  "forkCount": 180,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://cuttlefish.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "mlandauer/cuttlefish",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/5efd873b9c2d8e696ee4f95a57a6ace215a6ee9bfe2a128c783f5b3c745a6e6f/mlandauer/cuttlefish",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2024-06-27T03:33:49Z",
+  "repositoryTopics": [
+    {
+      "name": "email-sender"
+    },
+    {
+      "name": "email"
+    },
+    {
+      "name": "ruby-on-rails"
+    },
+    {
+      "name": "cross-platform"
+    },
+    {
+      "name": "mta"
+    },
+    {
+      "name": "transactional-emails"
+    }
+  ],
+  "stargazerCount": 1628,
+  "updatedAt": "2026-10-21T19:54:05Z",
+  "url": "https://github.com/mlandauer/cuttlefish",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 60
+  }
+}

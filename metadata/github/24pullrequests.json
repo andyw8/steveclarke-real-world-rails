@@ -1,0 +1,55 @@
+{
+  "createdAt": "2012-11-13T16:32:05Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": ":christmas_tree: Giving back to open source for the holidays",
+  "diskUsage": 15184,
+  "forkCount": 534,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://24pullrequests.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "24pullrequests/24pullrequests",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/970ec42d9e3e3221729dcef37318d930cb86111e99f5ac3329de4319e71d5f2b/24pullrequests/24pullrequests",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T19:40:05Z",
+  "repositoryTopics": [
+    {
+      "name": "pull-requests"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "holidays"
+    },
+    {
+      "name": "opensource"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "open-source"
+    },
+    {
+      "name": "community"
+    }
+  ],
+  "stargazerCount": 1707,
+  "updatedAt": "2026-10-23T19:39:39Z",
+  "url": "https://github.com/24pullrequests/24pullrequests",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 78
+  }
+}

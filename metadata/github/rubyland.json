@@ -1,0 +1,29 @@
+{
+  "createdAt": "2016-11-02T01:35:59Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The code behind rubyland.news",
+  "diskUsage": 305,
+  "forkCount": 4,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://www.rubyland.news",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "jrochkind/rubyland",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/30b1b166c232adc1afc214c8c905527c4d6063d3e6df1f73ce039f7a6cb8b0d0/jrochkind/rubyland",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2025-05-08T15:04:54Z",
+  "repositoryTopics": null,
+  "stargazerCount": 37,
+  "updatedAt": "2026-09-16T03:40:50Z",
+  "url": "https://github.com/jrochkind/rubyland",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

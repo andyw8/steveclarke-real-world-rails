@@ -1,0 +1,49 @@
+{
+  "createdAt": "2013-05-15T22:08:12Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Main website for The Odin Project",
+  "diskUsage": 35359,
+  "forkCount": 2142,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.theodinproject.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "TheOdinProject/theodinproject",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/ce127b7f8c5d6424878b875c1982e3e5b029619ea82653936f83ae5ce4e8483b/TheOdinProject/theodinproject",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-25T23:31:22Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "ruby-on-rails"
+    },
+    {
+      "name": "odin"
+    },
+    {
+      "name": "theodinproject"
+    },
+    {
+      "name": "curriculum"
+    }
+  ],
+  "stargazerCount": 4664,
+  "updatedAt": "2026-10-26T08:41:00Z",
+  "url": "https://github.com/TheOdinProject/theodinproject",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 174
+  }
+}

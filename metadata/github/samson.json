@@ -1,0 +1,43 @@
+{
+  "createdAt": "2014-05-27T05:55:57Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Web interface for deployments, with plugin architecture and kubernetes support",
+  "diskUsage": 363759,
+  "forkCount": 233,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "zendesk/samson",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/20208662/73d3a580-91b1-11e9-8435-81f7767ccc7b",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-01-30T17:58:05Z",
+  "repositoryTopics": [
+    {
+      "name": "kubernetes"
+    },
+    {
+      "name": "cd"
+    },
+    {
+      "name": "continuous-delivery"
+    }
+  ],
+  "stargazerCount": 1441,
+  "updatedAt": "2026-10-23T18:17:17Z",
+  "url": "https://github.com/zendesk/samson",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 421
+  }
+}

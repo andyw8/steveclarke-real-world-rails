@@ -1,0 +1,37 @@
+{
+  "createdAt": "2011-09-19T15:10:49Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Publishes government content on GOV.UK",
+  "diskUsage": 209623,
+  "forkCount": 200,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://docs.publishing.service.gov.uk/apps/whitehall.html",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "alphagov/whitehall",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/02d9beae33753ef4ca03087ec6a19dee1005c466ff22d795ee2081f684281b54/alphagov/whitehall",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T12:11:56Z",
+  "repositoryTopics": [
+    {
+      "name": "govuk"
+    }
+  ],
+  "stargazerCount": 1041,
+  "updatedAt": "2026-10-26T10:55:59Z",
+  "url": "https://github.com/alphagov/whitehall",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 127
+  }
+}

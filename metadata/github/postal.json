@@ -1,0 +1,49 @@
+{
+  "createdAt": "2017-04-19T12:04:57Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+  "diskUsage": 3508,
+  "forkCount": 1314,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://postalserver.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "postalserver/postal",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/1704556843602bf7875bedd60e61d4fc86e53f14d8ec38ee6ca8c1789d4e6d5d/postalserver/postal",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-20T17:55:47Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "mail"
+    },
+    {
+      "name": "smtp"
+    },
+    {
+      "name": "postal"
+    },
+    {
+      "name": "mail-server"
+    }
+  ],
+  "stargazerCount": 16895,
+  "updatedAt": "2026-10-26T12:15:02Z",
+  "url": "https://github.com/postalserver/postal",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 210
+  }
+}

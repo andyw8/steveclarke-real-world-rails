@@ -1,0 +1,37 @@
+{
+  "createdAt": "2014-08-06T04:59:55Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results",
+  "diskUsage": 1914,
+  "forkCount": 309,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "nickname": ""
+  },
+  "nameWithOwner": "Netflix-Skunkworks/Scumblr",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/0ad36b108670bb8566d5d2222143743d21e552fdcb5fb31ab4dcdd1cc0aa8737/Netflix-Skunkworks/Scumblr",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2020-01-10T06:38:50Z",
+  "repositoryTopics": [
+    {
+      "name": "security"
+    }
+  ],
+  "stargazerCount": 2637,
+  "updatedAt": "2026-10-23T20:38:34Z",
+  "url": "https://github.com/Netflix-Skunkworks/Scumblr",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 461
+  }
+}

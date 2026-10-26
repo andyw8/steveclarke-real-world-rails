@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-06-23T02:07:47Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Stripe webhook integration for Rails applications.",
+  "diskUsage": 507,
+  "forkCount": 107,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://rubygems.org/gems/stripe_event",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "integrallis/stripe_event",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/01ef0e5b439c00fd73213227a638e05bf1fdde154b0ce201982577e34e9d6849/integrallis/stripe_event",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-05-20T20:13:38Z",
+  "repositoryTopics": null,
+  "stargazerCount": 855,
+  "updatedAt": "2026-10-01T18:36:27Z",
+  "url": "https://github.com/integrallis/stripe_event",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 20
+  }
+}

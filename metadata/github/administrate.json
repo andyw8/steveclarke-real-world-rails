@@ -1,0 +1,43 @@
+{
+  "createdAt": "2015-04-10T16:43:02Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A Rails engine that helps you put together a super-flexible admin dashboard.",
+  "diskUsage": 7627,
+  "forkCount": 1127,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://administrate-demo.herokuapp.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "thoughtbot/administrate",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b7bb0ed575f174c40c3c2d1ffc5af259758c1e6736a10a7275491dcee2c5291a/thoughtbot/administrate",
+  "primaryLanguage": {
+    "name": "JavaScript"
+  },
+  "pushedAt": "2026-10-21T20:04:01Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "admin-dashboard"
+    }
+  ],
+  "stargazerCount": 6034,
+  "updatedAt": "2026-10-25T07:39:34Z",
+  "url": "https://github.com/thoughtbot/administrate",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 83
+  }
+}

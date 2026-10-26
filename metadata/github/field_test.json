@@ -1,0 +1,33 @@
+{
+  "createdAt": "2016-12-14T11:55:05Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A/B testing for Rails",
+  "diskUsage": 273,
+  "forkCount": 32,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ankane/field_test",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/e0784636dad4f8178a0329b705caf13a549f5d5fcf168a1aac4e4ebbc016a219/ankane/field_test",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-07-19T13:36:09Z",
+  "repositoryTopics": null,
+  "stargazerCount": 589,
+  "updatedAt": "2026-09-01T13:34:59Z",
+  "url": "https://github.com/ankane/field_test",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 4
+  }
+}

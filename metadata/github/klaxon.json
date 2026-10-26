@@ -1,0 +1,33 @@
+{
+  "createdAt": "2016-03-26T21:19:03Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.",
+  "diskUsage": 2663,
+  "forkCount": 190,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://newsklaxon.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "themarshallproject/klaxon",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/262a9c70fae75e9cb666cb250a4d24c1323a94c354fc2780b1fe48ac1e0b6f71/themarshallproject/klaxon",
+  "primaryLanguage": {
+    "name": "SCSS"
+  },
+  "pushedAt": "2026-10-26T10:03:36Z",
+  "repositoryTopics": null,
+  "stargazerCount": 683,
+  "updatedAt": "2026-10-25T04:59:21Z",
+  "url": "https://github.com/themarshallproject/klaxon",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 18
+  }
+}

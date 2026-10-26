@@ -1,0 +1,43 @@
+{
+  "createdAt": "2022-03-07T23:45:33Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "The Open Source Ruby on Rails SaaS Template",
+  "diskUsage": 6699,
+  "forkCount": 303,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "bullet-train-co/bullet_train",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/02087c105ae73640bddd796187d695e236b96bdee10de2ad9ab77e428151cd09/bullet-train-co/bullet_train",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T06:16:39Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "saas"
+    },
+    {
+      "name": "bullet-train"
+    }
+  ],
+  "stargazerCount": 1891,
+  "updatedAt": "2026-10-23T14:43:29Z",
+  "url": "https://github.com/bullet-train-co/bullet_train",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 23
+  }
+}

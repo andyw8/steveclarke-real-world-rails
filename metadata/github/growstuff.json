@@ -1,0 +1,40 @@
+{
+  "createdAt": "2012-08-08T05:13:37Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Open data project for small-scale food growers, written in rails",
+  "diskUsage": 24005,
+  "forkCount": 210,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://growstuff.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "Growstuff/growstuff",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/4ed810ac1c468ed9f0d9d609869435e62a4840a3c46e10df40d861c6f80b4c35/Growstuff/growstuff",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T13:11:52Z",
+  "repositoryTopics": [
+    {
+      "name": "gardening"
+    },
+    {
+      "name": "food"
+    }
+  ],
+  "stargazerCount": 475,
+  "updatedAt": "2026-10-26T12:56:43Z",
+  "url": "https://github.com/Growstuff/growstuff",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 21
+  }
+}

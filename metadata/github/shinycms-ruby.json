@@ -1,0 +1,91 @@
+{
+  "createdAt": "2019-09-26T19:56:09Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "ShinyCMS is an open-source CMS built in Ruby on Rails, with support for themes, plugins, and cloud hosting. (There is also a Perl version: www.github.com/denny/ShinyCMS)",
+  "diskUsage": 17541,
+  "forkCount": 14,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://shinycms.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "nickname": "GNU GPLv2"
+  },
+  "nameWithOwner": "denny/ShinyCMS-ruby",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/211170861/b48de180-6406-11ea-90b5-b99c35c85a1b",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T20:55:39Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby-on-rails"
+    },
+    {
+      "name": "cms"
+    },
+    {
+      "name": "open-source"
+    },
+    {
+      "name": "heroku"
+    },
+    {
+      "name": "rails6"
+    },
+    {
+      "name": "cloud-hosting"
+    },
+    {
+      "name": "postgres"
+    },
+    {
+      "name": "themes"
+    },
+    {
+      "name": "plugins"
+    },
+    {
+      "name": "aws"
+    },
+    {
+      "name": "blog"
+    },
+    {
+      "name": "newsletters"
+    },
+    {
+      "name": "mjml"
+    },
+    {
+      "name": "s3"
+    },
+    {
+      "name": "rds"
+    },
+    {
+      "name": "recaptcha"
+    },
+    {
+      "name": "akismet"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "ruby3"
+    }
+  ],
+  "stargazerCount": 38,
+  "updatedAt": "2026-10-23T19:09:43Z",
+  "url": "https://github.com/denny/ShinyCMS-ruby",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

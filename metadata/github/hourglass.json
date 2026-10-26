@@ -1,0 +1,29 @@
+{
+  "createdAt": "2013-10-29T20:04:01Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Client and internal time management with Harvest",
+  "diskUsage": 287,
+  "forkCount": 1,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "hourglass.collectiveidea.com",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "collectiveidea/hourglass",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/86f200688c25a12a7e4af8a8ae842d8dc011217c1da4788d67c343be5ad128eb/collectiveidea/hourglass",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2018-11-12T16:13:37Z",
+  "repositoryTopics": null,
+  "stargazerCount": 5,
+  "updatedAt": "2024-04-19T19:24:20Z",
+  "url": "https://github.com/collectiveidea/hourglass",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 3
+  }
+}

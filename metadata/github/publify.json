@@ -1,0 +1,46 @@
+{
+  "createdAt": "2008-10-23T14:45:23Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A self hosted Web publishing platform on Rails.",
+  "diskUsage": 33056,
+  "forkCount": 3620,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://publify.github.io/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "publify/publify",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/d389caf1e8464c8331fba2e750e489c362ef2f4d902dc9308b9a496fd15acea5/publify/publify",
+  "primaryLanguage": {
+    "name": "Less"
+  },
+  "pushedAt": "2026-10-26T09:43:54Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "hacktoberfest"
+    },
+    {
+      "name": "blog-engine"
+    }
+  ],
+  "stargazerCount": 1855,
+  "updatedAt": "2026-10-23T13:43:38Z",
+  "url": "https://github.com/publify/publify",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 69
+  }
+}

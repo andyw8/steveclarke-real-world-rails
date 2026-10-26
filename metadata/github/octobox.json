@@ -1,0 +1,58 @@
+{
+  "createdAt": "2016-12-16T23:29:16Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "📮 Untangle your GitHub Notifications",
+  "diskUsage": 24936,
+  "forkCount": 349,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://octobox.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "octobox/octobox",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/ba39f45fc06016e13200d2659aa20c793dcafa4c8c2d5dcc4ea6822f21936973/octobox/octobox",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T09:23:25Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "notifications"
+    },
+    {
+      "name": "inbox"
+    },
+    {
+      "name": "github"
+    },
+    {
+      "name": "github-notifications"
+    },
+    {
+      "name": "octobox"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "triage"
+    }
+  ],
+  "stargazerCount": 4490,
+  "updatedAt": "2026-10-26T09:23:28Z",
+  "url": "https://github.com/octobox/octobox",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 61
+  }
+}

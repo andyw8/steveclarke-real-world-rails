@@ -1,0 +1,29 @@
+{
+  "createdAt": "2013-11-13T11:28:40Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "",
+  "diskUsage": 48014,
+  "forkCount": 1,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "ministryofjustice/devise_authentication_api",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/f2bbb96ee6cd67dca4d6b7f881e7b40d8d338318076b7d670ca4e968345521fb/ministryofjustice/devise_authentication_api",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2014-10-29T17:54:46Z",
+  "repositoryTopics": null,
+  "stargazerCount": 0,
+  "updatedAt": "2023-01-28T15:45:07Z",
+  "url": "https://github.com/ministryofjustice/devise_authentication_api",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 7
+  }
+}

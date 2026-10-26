@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-12-11T16:15:52Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Automatically ask for a PR review",
+  "diskUsage": 3915,
+  "forkCount": 15,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "thoughtbot/pester",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/947c1df8dbbffbd3e40be6ee3e3335e096010a27852f79ea7079d45406526ef3/thoughtbot/pester",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2021-09-24T16:03:51Z",
+  "repositoryTopics": null,
+  "stargazerCount": 147,
+  "updatedAt": "2025-12-03T07:19:49Z",
+  "url": "https://github.com/thoughtbot/pester",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 22
+  }
+}

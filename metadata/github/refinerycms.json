@@ -1,0 +1,58 @@
+{
+  "createdAt": "2009-05-28T20:13:21Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "An extendable Ruby on Rails CMS that supports Rails 6.1 to 8.1+ and Ruby 3.x to 4.x",
+  "diskUsage": 27759,
+  "forkCount": 1222,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://github.com/refinery/refinerycms",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "refinery/refinerycms",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/85a5a478c559189679032169a593545f31124d18928e4e1cfa866d70a562a53a/refinery/refinerycms",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-05-11T04:48:42Z",
+  "repositoryTopics": [
+    {
+      "name": "refinery"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "news"
+    },
+    {
+      "name": "refinery-cms"
+    },
+    {
+      "name": "demo"
+    },
+    {
+      "name": "inquiry"
+    },
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 3906,
+  "updatedAt": "2026-10-19T16:12:28Z",
+  "url": "https://github.com/refinery/refinerycms",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 109
+  }
+}

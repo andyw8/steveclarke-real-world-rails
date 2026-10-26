@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-09-28T14:57:41Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A Rails engine to stream PostgreSQL Large Objects to clients",
+  "diskUsage": 662,
+  "forkCount": 12,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://diogob.github.com/postgresql_lo_streamer/",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "diogob/postgresql_lo_streamer",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/eb20b8b9152d8d3be4d801ba454263fcb1cc6f21cb845cbb06446fd84e7fcc8b/diogob/postgresql_lo_streamer",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2017-09-24T15:06:21Z",
+  "repositoryTopics": null,
+  "stargazerCount": 20,
+  "updatedAt": "2023-06-26T16:08:05Z",
+  "url": "https://github.com/diogob/postgresql_lo_streamer",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 1
+  }
+}

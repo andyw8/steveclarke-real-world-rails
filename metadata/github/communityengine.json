@@ -1,0 +1,33 @@
+{
+  "createdAt": "2008-03-25T19:55:55Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Adds basic social networking capabilities to your existing application, including users, blogs, photos, clippings, favorites, and more.",
+  "diskUsage": 9412,
+  "forkCount": 309,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://www.communityengine.org",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "bborn/communityengine",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/5c82f6c387b046e7567bfcf13353ff4c7207544a97f5a1e43c018d752f693cb0/bborn/communityengine",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2021-04-05T01:27:31Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1133,
+  "updatedAt": "2026-09-10T14:19:46Z",
+  "url": "https://github.com/bborn/communityengine",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

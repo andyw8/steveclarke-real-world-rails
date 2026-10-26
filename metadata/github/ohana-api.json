@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-05-14T18:50:32Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The open source API directory of community social services.",
+  "diskUsage": 6310,
+  "forkCount": 329,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://ohana-api-demo.herokuapp.com/api",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "nickname": "Modified BSD License"
+  },
+  "nameWithOwner": "codeforamerica/ohana-api",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/776f67fce45db57b41dd4c7e268a5953805f4b29d8c80e638b76b2143601bf88/codeforamerica/ohana-api",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2025-01-26T22:54:45Z",
+  "repositoryTopics": null,
+  "stargazerCount": 190,
+  "updatedAt": "2026-08-25T01:20:20Z",
+  "url": "https://github.com/codeforamerica/ohana-api",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 43
+  }
+}

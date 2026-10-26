@@ -1,0 +1,46 @@
+{
+  "createdAt": "2015-10-22T04:25:15Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "A Rails Engine framework that helps safe and rapid feature prototyping",
+  "diskUsage": 132,
+  "forkCount": 8,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "amatsuda/motorhead",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/ab75db295666e8a74d05dc3569a9e37329fc06ba950639b115870f507930f6b9/amatsuda/motorhead",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2017-04-28T14:55:48Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "engine"
+    },
+    {
+      "name": "ab-testing"
+    },
+    {
+      "name": "prototyping"
+    }
+  ],
+  "stargazerCount": 181,
+  "updatedAt": "2026-07-22T15:03:18Z",
+  "url": "https://github.com/amatsuda/motorhead",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 6
+  }
+}

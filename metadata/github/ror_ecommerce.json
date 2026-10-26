@@ -1,0 +1,33 @@
+{
+  "createdAt": "2010-10-16T01:39:59Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Ruby on Rails Ecommerce platform, perfect for your small business solution.",
+  "diskUsage": 25889,
+  "forkCount": 402,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "www.ror-e.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "drhenner/ror_ecommerce",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b1431fde4146c3bb708a78a4939ca43f6263b412b4e2b05020be6fa0298f9fa7/drhenner/ror_ecommerce",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-03-14T19:41:21Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1208,
+  "updatedAt": "2026-10-08T17:49:00Z",
+  "url": "https://github.com/drhenner/ror_ecommerce",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 68
+  }
+}

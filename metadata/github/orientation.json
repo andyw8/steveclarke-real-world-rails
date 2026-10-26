@@ -1,0 +1,43 @@
+{
+  "createdAt": "2012-10-16T21:25:35Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Your best weapon in the fight against outdated documentation.",
+  "diskUsage": 6342,
+  "forkCount": 70,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://orientation.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "orientation/orientation",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/30020817172c1fe27f78a9d1844de7c881c9201e25d0f19feba70a5ced9b0368/orientation/orientation",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2023-03-08T19:46:18Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "documentation"
+    }
+  ],
+  "stargazerCount": 363,
+  "updatedAt": "2026-10-10T12:41:10Z",
+  "url": "https://github.com/orientation/orientation",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 10
+  }
+}

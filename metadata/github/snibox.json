@@ -1,0 +1,48 @@
+{
+  "createdAt": "2018-01-02T22:29:26Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Self-hosted snippet manager",
+  "diskUsage": 916,
+  "forkCount": 116,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://snibox.github.io/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "snibox/snibox",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/3f03b56927337c6dfa5d0cf2d145b974883c86e692146374b692f275984793c2/snibox/snibox",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2022-12-12T14:10:18Z",
+  "repositoryTopics": [
+    {
+      "name": "vue"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "self-hosted"
+    },
+    {
+      "name": "snippets"
+    },
+    {
+      "name": "gists"
+    },
+    {
+      "name": "notes"
+    }
+  ],
+  "stargazerCount": 1812,
+  "updatedAt": "2026-10-25T12:56:52Z",
+  "url": "https://github.com/snibox/snibox",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 37
+  }
+}

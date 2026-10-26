@@ -1,0 +1,40 @@
+{
+  "createdAt": "2024-03-20T15:50:55Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Blog without the slog",
+  "diskUsage": 33922,
+  "forkCount": 16,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://pagecord.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "lylo/pagecord",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/89be83cd6a641e83a0208eae1454bccef31dc321566eef0fdb48e2293baf2708/lylo/pagecord",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T06:02:58Z",
+  "repositoryTopics": [
+    {
+      "name": "blogging"
+    },
+    {
+      "name": "rails"
+    }
+  ],
+  "stargazerCount": 194,
+  "updatedAt": "2026-10-25T18:08:33Z",
+  "url": "https://github.com/lylo/pagecord",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 0
+  }
+}

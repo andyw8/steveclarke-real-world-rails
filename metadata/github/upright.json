@@ -1,0 +1,52 @@
+{
+  "createdAt": "2026-01-14T12:46:16Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Synthetic monitoring engine with Playwright and Prometheus metrics",
+  "diskUsage": 2450,
+  "forkCount": 32,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "basecamp/upright",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/2e464332ca964ff7f7d362c586c8f385fa3c04c21fa6ab8790d7642cd3439f4e/basecamp/upright",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-24T23:10:31Z",
+  "repositoryTopics": [
+    {
+      "name": "monitoring"
+    },
+    {
+      "name": "playwright"
+    },
+    {
+      "name": "prometheus"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "synthetic-monitoring"
+    }
+  ],
+  "stargazerCount": 839,
+  "updatedAt": "2026-10-19T21:18:43Z",
+  "url": "https://github.com/basecamp/upright",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 5
+  }
+}

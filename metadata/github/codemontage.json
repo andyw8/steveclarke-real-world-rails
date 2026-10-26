@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-01-09T03:32:22Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "CodeMontage empowers coders to improve their impact on the world. Find open source software projects with a social impact and save the world.",
+  "diskUsage": 25021,
+  "forkCount": 70,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://codemontage.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "nickname": "GNU GPLv3"
+  },
+  "nameWithOwner": "CodeMontageHQ/codemontage",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/47301762380ca9c0e02214259a7fad894dd9cd297516a74b8392a8032a851d55/CodeMontageHQ/codemontage",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2017-10-09T19:43:47Z",
+  "repositoryTopics": null,
+  "stargazerCount": 80,
+  "updatedAt": "2026-09-08T14:56:19Z",
+  "url": "https://github.com/CodeMontageHQ/codemontage",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 11
+  }
+}

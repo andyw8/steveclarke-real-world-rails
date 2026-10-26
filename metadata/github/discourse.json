@@ -1,0 +1,55 @@
+{
+  "createdAt": "2013-01-12T00:25:55Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A platform for community discussion. Free, open, simple.",
+  "diskUsage": 1231730,
+  "forkCount": 9053,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://www.discourse.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "nickname": "GNU GPLv2"
+  },
+  "nameWithOwner": "discourse/discourse",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/7569578/1d05ae2e-20bb-42dd-98ad-e6ece6ce4dbe",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T13:11:56Z",
+  "repositoryTopics": [
+    {
+      "name": "discourse"
+    },
+    {
+      "name": "javascript"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "ember"
+    },
+    {
+      "name": "forum"
+    },
+    {
+      "name": "postgresql"
+    }
+  ],
+  "stargazerCount": 48016,
+  "updatedAt": "2026-10-26T13:12:03Z",
+  "url": "https://github.com/discourse/discourse",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 873
+  }
+}

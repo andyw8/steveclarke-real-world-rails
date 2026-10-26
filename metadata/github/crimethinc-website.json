@@ -1,0 +1,49 @@
+{
+  "createdAt": "2016-08-28T17:44:07Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Ruby on Rails app that powers crimethinc.com",
+  "diskUsage": 64409,
+  "forkCount": 33,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://crimethinc.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "nickname": ""
+  },
+  "nameWithOwner": "crimethinc/website",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/54c7c64e4a8abcd033e8310738fd25742a0aac89ac6c73570b11d09a6278b51e/crimethinc/website",
+  "primaryLanguage": {
+    "name": "CSS"
+  },
+  "pushedAt": "2026-10-26T09:51:46Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "website"
+    },
+    {
+      "name": "crimethinc"
+    },
+    {
+      "name": "anarchism"
+    },
+    {
+      "name": "cms"
+    }
+  ],
+  "stargazerCount": 109,
+  "updatedAt": "2026-10-23T16:35:32Z",
+  "url": "https://github.com/crimethinc/website",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 15
+  }
+}

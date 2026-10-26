@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-05-09T22:19:28Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Rails app for managing a conference CFP",
+  "diskUsage": 25284,
+  "forkCount": 162,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "rubycentral/cfp-app",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/074d6a980a0db144e7bc8048bbe2a94d262ab2e7e73e63e54bbe44bada3a20e3/rubycentral/cfp-app",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T13:04:38Z",
+  "repositoryTopics": null,
+  "stargazerCount": 237,
+  "updatedAt": "2026-10-26T13:02:50Z",
+  "url": "https://github.com/rubycentral/cfp-app",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 20
+  }
+}

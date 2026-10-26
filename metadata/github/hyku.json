@@ -1,0 +1,43 @@
+{
+  "createdAt": "2016-03-08T22:08:25Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "Hyku: A multi-tenant Hyrax application built on the latest and greatest Samvera community components. Brought to you by the Hydra-in-a-Box project partners and IMLS; maintained by the Hyku Interest Group.",
+  "diskUsage": 42263,
+  "forkCount": 55,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://samvera.atlassian.net/wiki/spaces/hyku/overview",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "samvera/hyku",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/29a9c41d3b93b62d8feea3c634b2494b30a4c6f3abacbaa0a10b05a29cd680bd/samvera/hyku",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T00:37:07Z",
+  "repositoryTopics": [
+    {
+      "name": "hydra"
+    },
+    {
+      "name": "hyku"
+    },
+    {
+      "name": "samvera"
+    }
+  ],
+  "stargazerCount": 108,
+  "updatedAt": "2026-10-26T00:28:25Z",
+  "url": "https://github.com/samvera/hyku",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 67
+  }
+}

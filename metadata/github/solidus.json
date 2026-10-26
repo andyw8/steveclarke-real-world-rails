@@ -1,0 +1,58 @@
+{
+  "createdAt": "2015-02-18T20:41:58Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "🛒 Solidus, the open-source eCommerce framework for industry trailblazers.",
+  "diskUsage": 126144,
+  "forkCount": 1401,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://solidus.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "nickname": "Modified BSD License"
+  },
+  "nameWithOwner": "solidusio/solidus",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/30985840/5eec2780-8ed3-11ea-9f37-2a2034a5338f",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T21:39:40Z",
+  "repositoryTopics": [
+    {
+      "name": "solidus"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "storefront"
+    },
+    {
+      "name": "ecommerce"
+    },
+    {
+      "name": "ecommerce-platform"
+    },
+    {
+      "name": "ecommerce-framework"
+    },
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 5345,
+  "updatedAt": "2026-10-26T02:54:02Z",
+  "url": "https://github.com/solidusio/solidus",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 112
+  }
+}

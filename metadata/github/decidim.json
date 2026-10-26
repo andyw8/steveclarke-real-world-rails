@@ -1,0 +1,79 @@
+{
+  "createdAt": "2016-08-17T14:27:06Z",
+  "defaultBranchRef": {
+    "name": "develop"
+  },
+  "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
+  "diskUsage": 328484,
+  "forkCount": 496,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://decidim.org/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "decidim/decidim",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/7cc7dc40e7ef2a0cb8e30859d26ae5da87b97518dfaa48381f62e56e767c8f92/decidim/decidim",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T13:12:05Z",
+  "repositoryTopics": [
+    {
+      "name": "decidim"
+    },
+    {
+      "name": "democracy"
+    },
+    {
+      "name": "community"
+    },
+    {
+      "name": "government"
+    },
+    {
+      "name": "civic-tech"
+    },
+    {
+      "name": "civictech"
+    },
+    {
+      "name": "ideation"
+    },
+    {
+      "name": "collective-intelligence"
+    },
+    {
+      "name": "participation"
+    },
+    {
+      "name": "citizen-participation"
+    },
+    {
+      "name": "govtech"
+    },
+    {
+      "name": "stakeholder-engagement"
+    },
+    {
+      "name": "digital-public-goods"
+    },
+    {
+      "name": "digital-public-infrastructure"
+    },
+    {
+      "name": "dpg"
+    }
+  ],
+  "stargazerCount": 1836,
+  "updatedAt": "2026-10-26T13:03:37Z",
+  "url": "https://github.com/decidim/decidim",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 54
+  }
+}

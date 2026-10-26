@@ -1,0 +1,64 @@
+{
+  "createdAt": "2013-03-10T06:00:31Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+  "diskUsage": 12211,
+  "forkCount": 4317,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "huginn/huginn",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/16643fb89578fd9e9ce59af6f6e257ab45f4a52f531e0d1ff13a868336ed19b4/huginn/huginn",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-24T19:12:51Z",
+  "repositoryTopics": [
+    {
+      "name": "automation"
+    },
+    {
+      "name": "notifications"
+    },
+    {
+      "name": "scraper"
+    },
+    {
+      "name": "webscraping"
+    },
+    {
+      "name": "feedgenerator"
+    },
+    {
+      "name": "rss"
+    },
+    {
+      "name": "agent"
+    },
+    {
+      "name": "monitoring"
+    },
+    {
+      "name": "feed"
+    },
+    {
+      "name": "huginn"
+    }
+  ],
+  "stargazerCount": 50145,
+  "updatedAt": "2026-10-26T13:01:46Z",
+  "url": "https://github.com/huginn/huginn",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 728
+  }
+}

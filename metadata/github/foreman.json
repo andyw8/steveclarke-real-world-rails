@@ -1,0 +1,76 @@
+{
+  "createdAt": "2009-07-23T15:07:00Z",
+  "defaultBranchRef": {
+    "name": "develop"
+  },
+  "description": "an application that automates the lifecycle of servers ",
+  "diskUsage": 154775,
+  "forkCount": 1061,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": false,
+  "homepageUrl": "https://theforeman.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "nickname": "GNU GPLv3"
+  },
+  "nameWithOwner": "theforeman/foreman",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/39c7b8fa199312690b2719e1e5275a6e5a28133a02130a6d753025e53b7582ad/theforeman/foreman",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T14:09:01Z",
+  "repositoryTopics": [
+    {
+      "name": "theforeman"
+    },
+    {
+      "name": "foreman"
+    },
+    {
+      "name": "infrastructure"
+    },
+    {
+      "name": "provisioning"
+    },
+    {
+      "name": "config-management"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "puppet"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "maas"
+    },
+    {
+      "name": "virtualization"
+    },
+    {
+      "name": "hybrid-cloud"
+    },
+    {
+      "name": "infrastructure-management"
+    },
+    {
+      "name": "cloud"
+    },
+    {
+      "name": "hacktoberfest"
+    }
+  ],
+  "stargazerCount": 2997,
+  "updatedAt": "2026-10-25T11:01:38Z",
+  "url": "https://github.com/theforeman/foreman",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 99
+  }
+}

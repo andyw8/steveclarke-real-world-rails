@@ -1,0 +1,55 @@
+{
+  "createdAt": "2009-01-07T22:38:49Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling).",
+  "diskUsage": 17388,
+  "forkCount": 160,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://foodcoops.net/",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "foodcoops/foodsoft",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/c8055698b36133b574f617d7ef5dd90fb5305c923584630a98983d4d25140d5b/foodcoops/foodsoft",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-24T16:57:21Z",
+  "repositoryTopics": [
+    {
+      "name": "food-cooperative"
+    },
+    {
+      "name": "foodcoop"
+    },
+    {
+      "name": "food"
+    },
+    {
+      "name": "cooperative"
+    },
+    {
+      "name": "product-catalog"
+    },
+    {
+      "name": "membership"
+    },
+    {
+      "name": "foodsoft"
+    }
+  ],
+  "stargazerCount": 359,
+  "updatedAt": "2026-10-21T21:24:28Z",
+  "url": "https://github.com/foodcoops/foodsoft",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 33
+  }
+}

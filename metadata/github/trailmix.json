@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-09-21T20:00:23Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Trailmix. A private place to write.",
+  "diskUsage": 1232,
+  "forkCount": 57,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://www.trailmix.life",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "codecation/trailmix",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/2642437a7d33228075a7b80add3a0070714183e9999bd61605c82bdf811cfc36/codecation/trailmix",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-08-21T14:18:53Z",
+  "repositoryTopics": null,
+  "stargazerCount": 418,
+  "updatedAt": "2026-08-21T14:19:33Z",
+  "url": "https://github.com/codecation/trailmix",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 19
+  }
+}

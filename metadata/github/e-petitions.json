@@ -1,0 +1,33 @@
+{
+  "createdAt": "2012-05-24T16:04:02Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "This is the code base for the UK Government's e-petitions service (https://petition.parliament.uk)",
+  "diskUsage": 16601,
+  "forkCount": 84,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://petition.parliament.uk",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "alphagov/e-petitions",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/42bf84e896e56f81426337358a7c2b04b4e2c9dcc996586c34c56e3aef3f86e9/alphagov/e-petitions",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-23T23:15:17Z",
+  "repositoryTopics": null,
+  "stargazerCount": 313,
+  "updatedAt": "2026-10-23T11:16:38Z",
+  "url": "https://github.com/alphagov/e-petitions",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 37
+  }
+}

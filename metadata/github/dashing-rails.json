@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-08-03T21:12:45Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The exceptionally handsome dashboard framework for Rails.",
+  "diskUsage": 1552,
+  "forkCount": 144,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "gottfrois/dashing-rails",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/9d8e94f22ac32e8a01fea64e39fedf274bc5adaa5239afce0c3a0eb7f7f9be32/gottfrois/dashing-rails",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2020-01-06T16:24:44Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1447,
+  "updatedAt": "2026-09-03T02:50:58Z",
+  "url": "https://github.com/gottfrois/dashing-rails",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 41
+  }
+}

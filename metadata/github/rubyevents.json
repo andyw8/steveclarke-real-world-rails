@@ -1,0 +1,57 @@
+{
+  "createdAt": "2023-06-16T10:53:34Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "On a mission to index all Ruby events.",
+  "diskUsage": 226228,
+  "forkCount": 240,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://rubyevents.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": null,
+  "nameWithOwner": "rubyevents/rubyevents",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/601e5ae3bad0d5d9f907dbe8c32de3e33c8b9e49e93844286623f046652e9e87/rubyevents/rubyevents",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T12:43:26Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "hacktoberfest"
+    },
+    {
+      "name": "conferences"
+    },
+    {
+      "name": "events"
+    },
+    {
+      "name": "meetups"
+    },
+    {
+      "name": "ruby-conferences"
+    },
+    {
+      "name": "ruby-meetups"
+    },
+    {
+      "name": "rubyevents"
+    }
+  ],
+  "stargazerCount": 570,
+  "updatedAt": "2026-10-26T11:41:59Z",
+  "url": "https://github.com/rubyevents/rubyevents",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 5
+  }
+}

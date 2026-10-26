@@ -1,0 +1,43 @@
+{
+  "createdAt": "2009-01-29T22:30:46Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "The Ruby community's gem hosting service.",
+  "diskUsage": 30756,
+  "forkCount": 1031,
+  "hasDiscussionsEnabled": true,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://rubygems.org",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "rubygems/rubygems.org",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/f3bdb8de42c37ab7022560c803fba7cd32df7c0960a2f2b8a71b8cd71c9d0a63/rubygems/rubygems.org",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T06:48:37Z",
+  "repositoryTopics": [
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "rubygems"
+    },
+    {
+      "name": "package-manager"
+    }
+  ],
+  "stargazerCount": 2440,
+  "updatedAt": "2026-10-26T06:48:39Z",
+  "url": "https://github.com/rubygems/rubygems.org",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 96
+  }
+}

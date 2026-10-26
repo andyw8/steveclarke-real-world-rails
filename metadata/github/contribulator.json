@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-12-18T21:15:50Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": ":+1: Find open source project that are friendly and welcoming",
+  "diskUsage": 1229,
+  "forkCount": 20,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "24pullrequests/contribulator",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/d0fc7fdc0e55b42234f7a5f555478532b4e77ea8ed22b31a430098855ab99d0d/24pullrequests/contribulator",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2021-12-11T16:20:03Z",
+  "repositoryTopics": null,
+  "stargazerCount": 84,
+  "updatedAt": "2026-07-22T15:08:56Z",
+  "url": "https://github.com/24pullrequests/contribulator",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

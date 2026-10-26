@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-08-26T15:55:17Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Secrets created by kevlar.io are kept until they are accessed, they are then deleted permanently from the server.",
+  "diskUsage": 350,
+  "forkCount": 2,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "http://kevlar.io",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "adambutler/kevlar",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/e06f3e649731ecb5517e4b3d15cc3719a0973a497ec3fe273c85360ca8cd348c/adambutler/kevlar",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2015-02-03T13:19:53Z",
+  "repositoryTopics": null,
+  "stargazerCount": 56,
+  "updatedAt": "2025-04-04T03:31:22Z",
+  "url": "https://github.com/adambutler/kevlar",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2009-10-21T21:08:00Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Manage equipment loans & reservations. Who can borrow what, for how long?",
+  "diskUsage": 51302,
+  "forkCount": 56,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "yalestc.github.io/reservations",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "YaleSTC/reservations",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/41f0c26f04f936cfb67df95caabaa911a74dd5b6d4d1697317b8d2ce74b94214/YaleSTC/reservations",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2020-07-23T19:49:48Z",
+  "repositoryTopics": null,
+  "stargazerCount": 138,
+  "updatedAt": "2026-06-16T10:50:01Z",
+  "url": "https://github.com/YaleSTC/reservations",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "createdAt": "2023-12-05T22:04:48Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "A Rails, iOS, and (upcoming) Android app to track my daily habits like exercise, medication, food, and water.",
+  "diskUsage": 281,
+  "forkCount": 35,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://dailylog.ing",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "joemasilotti/daily-log",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b491da4ae128826bee315c6c7b945b080267846eb4e281666908b2204cd3fab2/joemasilotti/daily-log",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-09-06T19:32:14Z",
+  "repositoryTopics": [
+    {
+      "name": "android"
+    },
+    {
+      "name": "ios"
+    },
+    {
+      "name": "rails"
+    },
+    {
+      "name": "turbo-native"
+    }
+  ],
+  "stargazerCount": 282,
+  "updatedAt": "2026-09-06T19:32:18Z",
+  "url": "https://github.com/joemasilotti/daily-log",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 10
+  }
+}

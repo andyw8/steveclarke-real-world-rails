@@ -1,0 +1,55 @@
+{
+  "createdAt": "2018-10-18T16:53:17Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "CodeFund is an open source platform that helps fund maintainers, bloggers, and builders through non-tracking ethical ads",
+  "diskUsage": 235909,
+  "forkCount": 101,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://codefund.io",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "gitcoinco/code_fund_ads",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/153657558/933e7600-eb86-11e9-97f2-13a4b9686f72",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2020-07-30T17:20:17Z",
+  "repositoryTopics": [
+    {
+      "name": "open-source"
+    },
+    {
+      "name": "sustainability"
+    },
+    {
+      "name": "codefund"
+    },
+    {
+      "name": "advertising"
+    },
+    {
+      "name": "ethics"
+    },
+    {
+      "name": "ruby"
+    },
+    {
+      "name": "ruby-on-rails"
+    }
+  ],
+  "stargazerCount": 383,
+  "updatedAt": "2026-04-13T20:15:33Z",
+  "url": "https://github.com/gitcoinco/code_fund_ads",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 0
+  }
+}

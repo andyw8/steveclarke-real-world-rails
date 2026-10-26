@@ -1,0 +1,33 @@
+{
+  "createdAt": "2014-02-03T11:56:45Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "** Unmaintained repository! **  Accelerated Claims app",
+  "diskUsage": 19798,
+  "forkCount": 1,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "ministryofjustice/accelerated_claims",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/2295201f9f28f6bfc32cd21f5beb9198315ff67b4356a7045217ff923978c926/ministryofjustice/accelerated_claims",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2018-05-03T13:22:49Z",
+  "repositoryTopics": null,
+  "stargazerCount": 0,
+  "updatedAt": "2023-01-28T20:27:05Z",
+  "url": "https://github.com/ministryofjustice/accelerated_claims",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "createdAt": "2013-02-04T03:17:27Z",
+  "defaultBranchRef": {
+    "name": "main"
+  },
+  "description": "",
+  "diskUsage": 2778,
+  "forkCount": 2,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "collectiveidea/bender",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/b440804b53fa17a00d7735a5eeb3c6e6c6a6e05835e2591d3af6f6cde1de97cf/collectiveidea/bender",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2024-10-16T00:06:13Z",
+  "repositoryTopics": null,
+  "stargazerCount": 9,
+  "updatedAt": "2024-07-19T15:13:19Z",
+  "url": "https://github.com/collectiveidea/bender",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 6
+  }
+}

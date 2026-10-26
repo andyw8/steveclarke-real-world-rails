@@ -1,0 +1,33 @@
+{
+  "createdAt": "2011-11-08T03:27:12Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "Loomio is a collaborative decision-making tool",
+  "diskUsage": 628769,
+  "forkCount": 711,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://loomio.com",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "nickname": "GNU AGPLv3"
+  },
+  "nameWithOwner": "loomio/loomio",
+  "openGraphImageUrl": "https://repository-images.githubusercontent.com/2731301/807028e6-87ab-4e06-a0d7-8b008e3ae5bd",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-10-26T00:23:28Z",
+  "repositoryTopics": null,
+  "stargazerCount": 2619,
+  "updatedAt": "2026-10-26T08:25:06Z",
+  "url": "https://github.com/loomio/loomio",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 83
+  }
+}

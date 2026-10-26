@@ -1,0 +1,61 @@
+{
+  "createdAt": "2016-09-15T23:36:19Z",
+  "defaultBranchRef": {
+    "name": "the-future"
+  },
+  "description": ":steam_locomotive: Rails API server for Kitsu",
+  "diskUsage": 10867,
+  "forkCount": 140,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "https://kitsu.app/api/playground",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "nickname": ""
+  },
+  "nameWithOwner": "hummingbird-me/kitsu-server",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/c931a2bcc86db345260b8d0b323e959b0f2a0f069ddd5c125446dd46a76640fa/hummingbird-me/kitsu-server",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2026-06-20T19:44:05Z",
+  "repositoryTopics": [
+    {
+      "name": "rails"
+    },
+    {
+      "name": "hummingbird"
+    },
+    {
+      "name": "api"
+    },
+    {
+      "name": "anime"
+    },
+    {
+      "name": "manga"
+    },
+    {
+      "name": "kitsu"
+    },
+    {
+      "name": "kitsu-server"
+    },
+    {
+      "name": "graphql"
+    },
+    {
+      "name": "ruby"
+    }
+  ],
+  "stargazerCount": 189,
+  "updatedAt": "2026-09-14T14:02:27Z",
+  "url": "https://github.com/hummingbird-me/kitsu-server",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 8
+  }
+}

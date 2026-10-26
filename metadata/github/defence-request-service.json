@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-01-22T17:11:39Z",
+  "defaultBranchRef": {
+    "name": "master"
+  },
+  "description": "DSDS - Defence Solicitor Request Service - Base App",
+  "diskUsage": 31304,
+  "forkCount": 4,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": true,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "mit",
+    "name": "MIT License",
+    "nickname": ""
+  },
+  "nameWithOwner": "ministryofjustice/defence-request-service",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/bae1b6f3546e3dd4ef5f148b2059ab0c16efbdfa532c627290033fe24b90bf3e/ministryofjustice/defence-request-service",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2015-06-29T09:06:57Z",
+  "repositoryTopics": null,
+  "stargazerCount": 1,
+  "updatedAt": "2023-01-28T14:34:44Z",
+  "url": "https://github.com/ministryofjustice/defence-request-service",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 0
+  }
+}

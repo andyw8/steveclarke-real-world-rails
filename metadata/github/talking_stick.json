@@ -1,0 +1,33 @@
+{
+  "createdAt": "2015-05-10T19:24:51Z",
+  "defaultBranchRef": {
+    "name": "develop"
+  },
+  "description": "Rails Engine providing easy WebRTC group communication",
+  "diskUsage": 1033,
+  "forkCount": 28,
+  "hasDiscussionsEnabled": false,
+  "hasIssuesEnabled": true,
+  "homepageUrl": "",
+  "isArchived": false,
+  "isFork": false,
+  "licenseInfo": {
+    "key": "other",
+    "name": "Other",
+    "nickname": ""
+  },
+  "nameWithOwner": "mojolingo/talking_stick",
+  "openGraphImageUrl": "https://opengraph.githubassets.com/00d5afd8591eb3baffc39cfe131ce10508afdcee338c2bf9adc7cfd426657e28/mojolingo/talking_stick",
+  "primaryLanguage": {
+    "name": "Ruby"
+  },
+  "pushedAt": "2018-02-14T21:40:12Z",
+  "repositoryTopics": null,
+  "stargazerCount": 60,
+  "updatedAt": "2023-05-03T01:15:36Z",
+  "url": "https://github.com/mojolingo/talking_stick",
+  "visibility": "PUBLIC",
+  "watchers": {
+    "totalCount": 14
+  }
+}

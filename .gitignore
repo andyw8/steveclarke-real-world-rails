@@ -1,4 +1,5 @@
 /.bundle
 /analyses/*
 !/analyses/.keep
+/site/repos.sqlite
 .DS_Store

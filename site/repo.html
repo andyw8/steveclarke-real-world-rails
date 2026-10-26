@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Repository · Real World Rails</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main>
+      <a class="back" href="./">← All repositories</a>
+
+      <p class="status" id="status">Loading…</p>
+
+      <header>
+        <div class="title-row">
+          <h1 id="repo-name"></h1>
+          <div class="chips" id="repo-badges"></div>
+        </div>
+        <p class="lede" id="repo-description"></p>
+      </header>
+
+      <div class="actions">
+        <a
+          class="button"
+          id="github-link"
+          href="#"
+          target="_blank"
+          rel="noopener"
+        >View on GitHub ↗</a>
+        <a
+          class="button"
+          id="homepage-link"
+          href="#"
+          target="_blank"
+          rel="noopener"
+          hidden
+        >Homepage ↗</a>
+      </div>
+
+      <div class="stats" id="stats"></div>
+
+      <section id="topics-section" hidden>
+        <h2>Topics</h2>
+        <div class="chips" id="topics"></div>
+      </section>
+
+      <section id="contents">
+        <h2>Rails contents</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Type</th>
+                <th>Path</th>
+                <th>Ruby</th>
+                <th>Rails</th>
+                <th>Gemfile.lock</th>
+                <th>Stimulus</th>
+                <th>Last commit</th>
+              </tr>
+            </thead>
+            <tbody id="contents-body"></tbody>
+          </table>
+        </div>
+        <p class="status" id="contents-empty" hidden>
+          No Rails app or engine detected in this repository.
+        </p>
+      </section>
+
+      <section>
+        <h2>Repository details</h2>
+        <dl class="details" id="details"></dl>
+      </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/sql.js@1.13.0/dist/sql-wasm.js"></script>
+    <script type="module" src="repo.js"></script>
+  </body>
+</html>

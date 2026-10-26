@@ -65,6 +65,7 @@ If you want to update all submodules to the absolute latest right now (without w
 - **`bin/github-metadata`** — Fetch each repo's GitHub metadata (stars, forks, topics, license, timestamps, etc.) with the `gh` CLI and save it to `metadata/github/*.json` (requires `gh` CLI; skips existing files and parallelizes requests)
 - **`bin/add`** — Add a new app or engine by GitHub URL (e.g. `bin/add https://github.com/user/repo`)
 - **`bin/verify`** — Check that each submodule repo still exists on GitHub and hasn't been moved or renamed (requires `gh` CLI)
+- **`bin/site`** — Build `site/repos.sqlite` from the metadata and serve the repository browser at http://localhost:8000
 
 ## Contributing
 

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Real World Rails</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main>
+      <h1>Real World Rails</h1>
+
+      <div class="layout">
+        <aside class="sidebar">
+          <fieldset class="controls" id="controls" disabled>
+            <div class="control">
+              <label class="control-label" for="filter">Search</label>
+              <input
+                type="search"
+                id="filter"
+                placeholder="Name, path, topic…"
+              >
+            </div>
+
+            <div class="control" role="group" aria-labelledby="kind-label">
+              <span class="control-label" id="kind-label">Type</span>
+              <label class="radio">
+                <input type="radio" name="kind" value="all" checked>
+                All repositories
+              </label>
+              <label class="radio">
+                <input type="radio" name="kind" value="app">
+                Apps
+              </label>
+              <label class="radio">
+                <input type="radio" name="kind" value="engine">
+                Engines
+              </label>
+            </div>
+
+            <div class="control">
+              <label class="control-label" for="sort">Sort by</label>
+              <select id="sort">
+                <option value="stars">Most stars</option>
+                <option value="forks">Most forks</option>
+                <option value="name">Name (A–Z)</option>
+                <option value="updated">Recently updated</option>
+                <option value="rails">Newest Rails</option>
+              </select>
+            </div>
+
+            <div class="control">
+              <label class="control-label" for="min-rails">Rails version</label>
+              <select id="min-rails">
+                <option value="any">Any version</option>
+              </select>
+            </div>
+
+            <div class="control">
+              <label class="checkbox">
+                <input type="checkbox" id="hide-archived">
+                Hide archived
+              </label>
+            </div>
+          </fieldset>
+
+          <button type="button" class="reset" id="reset" hidden>Reset</button>
+          <p class="status" id="status">Loading…</p>
+        </aside>
+
+        <div class="results">
+          <ul class="repository-list" id="repos"></ul>
+        </div>
+      </div>
+
+      <p class="footer">
+        Rails contents from local checkouts; stars, topics, and repository
+        details from the GitHub API.
+      </p>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/sql.js@1.13.0/dist/sql-wasm.js"></script>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

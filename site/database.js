@@ -1,4 +1,5 @@
-const SQLJS_DIST = "https://cdn.jsdelivr.net/npm/sql.js@1.13.0/dist/";
+// Vendored from sql.js 1.13.0 (MIT); see vendor/sql.js/LICENSE.
+const SQLJS_DIST = new URL("vendor/sql.js/", import.meta.url).href;
 const DATABASE_URL = new URL("repos.sqlite", import.meta.url);
 
 let databasePromise;

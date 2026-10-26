@@ -67,6 +67,13 @@ If you want to update all submodules to the absolute latest right now (without w
 - **`bin/verify`** — Check that each submodule repo still exists on GitHub and hasn't been moved or renamed (requires `gh` CLI)
 - **`bin/site`** — Build `site/repos.sqlite` from the metadata and serve the repository browser at http://localhost:8000
 
+## Repository browser
+
+`site/` contains a static browser for the repositories, backed by a SQLite database built from `metadata/` and `metadata/github/`. `bin/site` builds the database and serves the site locally.
+
+On every push to `main`, the `Deploy site` workflow builds the database and publishes `site/` to GitHub Pages. Enable it under **Settings → Pages → Source: GitHub Actions**.
+
+
 ## Contributing
 
 Know of a great open source Rails app that should be in here? The easiest way is to [open an issue](https://github.com/steveclarke/real-world-rails/issues/new) with the GitHub URL and we'll add it.

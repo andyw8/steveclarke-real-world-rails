@@ -71,7 +71,7 @@ If you want to update all submodules to the absolute latest right now (without w
 
 `site/` contains a static browser for the repositories, backed by a SQLite database built from `metadata/` and `metadata/github/`. `bin/site` builds the database and serves the site locally.
 
-On every push to `main`, the `Deploy site` workflow builds the database and publishes `site/` to GitHub Pages. Enable it under **Settings → Pages → Source: GitHub Actions**.
+On every push to the `add-repo-metadata` branch, the `Deploy site` workflow builds the database and publishes `site/` to GitHub Pages. Enable it under **Settings → Pages → Source: GitHub Actions**.
 
 
 ## Contributing

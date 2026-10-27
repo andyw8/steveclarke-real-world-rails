@@ -1,8 +1,9 @@
 name: Deploy site
 
 on:
+  # Deploy from this branch instead of main. Switch to main after merging.
   push:
-    branches: [main]
+    branches: [add-repo-metadata]
   workflow_dispatch:
 
 permissions:
